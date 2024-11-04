@@ -1,1 +1,1 @@
-type::
+type:: [[Class]]
