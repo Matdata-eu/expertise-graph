@@ -1,5 +1,7 @@
-- Welcome to my expertise graph. This website is a knowledge graph. Is this your first graph experience? Don't worry, i
-- #[[Featured roles]]
-- #[[Featured talks]]
-- #[[Featured projects]]
+- Welcome to my expertise graph. This website is a knowledge graph. Is this your first graph experience? Don't worry, it's very similar to any other website. The data is just linked, so be sure to click through and follow the data.
+- Here are some interesting starting pages
+	- #[[Featured roles]]
+	- #[[Featured talks]]
+	- #[[Featured projects]]
+	-
 -
