@@ -1,8 +1,8 @@
 - Welcome to my expertise graph. This website is a knowledge graph. Is this your first graph experience? Don't worry, it's very similar to any other website. The data is just linked, so be sure to click through and follow the data.
-- The goal of this graph is to prove my expertise according to different axes in an interactive way. Something you would also find in a resumé. The added value can be found in
-- Here are some interesting starting pages
+- The goal of this graph is to prove my expertise according to different axes in an interactive way. Something you would also find in a resume. The added value can be found in the fact that here I can go into details with for example screenshots and testimonials.
+- Some interesting starting pages
 	- #[[Featured roles]]
 	- #[[Featured talks]]
 	- #[[Featured projects]]
 	- #[[Featured techniques]]
--
+- Be sure to check the graph view
