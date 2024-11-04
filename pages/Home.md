@@ -7,4 +7,5 @@
 	- #[[Featured talks]]
 	- #[[Featured projects]]
 	- #[[Featured techniques]]
-- Be sure to check the graph view
+- Be sure to check the graph view for inspiration!
+- This graph is under construction.

@@ -4,7 +4,7 @@
 - DevOps engineer
 - Data analyst
 - Data architect
-- Data
+- Ontologist
 - EIM ENE Speaker
 - BEC-CEB Chairman TC9
 - Ambassador
@@ -13,4 +13,3 @@
 - Engineer overhead contact line
 - Company representative
 - National representative CENELEC technical committees TC9, TC9X, SC9XC
--
