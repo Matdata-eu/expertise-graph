@@ -3,5 +3,11 @@
 	- Python
 	- Java
 	- PHP
+	- VBA
 - Databases
-	- Postgresql (+PostGIS +PgRout)
+	- Postgresql (+PostGIS +PgRouting)
+	- Oracle
+- Data analytics
+	- Power Query (Excel / PowerBI)
+	-
+	- Qlikview
