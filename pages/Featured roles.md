@@ -1,4 +1,8 @@
 - EIM ENE Speaker
 - BEC-CEB Chairman TC9
 - Ambassador
+- SPOC data for department of 9000 employees
+- Teamlead data centricity
+- Engineer overhead contact line
+- Company representative
 -
