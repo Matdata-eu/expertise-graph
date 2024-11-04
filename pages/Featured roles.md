@@ -5,4 +5,4 @@
 - Teamlead data centricity
 - Engineer overhead contact line
 - Company representative
--
+- National representative CENELEC technical committees TC9, TC9X, SC9XC
