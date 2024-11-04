@@ -1,0 +1,4 @@
+- Topologie to be
+- Enterprise data model
+- Enterprise data governance model
+-
