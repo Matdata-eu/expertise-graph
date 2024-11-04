@@ -1,3 +1,7 @@
-- C# .NET
-- Python
--
+- Programming languages
+	- C# .NET
+	- Python
+	- Java
+	- PHP
+- Databases
+	- Postgresql (+PostGIS +PgRout)
