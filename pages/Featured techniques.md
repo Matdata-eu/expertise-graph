@@ -30,7 +30,7 @@
 		- Protege
 		- SPARQL Anything
 		- RMLMapper
-		-
+		- Ontop
 - GIS
 	- QGIS
 	- AutoCAD Map 3D
