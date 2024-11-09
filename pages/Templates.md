@@ -11,9 +11,7 @@
 	  template-including-parent:: false
 		- public:: true
 		  type:: Role
-		  tagged-techniques:: 
-		  tagged-roles:: 
-		  linked-projects::
+		  is_featured::
 - Techniques
 	- template:: Technique
 	  template-including-parent:: false
