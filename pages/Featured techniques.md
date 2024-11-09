@@ -7,6 +7,9 @@
 - Databases
 	- Postgresql (+PostGIS +PgRouting)
 	- Oracle
+	- MSSQL
+	- MySQL
+	- MS Access
 - Data analytics
 	- Power Query (Excel / PowerBI)
 	- PowerBI
@@ -14,6 +17,12 @@
 - Semantic technologies
 	- RDF
 	- SPARQL
+	- SHACL
+	- OWL
+	- SKOS
+	- RML/YARRRML
+	- Triple store
+- Microsoft office
 	-
 - Data: every aspect of data. Data modelling, processes, analytics, ... High to low level.
   •
