@@ -3,5 +3,3 @@ type:: Technique
 self-estimated-proficiency:: Intermediate
 is-featured:: No
 has-category:: ERP
-
-- As a user
