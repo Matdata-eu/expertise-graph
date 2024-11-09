@@ -37,6 +37,11 @@
 	- #QGIS
 	- #[[AutoCAD Map 3D]]
 	- #MapInfo
+- Frameworks
+	- #Django
+	- #Angular
+	- #VueJs
+	-
 - General
 	- #SSH
 	- #Docker
