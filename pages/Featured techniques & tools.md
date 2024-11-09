@@ -32,19 +32,20 @@
 		- #RMLMapper
 		- #[[SHACL Play]]
 		- #Ontop
-	- SOLID
+	- #SOLID
 - GIS
-	- QGIS
-	- AutoCAD Map 3D
-	- MapInfo
+	- #QGIS
+	- #[[AutoCAD Map 3D]]
+	- #MapInfo
 - General
-	- SSH
-	- Docker
-	- Devops CI/CD
-	- Git
+	- #SSH
+	- #Docker
+	- #[[Devops CI/CD]]
+	- #Git
 - IaaS
-	- Azure
+	- #Azure
 	- Openshfit
 	- Kubernetes
 - Other
-	- Ms Project
+	- #[[Ms Project]]
+	- #ODK
