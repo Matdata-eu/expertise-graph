@@ -1,8 +1,8 @@
 - Programming languages
 	- #[[C# .NET]]
-	- Python
-	- Java
-	- PHP
+	- #Python
+	- #Java
+	- #PHP
 	- VBA
 - Databases
 	- Postgresql (+PostGIS +PgRouting)
