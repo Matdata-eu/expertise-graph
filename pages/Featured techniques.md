@@ -22,8 +22,17 @@
 	- SKOS
 	- RML/YARRRML
 	- Triple store
-- Microsoft office
-	-
+- GIS
+	- QGIS
+	- AutoCAD Map 3D
+	- MapInfo
+- General
+	- SSH
+	- Docker
+	- Devops CI/CD
+	- Git
+- IaaS
+-
 - Data: every aspect of data. Data modelling, processes, analytics, ... High to low level.
   •
   Linked data technologies (RDF, SPARQL, SHACL, OWL, SKOS, RML, triple stores ...)
