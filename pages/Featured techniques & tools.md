@@ -58,7 +58,7 @@
 	- #[[Apache nifi]]
 - ERP
 	- #[[SAP PM]]
-	  #[[SAP PS]]
+	- #[[SAP PS]]
 	- #[[SAP CO]]
 	- #[[SAP MM]]
 	- #[[SAP SCM]]
