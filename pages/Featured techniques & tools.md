@@ -31,6 +31,7 @@
 		- SPARQL Anything
 		- RMLMapper
 		- Ontop
+	- SOLID
 - GIS
 	- QGIS
 	- AutoCAD Map 3D
