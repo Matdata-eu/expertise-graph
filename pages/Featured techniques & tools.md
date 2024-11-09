@@ -1,16 +1,19 @@
 - Programming languages
+  collapsed:: true
 	- [[C# .NET]]
 	- #Python
 	- #Java
 	- #PHP
 	- #VBA
 - Databases
+  collapsed:: true
 	- #Postgresql (+ #PostGIS + #PgRouting )
 	- #Oracle
 	- #MSSQL
 	- #MySQL
 	- #[[MS Access]]
 - Data analytics
+  collapsed:: true
 	- #[[Power Query]] (#Excel / #PowerBI )
 	- #PowerBI
 	- #Qlikview
