@@ -44,8 +44,8 @@
 	- #Git
 - IaaS
 	- #Azure
-	- Openshfit
-	- Kubernetes
+	- #Openshfit
+	- #Kubernetes
 - Other
 	- #[[Ms Project]]
 	- #ODK
