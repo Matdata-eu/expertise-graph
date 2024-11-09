@@ -14,6 +14,7 @@
 	- #[[Power Query]] (#Excel / #PowerBI)
 	- #PowerBI
 	- #Qlikview
+	- #SAS
 - Semantic technologies
 	- #RDF
 	- #SPARQL
@@ -37,11 +38,12 @@
 	- #QGIS
 	- #[[AutoCAD Map 3D]]
 	- #MapInfo
-- Frameworks
+- Web frameworks
 	- #Django
 	- #Angular
 	- #VueJs
-	-
+- #ERP
+	- #SAP
 - General
 	- #SSH
 	- #Docker
