@@ -19,9 +19,7 @@
 	  template-including-parent:: false
 		- public:: true
 		  type:: Technique
-		  tagged-techniques:: 
-		  tagged-roles:: 
-		  linked-projects::
+		  self-estimated-proficiency:: 
 		  is_featured::
 - Talks
 	- template:: Talk
