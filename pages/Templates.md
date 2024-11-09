@@ -27,6 +27,6 @@
 	  template-including-parent:: false
 		- public:: true
 		  type:: Talk
-		  tagged-techniques:: 
-		  tagged-roles:: 
-		  linked-projects::
+		  subject:: 
+		  audience-size:: 
+		  audience-type::
