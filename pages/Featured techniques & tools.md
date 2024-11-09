@@ -22,15 +22,16 @@
 	- #SKOS
 	- #RML/YARRRML
 	- Triple stores
-		- Jena
-		- Virtuoso
-		- GraphDB
+		- #[[Apache Jena Fuseki]]
+		- #Virtuoso
+		- #GraphDB
 	- Tools
-		- Widoco
-		- Protege
-		- SPARQL Anything
-		- RMLMapper
-		- Ontop
+		- #Widoco
+		- #Protege
+		- #[[SPARQL Anything]]
+		- #RMLMapper
+		- #[[SHACL Play]]
+		- #Ontop
 	- SOLID
 - GIS
 	- QGIS
