@@ -23,6 +23,7 @@
 	- #OWL
 	- #SKOS
 	- #RML/YARRRML
+	- #GeoSPARQL
 	- Triple stores
 		- #[[Apache Jena Fuseki]]
 		- #Virtuoso
@@ -90,4 +91,3 @@
 	- #SKOS
 	- #[[schema.org]]
 	- #QUDT
-	-
