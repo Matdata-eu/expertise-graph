@@ -47,8 +47,8 @@
 	- #Django
 	- #Angular
 	- #VueJs
-	- #Apache Spark
-	- #Apache
+	- #[[Apache Spark]]
+	- #[[Apache nifi]]
 - #ERP
 	- #SAP
 - DevOps
@@ -74,4 +74,5 @@
 	- #Nginx
 	- #Caddy
 	- #IIS
-	- #Apache
+	- #[[Apache http server]]
+-
