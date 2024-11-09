@@ -41,10 +41,12 @@
 		- #Ontop
 	- #SOLID
 - Data frameworks
+  collapsed:: true
 	- #Airflow
 	- #Loki
 	- #Prometheus
 - GIS
+  collapsed:: true
 	- #QGIS
 	- #[[AutoCAD Map 3D]]
 	- #MapInfo
