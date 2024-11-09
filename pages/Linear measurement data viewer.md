@@ -1,7 +1,7 @@
+public:: true
 tagged-techniques:: #[[C# .NET]]
-tagged-roles::
+tagged-roles:: 
+linked-projects::
 
-- public:: true
-  tagged-techniques:: 
-  tagged-roles:: 
-  linked-projects::
+-
+-
