@@ -34,6 +34,8 @@
 		- #[[SHACL Play]]
 		- #Ontop
 	- #SOLID
+- Data frameworks
+	- #Airflow
 - #GIS
 	- #QGIS
 	- #[[AutoCAD Map 3D]]
@@ -49,6 +51,8 @@
 	- #Docker
 	- #[[Devops CI/CD]]
 	- #Git
+	- #Devcontainers
+	-
 - IaaS
 	- #Azure
 	- #Openshfit
