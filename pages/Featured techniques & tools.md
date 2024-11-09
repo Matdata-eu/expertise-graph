@@ -65,6 +65,7 @@
 	- #[[SAP MM]]
 	- #[[SAP SCM]]
 - DevOps
+  collapsed:: true
 	- #Docker
 	- #[[Gitlab CI/CD]]
 	- #[[Github actions]]
@@ -73,6 +74,7 @@
 	- #[[Helm charts]]
 	- #MQTT
 - Networking
+  collapsed:: true
 	- #SSH
 	- #VPN
 	- #[[Reverse proxy]]
