@@ -73,9 +73,13 @@
 	- #Cloudflare
 - Sensors & measurements
 	- #NTP
-	-
+	- #DSMR
+	- #GNSS
+	- #IMU
+	- #Odometry
 - Webservers
 	- #Nginx
 	- #Caddy
 	- #IIS
 	- #[[Apache http server]]
+-
