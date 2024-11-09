@@ -2,4 +2,6 @@ public:: true
 type:: Technique
 self-estimated-proficiency:: Advanced
 is_featured:: Yes
-has-category:: GIS & Topology
+has-category:: Databases
+
+-

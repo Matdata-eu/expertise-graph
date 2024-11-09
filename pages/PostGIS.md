@@ -2,4 +2,4 @@ public:: true
 type:: Technique
 self-estimated-proficiency:: Expert
 is_featured:: Yes
-has-category:: GIS
+has-category:: GIS & Topology
