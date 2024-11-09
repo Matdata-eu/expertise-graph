@@ -61,6 +61,7 @@
 	  #[[SAP PS]]
 	- #[[SAP CO]]
 	- #[[SAP MM]]
+	- #[[SAP SCM]]
 - DevOps
 	- #Docker
 	- #[[Gitlab CI/CD]]
