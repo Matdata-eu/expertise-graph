@@ -56,7 +56,7 @@
 	- #VueJs
 	- #[[Apache Spark]]
 	- #[[Apache nifi]]
-- #ERP
+- ERP
 	- #SAP
 - DevOps
 	- #Docker
