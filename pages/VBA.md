@@ -1,5 +1,5 @@
 public:: true
 type:: Technique
-self-estimated-proficiency:: 
-is_featured::
-has-category::
+self-estimated-proficiency:: Advanced
+is_featured:: Yes
+has-category:: Programming languages
