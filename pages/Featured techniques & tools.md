@@ -6,9 +6,9 @@
 	- #VBA
 - Databases
 	- #Postgresql (+ #PostGIS + #PgRouting)
-	- Oracle
-	- MSSQL
-	- MySQL
+	- #Oracle
+	- #MSSQL
+	- #MySQL
 	- MS Access
 - Data analytics
 	- Power Query (Excel / PowerBI)
