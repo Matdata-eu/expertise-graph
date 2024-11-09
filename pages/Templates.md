@@ -1,10 +1,10 @@
 - Project
-	- template:: Application
+	- template:: Project
 	  template-including-parent:: false
-		-
 		- public:: true
 		  tagged-techniques:: 
-		  tagged-role
+		  tagged-roles:: 
+		  linked-projects::
 - Role
 - Techniques
 - Talks
