@@ -52,7 +52,7 @@
 	- #[[Devops CI/CD]]
 	- #Git
 	- #Devcontainers
-	-
+	- #[[Helm charts]]
 - IaaS
 	- #Azure
 	- #Openshfit
@@ -60,3 +60,6 @@
 - Other
 	- #[[Ms Project]]
 	- #ODK
+	- #OpenHAB
+	- #Nextcloud
+	-
