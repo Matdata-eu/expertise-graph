@@ -1,5 +1,5 @@
 public:: true
 type:: Technique
-self-estimated-proficiency:: Expert
+self-estimated-proficiency:: Advanced
 is-featured:: Yes
 has-category:: Other

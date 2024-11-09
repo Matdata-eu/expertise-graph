@@ -80,6 +80,7 @@
 	- #[[Reverse proxy]]
 	- #[[Forward proxy]]
 	- #Firewall
+	- #Cloudflare
 - IaaS / Container orchestration
   collapsed:: true
 	- #Azure
@@ -87,12 +88,12 @@
 	- #Kubernetes
 	- #AWS
 - Other
+  collapsed:: true
 	- #[[MS Project]]
 	- #ODK
 	- #OpenHAB
 	- #Nextcloud
 	- #Logseq
-	- #Cloudflare
 - Sensors & measurements
 	- #NTP
 	- #DSMR
