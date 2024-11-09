@@ -47,6 +47,8 @@
 	- #Django
 	- #Angular
 	- #VueJs
+	- #Apache Spark
+	- #Apache
 - #ERP
 	- #SAP
 - DevOps
@@ -68,4 +70,8 @@
 	- #OpenHAB
 	- #Nextcloud
 	- #Logseq
--
+- Webservers
+	- #Nginx
+	- #Caddy
+	- #IIS
+	- #Apache
