@@ -52,7 +52,7 @@
 - #ERP
 	- #SAP
 - DevOps
-	- #SSH
+	- #SSH & #VPN
 	- #Docker
 	- #[[Gitlab CI/CD]]
 	- #[[Github actions]]
@@ -71,6 +71,9 @@
 	- #Nextcloud
 	- #Logseq
 	- #Cloudflare
+- Sensors & measurements
+	- #NTP
+	-
 - Webservers
 	- #Nginx
 	- #Caddy
