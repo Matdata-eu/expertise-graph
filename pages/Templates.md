@@ -6,11 +6,13 @@
 		  tagged-techniques:: 
 		  tagged-roles:: 
 		  linked-projects::
+		  is_featured::
 - Role
 	- template:: Role
 	  template-including-parent:: false
 		- public:: true
 		  type:: Role
+		  self-estimated-proficiency:: 
 		  is_featured::
 - Techniques
 	- template:: Technique
@@ -20,6 +22,7 @@
 		  tagged-techniques:: 
 		  tagged-roles:: 
 		  linked-projects::
+		  is_featured::
 - Talks
 	- template:: Talk
 	  template-including-parent:: false
@@ -28,3 +31,4 @@
 		  subject:: 
 		  audience-size:: 
 		  audience-type::
+		  is_featured::
