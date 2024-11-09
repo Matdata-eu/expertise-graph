@@ -88,4 +88,6 @@
 	- #RTM / #RSM
 	- #Gist
 	- #SKOS
+	- #[[schema.org]]
+	- #QUDT
 	-
