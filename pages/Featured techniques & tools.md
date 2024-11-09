@@ -9,18 +9,18 @@
 	- #Oracle
 	- #MSSQL
 	- #MySQL
-	- MS Access
+	- #[[MS Access]]
 - Data analytics
-	- Power Query (Excel / PowerBI)
-	- PowerBI
-	- Qlikview
+	- #[[Power Query]] (#Excel / #PowerBI)
+	- #PowerBI
+	- #Qlikview
 - Semantic technologies
-	- RDF
-	- SPARQL
-	- SHACL
-	- OWL
-	- SKOS
-	- RML/YARRRML
+	- #RDF
+	- #SPARQL
+	- #SHACL
+	- #OWL
+	- #SKOS
+	- #RML/YARRRML
 	- Triple stores
 		- Jena
 		- Virtuoso
