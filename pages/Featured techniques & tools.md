@@ -53,7 +53,6 @@
 - #ERP
 	- #SAP
 - DevOps
-	- #SSH & #VPN
 	- #Docker
 	- #[[Gitlab CI/CD]]
 	- #[[Github actions]]
@@ -62,7 +61,12 @@
 	- #[[Helm charts]]
 	- #MQTT
 - Networking
-	- IaaS
+	- #SSH
+	- #VPN
+	- #[[Reverse proxy]]
+	- #Firewall
+	-
+- IaaS
 	- #Azure
 	- #Openshfit
 	- #Kubernetes
