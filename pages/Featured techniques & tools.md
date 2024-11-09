@@ -51,12 +51,14 @@
 	- #[[AutoCAD Map 3D]]
 	- #MapInfo
 - Web frameworks
+  collapsed:: true
 	- #Django
 	- #Angular
 	- #VueJs
 	- #[[Apache Spark]]
 	- #[[Apache nifi]]
 - ERP
+  collapsed:: true
 	- #[[SAP PM]]
 	- #[[SAP PS]]
 	- #[[SAP CO]]
