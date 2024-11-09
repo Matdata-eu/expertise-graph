@@ -1,5 +1,5 @@
 public:: true
 type:: Technique
 self-estimated-proficiency:: Advanced beginner
-is-featured:: Yes
-has-category:: IaaS
+is-featured:: No
+has-category:: IaaS / Container orchestration

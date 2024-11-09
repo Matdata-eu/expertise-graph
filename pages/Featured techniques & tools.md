@@ -81,12 +81,13 @@
 	- #[[Forward proxy]]
 	- #Firewall
 - IaaS / Container orchestration
+  collapsed:: true
 	- #Azure
 	- #Openshfit
 	- #Kubernetes
 	- #AWS
 - Other
-	- #[[Ms Project]]
+	- #[[MS Project]]
 	- #ODK
 	- #OpenHAB
 	- #Nextcloud

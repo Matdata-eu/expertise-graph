@@ -2,4 +2,4 @@ public:: true
 type:: Technique
 self-estimated-proficiency:: Advanced
 is-featured:: Yes
-has-category:: IaaS / Container orchestration
+has-category:: Other
