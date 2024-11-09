@@ -64,7 +64,7 @@
 	- #SSH
 	- #VPN
 	- #[[Reverse proxy]]
-	- #Forward proxy]]
+	- #[[Forward proxy]]
 	- #Firewall
 	-
 - IaaS
