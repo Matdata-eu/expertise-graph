@@ -44,7 +44,7 @@
 	- #Airflow
 	- #Loki
 	- #Prometheus
-- #GIS
+- GIS
 	- #QGIS
 	- #[[AutoCAD Map 3D]]
 	- #MapInfo
