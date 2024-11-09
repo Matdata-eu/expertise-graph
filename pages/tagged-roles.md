@@ -1,4 +1,4 @@
 type:: [[Property]]
-description
+descripti
 
 -
