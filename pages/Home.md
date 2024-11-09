@@ -6,6 +6,6 @@
 	- #[[Featured roles]]
 	- #[[Featured talks]]
 	- #[[Featured projects]]
-	- #[[Featured techniques]]
+	- #[[Featured techniques & tools]]
 - Be sure to check the graph view for inspiration!
 - This graph is under construction.
