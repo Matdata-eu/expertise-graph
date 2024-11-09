@@ -11,7 +11,7 @@
 	- #MySQL
 	- #[[MS Access]]
 - Data analytics
-	- #[[Power Query]] (#Excel / #PowerBI)
+	- #[[Power Query]] (#Excel / #PowerBI )
 	- #PowerBI
 	- #Qlikview
 	- #SAS
