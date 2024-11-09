@@ -80,7 +80,7 @@
 	- #[[Reverse proxy]]
 	- #[[Forward proxy]]
 	- #Firewall
-- IaaS
+- IaaS / Container orchestration
 	- #Azure
 	- #Openshfit
 	- #Kubernetes
