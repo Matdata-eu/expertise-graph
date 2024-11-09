@@ -66,7 +66,6 @@
 	- #[[Reverse proxy]]
 	- #[[Forward proxy]]
 	- #Firewall
-	-
 - IaaS
 	- #Azure
 	- #Openshfit
