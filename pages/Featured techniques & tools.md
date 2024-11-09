@@ -95,6 +95,7 @@
 	- #Nextcloud
 	- #Logseq
 - Sensors & measurements
+  collapsed:: true
 	- #NTP
 	- #DSMR
 	- #GNSS
