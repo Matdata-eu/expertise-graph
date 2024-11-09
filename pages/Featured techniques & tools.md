@@ -20,6 +20,7 @@
 	- #SAS
 	- #Grafana
 - Semantic technologies
+  collapsed:: true
 	- #RDF
 	- #SPARQL
 	- #SHACL
