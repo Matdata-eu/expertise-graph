@@ -13,7 +13,7 @@
 		- public:: true
 		  type:: Role
 		  self-estimated-proficiency:: 
-		  is_featured::
+		  is-featured::
 - Techniques
 	- template:: Technique
 	  template-including-parent:: false
@@ -21,6 +21,7 @@
 		  type:: Technique
 		  self-estimated-proficiency:: 
 		  is_featured::
+		  has-category::
 - Talks
 	- template:: Talk
 	  template-including-parent:: false

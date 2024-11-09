@@ -49,10 +49,11 @@
 	- #VueJs
 - #ERP
 	- #SAP
-- General
+- DevOps
 	- #SSH
 	- #Docker
-	- #[[Devops CI/CD]]
+	- #[[Gitlab CI/CD]]
+	- #[[Github actions]]
 	- #Git
 	- #Devcontainers
 	- #[[Helm charts]]
@@ -66,3 +67,5 @@
 	- #ODK
 	- #OpenHAB
 	- #Nextcloud
+	- #Logseq
+-
