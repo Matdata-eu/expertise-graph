@@ -33,7 +33,7 @@
 		- #[[SHACL Play]]
 		- #Ontop
 	- #SOLID
-- GIS
+- #GIS
 	- #QGIS
 	- #[[AutoCAD Map 3D]]
 	- #MapInfo
