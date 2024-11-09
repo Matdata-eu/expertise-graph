@@ -87,4 +87,5 @@
 	- #[[ERA ontology]]
 	- #RTM / #RSM
 	- #Gist
+	- #SKOS
 	-
