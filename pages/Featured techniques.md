@@ -11,7 +11,10 @@
 	- Power Query (Excel / PowerBI)
 	- PowerBI
 	- Qlikview
--
+- Semantic technologies
+	- RDF
+	- SPARQL
+	-
 - Data: every aspect of data. Data modelling, processes, analytics, ... High to low level.
   •
   Linked data technologies (RDF, SPARQL, SHACL, OWL, SKOS, RML, triple stores ...)
