@@ -21,8 +21,16 @@
 	- OWL
 	- SKOS
 	- RML/YARRRML
-	- Triple store
-	-
+	- Triple stores
+		- Jena
+		- Virtuoso
+		- GraphDB
+	- Tools
+		- Widoco
+		- Protege
+		- SPARQL Anything
+		- RMLMapper
+		-
 - GIS
 	- QGIS
 	- AutoCAD Map 3D
