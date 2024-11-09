@@ -102,6 +102,7 @@
 	- #IMU
 	- #Odometry
 - Webservers
+  collapsed:: true
 	- #Nginx
 	- #Caddy
 	- #IIS
