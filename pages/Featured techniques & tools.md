@@ -3,9 +3,9 @@
 	- #Python
 	- #Java
 	- #PHP
-	- VBA
+	- #VBA
 - Databases
-	- Postgresql (+PostGIS +PgRouting)
+	- #Postgresql (+ #PostGIS + #PgRouting)
 	- Oracle
 	- MSSQL
 	- MySQL
