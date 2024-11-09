@@ -1,5 +1,5 @@
+-
 - Programming languages
-  collapsed:: true
 	- [[C# .NET]]
 	- #Python
 	- #Java
@@ -108,6 +108,7 @@
 	- #IIS
 	- #[[Apache http server]]
 - Data models
+  collapsed:: true
 	- #railML
 	- #[[ERA ontology]]
 	- #RTM / #RSM
