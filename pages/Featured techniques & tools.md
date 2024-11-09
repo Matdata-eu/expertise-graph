@@ -15,6 +15,7 @@
 	- #PowerBI
 	- #Qlikview
 	- #SAS
+	- #Grafana
 - Semantic technologies
 	- #RDF
 	- #SPARQL
@@ -36,6 +37,8 @@
 	- #SOLID
 - Data frameworks
 	- #Airflow
+	- #Loki
+	- #Prometheus
 - #GIS
 	- #QGIS
 	- #[[AutoCAD Map 3D]]
@@ -53,6 +56,7 @@
 	- #Git
 	- #Devcontainers
 	- #[[Helm charts]]
+	- #MQTT
 - IaaS
 	- #Azure
 	- #Openshfit
@@ -62,4 +66,3 @@
 	- #ODK
 	- #OpenHAB
 	- #Nextcloud
-	-
