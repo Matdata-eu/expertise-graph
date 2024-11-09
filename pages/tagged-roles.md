@@ -1,4 +1,4 @@
 type:: [[Property]]
-descripti
+description:: a list of roles I had during any phase of the project
 
 -
