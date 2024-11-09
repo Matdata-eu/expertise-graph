@@ -6,7 +6,7 @@
 		  tagged-techniques:: 
 		  tagged-roles:: 
 		  linked-projects:: 
-		  is_featured::
+		  is-featured::
 - Role
 	- template:: Role
 	  template-including-parent:: false
@@ -20,7 +20,7 @@
 		- public:: true
 		  type:: Technique
 		  self-estimated-proficiency:: 
-		  is_featured:: 
+		  is-featured:: 
 		  has-category::
 - Talks
 	- template:: Talk
@@ -30,4 +30,4 @@
 		  subject:: 
 		  audience-size:: 
 		  audience-type:: 
-		  is_featured::
+		  is-featured::
