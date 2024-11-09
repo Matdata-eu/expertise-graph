@@ -5,7 +5,7 @@
 	- #PHP
 	- #VBA
 - Databases
-	- #Postgresql (+ #PostGIS + #PgRouting)
+	- #Postgresql (+ #PostGIS + #PgRouting )
 	- #Oracle
 	- #MSSQL
 	- #MySQL
