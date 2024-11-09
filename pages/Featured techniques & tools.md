@@ -1,4 +1,8 @@
-- {{query (and [[Technique]])}}
+- {{query (property type "Technique")}}
+  query-table:: true
+  query-properties:: [:page :self-estimated-proficiency :is-featured :has-category]
+  query-sort-by:: has-category
+  query-sort-desc:: false
 - Programming languages
 	- [[C# .NET]]
 	- #Python
