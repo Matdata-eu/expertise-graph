@@ -1,4 +1,4 @@
--
+- {{query (and [[Technique]])}}
 - Programming languages
 	- [[C# .NET]]
 	- #Python
