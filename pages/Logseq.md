@@ -14,4 +14,4 @@ has-category:: Other
 	  #+BEGIN_IMPORTANT
 	  Other nice features
 	  #+END_IMPORTANT
--
+	- The graphs are synced over multiple devices using git
