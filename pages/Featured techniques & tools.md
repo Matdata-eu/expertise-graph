@@ -84,6 +84,7 @@
 	- #Azure
 	- #Openshfit
 	- #Kubernetes
+	- #AWS
 - Other
 	- #[[Ms Project]]
 	- #ODK
