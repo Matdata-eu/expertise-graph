@@ -57,7 +57,10 @@
 	- #[[Apache Spark]]
 	- #[[Apache nifi]]
 - ERP
-	- #SAP
+	- #[[SAP PM]]
+	  #[[SAP PS]]
+	- #[[SAP CO]]
+	- #[[SAP MM]]
 - DevOps
 	- #Docker
 	- #[[Gitlab CI/CD]]
