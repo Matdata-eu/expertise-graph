@@ -1,5 +1,5 @@
 public:: true
 type:: Technique
 self-estimated-proficiency:: Advanced
-is_featured:: Yes
+is-featured:: Yes
 has-category:: Databases

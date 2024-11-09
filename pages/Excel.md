@@ -1,5 +1,5 @@
 public:: true
 type:: Technique
 self-estimated-proficiency:: Expert
-is_featured:: Yes
+is-featured:: Yes
 has-category:: Data analytics
