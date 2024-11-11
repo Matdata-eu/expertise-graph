@@ -8,7 +8,8 @@
 - Mobile Android app for geolocated technical assistance
 - #[[Model for FTE calculation of OCL technicians]]
 - PostGIS: GIS to LRS calculation library
-- OCL sectioning management application
+- OCL sectioning (topology) management application
+- Signaling topology calculation program
 - Product owner: generic enterprise GIS tooling
 - Product owner: railway micro-topology management platform
 - Change context management application
@@ -56,5 +57,3 @@
 - Mapping train statistic on RINF data model
 - Dashboard: disk space usage measurement drives
 - Data sync tool measurement vehicle
-- OCL topology
-- Signaling topology
