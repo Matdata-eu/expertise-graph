@@ -31,7 +31,7 @@
   {:title "Job Titles"
    :query [:find (pull ?p [*])
            :in $ ?type
-           :where [[?p :type ?type]]]
+           :where [[?p :block/type ?type]]]
    :inputs ["[[Job title]]"]}
   #+END_QUERY
 -
