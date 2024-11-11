@@ -32,15 +32,6 @@
    :query [:find (pull ?p [*])
            :in $ ?type
            :where [[?p :type ?type]]]
-   :inputs ["[[Job title]]"]
-   :result-transform (fn [result]
-                       (map (fn [page]
-                              {:page-title (:name page)
-                               :start (:start page)
-                               :end (:end page)
-                               :duration (:duration page)
-                               :at-company (:at-company page)})
-                            result))
-   :heading ["Page title" "Start" "End" "Duration" "At company"]}
+   :inputs ["[[Job title]]"]}
   #+END_QUERY
 -
