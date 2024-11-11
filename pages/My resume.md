@@ -21,21 +21,5 @@
            :where
            (page-property ?p :type "Job title")]}
   #+END_QUERY
-- query-table:: false
-  #+BEGIN_QUERY
-  {:title [:h2 "Job Titles"]
-   :query [:find (pull ?p [*])
-           :where
-           (page-property ?p :type "Job title")]
-   :result-transform (fn [result]
-                       (map (fn [page]
-                              {:page-title (:name page)
-                               :start (:start page)
-                               :end (:end page)
-                               :duration (:duration page)
-                               :at-company (:at-company page)})
-                            result))
-   :heading ["Page title" "Start" "End" "Duration" "At company"]}}
-  #+END_QUERY
 - {{query (page-property :type [[Job title]])}}
   query-properties:: [:page :start :end :duration :at-company :description :linked-roles :created-at :updated-at]
