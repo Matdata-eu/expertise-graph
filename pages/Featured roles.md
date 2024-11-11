@@ -1,5 +1,3 @@
-- General
-	- #[[Ambassador]]
 - Data & IT related
 	- #[[Business analyst]]
 	- #[[Developper]]
@@ -7,12 +5,11 @@
 	- #[[Data analyst]]
 	- #[[Data architect]]
 	- #[[Ontologist]]
-- Leading
-	- #[[Teamlead data centricity]]
+- Leading roles
+	- #[[Teamlead]]
 	- #[[Project lead]]
 	- #[[Sector representative]]
 	- #[[Company representative]]
 	- #[[National representative]]
 	- #[[SPOC data for department of 9000 employees]]
-	-
 - #[[Engineer overhead contact line]]
