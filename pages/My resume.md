@@ -28,10 +28,8 @@
    :heading ["Page title" "Start" "End" "Duration" "At company"]}
   #+END_QUERY
 - #+BEGIN_QUERY
-  {:title "Job Titles"
+  {:title [:h2 "Job Titles"]
    :query [:find (pull ?p [*])
-           :in $ ?type
-           :where [[?p :block/type ?type]]]
-   :inputs ["[[Job title]]"]}
+           :where
+           (property ?p :type "Job title")]}
   #+END_QUERY
--
