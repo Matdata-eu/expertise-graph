@@ -1,6 +1,6 @@
 type:: [[Job title]]
-start:: 07/2008
-end:: 09/2008
+start:: 2008-07
+end:: 2008-09
 duration:: 0,2 years
 at-company:: #[[Elia]]
 description:: 
