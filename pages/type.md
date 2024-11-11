@@ -1,5 +1,5 @@
 exclude-from-graph-view:: true
-type:: [[Property]]
+type:: #[[Property]]
 description:: is of
 
 -

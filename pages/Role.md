@@ -1,3 +1,3 @@
 exclude-from-graph-view:: false
-type:: [[Class]]
+type:: #[[Class]]
 description:: the responsibilities taken in the project or job

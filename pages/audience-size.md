@@ -1,3 +1,3 @@
 exclude-from-graph-view:: true
-type:: [[Property]]
+type:: #[[Property]]
 description:: estimated number of people reached live
