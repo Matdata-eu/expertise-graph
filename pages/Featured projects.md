@@ -67,3 +67,5 @@
 - Quartely peak power
 - Energy storage calculation sheet
 - Home automation system
+- ERA RINF Chatbot
+-
