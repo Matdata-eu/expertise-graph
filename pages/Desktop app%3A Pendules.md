@@ -5,5 +5,3 @@ has-tagged-roles::
 has-linked-projects:: 
 is-featured:: Yes
 during-job:: #[[Engineer overhead contact line]]
-
-- Voronoi
