@@ -1,18 +1,4 @@
-- Data & IT related
-	- #[[Business analyst]]
-	- #[[Developper]]
-	- #[[DevOps engineer]]
-	- #[[Data analyst]]
-	- #[[Data architect]]
-	- #[[Ontologist]]
-- Leading roles
-	- #[[Teamlead]]
-	- #[[Project lead]]
-	- #[[Sector representative]]
-	- #[[Company representative]]
-	- #[[National representative]]
-	- #[[SPOC data for department of 9000 employees]]
-	- #Teacher
-- #[[Engineer overhead contact line]]
 - {{query (and (page-property :type "Role") (not (page-property :is-featured "No")))}}
   query-properties:: [:page :self-estimated-proficiency :category]
+  query-sort-by:: created-at
+  query-sort-desc:: false
