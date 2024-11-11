@@ -42,4 +42,5 @@
 - Product owner: work management system OCL
 - Webapp: OCL safety sheets
 - Inventory: OCL auxiliary tracks
+- Out of tension digital request system
 -
