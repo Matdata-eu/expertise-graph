@@ -2,4 +2,5 @@
 - Long running queries
 - Matview refresh
 - Table copy
+	- kerberos
 - Query executor

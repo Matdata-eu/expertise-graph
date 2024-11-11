@@ -66,3 +66,4 @@
 - Shelter GIS position management system
 - Quartely peak power
 - Energy storage calculation sheet
+- Home automation system
