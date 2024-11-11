@@ -4,20 +4,4 @@ end::
 duration:: tbd
 at-company:: #[[Matdata]]
 description:: data consulting services for railway companies
-linked-roles:: #[[Project lead]] #[[Data architect]] #[[Data analyst]]
-
-- #[[Business analyst]]
-- #[[Developper]]
-- #[[DevOps engineer]]
-- #[[Data analyst]]
-- #[[Data architect]]
-- #[[Ontologist]]
-- Leading roles
-	- #[[Teamlead]]
-	- #[[Project lead]]
-	- #[[Sector representative]]
-	- #[[Company representative]]
-	- #[[National representative]]
-	- #[[SPOC data for department of 9000 employees]]
-	- #Teacher
-- #[[Engineer overhead contact line]]
+linked-roles:: #Ontologist #[[Project lead]] #[[Data architect]] #[[Data analyst]] #[[Business analyst]] #Developper #[[DevOps engineer]] #Ontologist
