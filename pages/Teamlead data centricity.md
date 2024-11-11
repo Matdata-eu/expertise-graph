@@ -1,6 +1,6 @@
 type:: [[Job title]]
-start:: 04/2022
-end:: 02/2025
+start:: 2022-04
+end:: 2025-02
 duration:: ~3-years
 at-company:: #[[Infrabel]]
 description::

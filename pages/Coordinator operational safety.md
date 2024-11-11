@@ -1,6 +1,6 @@
 type:: [[Job title]]
-start:: 09/2009
-end:: 03/2010
+start:: 2009-09
+end:: 2010-03
 duration:: 0,5 years
 at-company:: #[[Infrabel]]
 description::
