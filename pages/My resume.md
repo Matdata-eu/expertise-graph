@@ -34,5 +34,6 @@
                                :end (:end page)
                                :duration (:duration page)
                                :at-company (:at-company page)})
-                            result))}
+                            result))
+   :heading ["Page title" "Start" "End" "Duration" "At company"]}}
   #+END_QUERY
