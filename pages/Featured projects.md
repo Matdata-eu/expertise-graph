@@ -62,4 +62,5 @@
 - Thematic layers for GIS reporting
 - #[[Polygon generation for EBP posts]]
 - Desktop app: Pendules
-- Data cube: linear as
+- Data cube: linear phenomena's
+- Shelter GIS position management system
