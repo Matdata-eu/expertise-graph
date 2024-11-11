@@ -1,4 +1,6 @@
 - Below you find a classic resume
 	- #[[Teamlead data centricity]]
 	- #[[Project lead digitalisation linear assets]]
+	- #[[Project lead SMILE 2.0]]
+	-
 -

@@ -37,9 +37,9 @@ exclude-from-graph-view:: true
 	- template:: Job
 	  template-including-parent:: false
 		- type:: [[Job title]]
-		  start:: 01/2020
-		  end:: 04/2022
-		  duration:: ~2 years
-		  company:: Infrabel
+		  start:: 
+		  end:: 
+		  duration:: ~ years
+		  company:: 
 		  description:: 
-		  linked-roles:: #[[Project lead]]
+		  linked-roles::
