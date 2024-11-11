@@ -1,6 +1,4 @@
-- {{query (and (page-property :type "Technique") (not))}}
-- {{query (and (property type "Technique") (not (property :is-featured "No")))}}
-  query-table:: true
+- {{query (and (page-property :type "Technique") (not (page-property :is-featured "No")))}}
+  query-properties:: [:has-category :page :self-estimated-proficiency]
   query-sort-by:: has-category
   query-sort-desc:: false
-  query-properties:: [:has-category :type :self-estimated-proficiency :is-featured]
