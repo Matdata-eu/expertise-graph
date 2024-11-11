@@ -7,5 +7,6 @@
 	- #[[Featured roles]]
 	- #[[Featured talks]]
 	- #[[Featured techniques & tools]]
+	- #[[My resume]]
 - Be sure to check the graph view for inspiration!
 - This graph is under construction.
