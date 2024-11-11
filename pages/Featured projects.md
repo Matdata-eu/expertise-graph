@@ -14,4 +14,8 @@
 - Design revision comparison
 - Train alert system
 - Setup PMO office
-- Setup sproject reporting
+- Setup strategic project reporting
+- Asset360
+- SAPEX
+- Enterprise data governance model
+-
