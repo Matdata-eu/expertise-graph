@@ -27,4 +27,5 @@
 - Location measurement system for measurement train
 - Contact wire thickness measurement system
 - Location post processing system for railway vehicles
--
+- Visual inspection system for OCL
+- Inventory
