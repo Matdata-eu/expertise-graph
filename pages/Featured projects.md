@@ -15,7 +15,7 @@
 - Design revision comparison
 - Train alert system
 - Setup PMO office
-- Setup strategic project reporting
+- #[[Strategic project reporting]]
 - Asset360
 - SAPEX
 - OCL maintenance KPI's
@@ -53,4 +53,5 @@
 - #[[Pantograph shock detection system]]
 - #[[Automated data pipelines]]
 - #[[Post processing of binary linear measurement file]]
-- Train st
+- Mapping train statistic on RINF data model
+-
