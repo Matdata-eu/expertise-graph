@@ -15,3 +15,4 @@
   #+END_NOTE
 - The structured data of this graph is available in RDF
 	- LATER Add link to rdf
+- {{query }}
