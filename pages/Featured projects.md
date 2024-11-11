@@ -10,4 +10,6 @@
 - OCL sectioning management application
 - Product owner: generic enterprise GIS tooling
 - Product owner: railway micro-topology management platform
+- Change context management application
+- Design revision comparison
 -
