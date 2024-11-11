@@ -35,4 +35,5 @@
 - User friendly UI for lidar measurements
 - Mobile time registration system with NFC badges
 - Webapp train protection system
-- Data
+- Data integration: operational platform & track length
+-
