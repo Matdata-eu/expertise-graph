@@ -46,4 +46,5 @@
 - Out of service planning consolidation system
 - OCL stability design principles
 - OCL freespace design principles
+- Lightning detection alerting system
 -
