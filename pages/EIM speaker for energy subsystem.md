@@ -1,7 +1,7 @@
 type:: [[Job title]]
-start:: 
-end:: 
-duration:: ~ years
-at-company:: 
+start:: 01/2013
+end:: 09/2017
+duration:: 5 years
+at-company:: #EIM
 description:: 
-linked-roles::
+linked-roles:: #[[Company representative]]
