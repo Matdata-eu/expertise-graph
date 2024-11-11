@@ -48,4 +48,4 @@
 - OCL freespace design principles
 - Lightning detection alerting system
 - Contact wire uplift measurement system
--
+- Generic business rules validation system on linear measurements
