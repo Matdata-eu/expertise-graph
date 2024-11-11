@@ -7,4 +7,6 @@
 - Mobile Android app for geolocated technical assistance
 - #[[Model for FTE calculation of OCL technicians]]
 - PostGIS: GIS to LRS calculation library
--
+- OCL sectioning management application
+- Product owner: generic enterprise GIS tooling
+- Product owner:
