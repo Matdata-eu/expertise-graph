@@ -4,4 +4,4 @@ end:: 2017-10
 duration:: 5 years
 at-company:: #[[CEB-BEC]]
 description::
-linked-roles:: #[[Company representative]]
+linked-roles:: #[[National representative]], #[[Company representative]]
