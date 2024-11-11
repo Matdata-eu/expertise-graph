@@ -10,6 +10,8 @@
 	- #[[Featured talks]]
 	- #[[Featured techniques & tools]]
 	- #[[My resume]]
-- Be sure to check the graph view for inspiration!
+- #+BEGIN_NOTE
+  Be sure to check the graph view for inspiration!
+  #+END_NOTE
 - The structured data of this graph is available in RDF
 	- LATER Add link to rdf
