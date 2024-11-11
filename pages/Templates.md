@@ -1,3 +1,5 @@
+exclude-from-graph-view:: true
+
 - Project
 	- template:: Project
 	  template-including-parent:: false
