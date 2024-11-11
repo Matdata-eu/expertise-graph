@@ -1,3 +1,3 @@
 exclude-from-graph-view:: true
-type:: #[[Property]]
+is-of-type:: #[[Property]]
 has-description:: classification of the audience

@@ -1,2 +1,2 @@
-type:: #[[Company]]
-link:: https://infrabel.be/
+is-of-type:: #[[Company]]
+has-link:: https://infrabel.be/

@@ -1,5 +1,5 @@
 public:: true
-type:: #[[Role]]
+is-of-type:: #[[Role]]
 self-estimated-proficiency:: Competent
 is-featured:: Yes
 has-category:: Leading roles

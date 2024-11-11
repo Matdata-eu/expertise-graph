@@ -1,2 +1,2 @@
-type:: #[[Company]]
-link:: https://matdata.eu/
+is-of-type:: #[[Company]]
+has-link:: https://matdata.eu/

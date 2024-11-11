@@ -1,2 +1,2 @@
-type:: #[[Class]]
+is-of-type:: #[[Class]]
 has-description:: a representative skill or tool required to execute a project

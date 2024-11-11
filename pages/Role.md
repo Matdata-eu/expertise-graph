@@ -1,3 +1,3 @@
 exclude-from-graph-view:: false
-type:: #[[Class]]
+is-of-type:: #[[Class]]
 has-description:: the responsibilities taken in the project or job

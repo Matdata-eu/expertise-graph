@@ -1,2 +1,2 @@
-type:: #[[Company]]
-link:: https://www.ceb-bec.be/
+is-of-type:: #[[Company]]
+has-link:: https://www.ceb-bec.be/

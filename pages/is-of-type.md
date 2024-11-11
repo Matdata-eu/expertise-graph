@@ -1,3 +1,6 @@
 exclude-from-graph-view:: true
 is-of-type:: #[[Property]]
-has-description:: title of the talk
+has-description:: is a subclass of
+title:: is-of-type
+
+-
