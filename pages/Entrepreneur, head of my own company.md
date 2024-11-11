@@ -1,6 +1,6 @@
 type:: [[Job title]]
-start:: 01/2010
-end:: 02/2011
+start:: 2010-01
+end:: 2011-02
 duration:: 1 years
 at-company:: #[[ENERG.IR]]
 description:: creation of official building energy certificates

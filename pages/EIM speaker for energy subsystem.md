@@ -1,6 +1,6 @@
 type:: [[Job title]]
-start:: 01/2013
-end:: 09/2017
+start:: 2013-01
+end:: 2017-09
 duration:: 5 years
 at-company:: #EIM
 description:: 
