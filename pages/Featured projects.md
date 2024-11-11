@@ -50,6 +50,6 @@
 - Contact wire uplift measurement system
 - Generic business rules validation system on linear measurements
 - Database versioning system based on git
-- Pantograph shock detection system
+- #[[Pantograph shock detection system]]
 - #[[Automated data pipelines]]
-- Post processing of binary linear measurement files
+- #[[Post processing of binary linear measurement file]]
