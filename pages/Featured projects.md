@@ -73,4 +73,4 @@
 - #[[Openrail]]
 - #[[Infrabel opendata to RDF]]
 - #[[Android: infradoc]]
-- #[[RailML ontology workgroup
+- #[[RailML ontology workgroup]]
