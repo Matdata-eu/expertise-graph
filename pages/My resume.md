@@ -1,4 +1,5 @@
 - Below you find a classic resume
+	- #[[Independent data freelancer]]
 	- #[[Teamlead data centricity]]
 	- #[[Project lead digitalisation linear assets]]
 	- #[[Project lead SMILE 2.0]]
@@ -9,5 +10,5 @@
 	- #[[Chairman committee 9]]
 	- #[[EIM speaker for energy subsystem]]
 	- #[[Entrepreneur, head of my own company]]
-	- #Internship statistical analysis]]
+	- #[[Internship statistical analysis of voltage dips]]
 -
