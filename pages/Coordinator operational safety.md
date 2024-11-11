@@ -4,4 +4,4 @@ end:: 2010-03
 duration:: 0,5 years
 at-company:: #[[Infrabel]]
 description::
-linked-roles::
+linked-roles:: #[[Project lead]]
