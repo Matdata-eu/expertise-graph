@@ -14,3 +14,4 @@
 	- #[[SPOC data for department of 9000 employees]]
 	- #Teacher
 - #[[Engineer overhead contact line]]
+- {{query (page-property :type "Role")}}
