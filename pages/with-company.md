@@ -1,1 +1,1 @@
-type:: [[Class]]
+type:: [[Property]]
