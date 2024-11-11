@@ -6,4 +6,4 @@ at-company:: #[[Infrabel]]
 has-description::
 has-linked-roles:: #[[Project lead]]
 
-- {{query (and (page-property :type "Project") (page-property :during-job [[Job: Teamlead data centricity]]))}}
+- {{query (and (page-property :type "Project") (page-property :during-job [[Job: Project lead SMILE 2.0]]))}}
