@@ -51,4 +51,4 @@
 - Generic business rules validation system on linear measurements
 - Database versioning system based on git
 - Pantograph shock detection system
--
+- #[[Automated data pipelines]]
