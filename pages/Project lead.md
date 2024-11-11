@@ -2,4 +2,4 @@ public:: true
 type:: Role
 self-estimated-proficiency:: Proficient
 is-featured:: Yes
-category:: Leading roles
+has-category:: Leading roles
