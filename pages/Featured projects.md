@@ -30,6 +30,7 @@
 - Location post processing system for railway vehicles
 - Visual inspection system for OCL
 - Pole inventory
+- #[[Measurement train image post processing]]
 - Asset recognition on images from measurement train
 - Lidar vegetation detection
 - Image indexing services

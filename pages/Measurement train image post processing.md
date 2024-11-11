@@ -1,0 +1,2 @@
+- Positioning in axis system with 0 GNSS
+- GPS time
