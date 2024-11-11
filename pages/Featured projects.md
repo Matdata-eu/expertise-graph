@@ -28,4 +28,7 @@
 - Contact wire thickness measurement system
 - Location post processing system for railway vehicles
 - Visual inspection system for OCL
-- Inventory
+- Pole inventory
+- Asset recognition on images from measurement train
+- Lidar vegetation detection
+- Lidar
