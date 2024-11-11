@@ -1,7 +1,7 @@
 type:: #[[Job]]
-start:: 2013-01
+started-on:: 2013-01
 end:: 2017-10
-duration:: 5 years
+has-duration:: 5 years
 at-company:: #[[CEB-BEC]]
 description::
 linked-roles:: #[[National representative]], #[[Company representative]]

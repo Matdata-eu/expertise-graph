@@ -38,9 +38,9 @@ exclude-from-graph-view:: true
 	- template:: Job
 	  template-including-parent:: false
 		- type:: #[[Job]]
-		  start::
+		  started-on::
 		  end::
-		  duration:: ~ years
+		  has-duration:: ~ years
 		  at-company::
 		  description::
 		  linked-roles::

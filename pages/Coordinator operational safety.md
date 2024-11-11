@@ -1,7 +1,7 @@
 type:: #[[Job]]
-start:: 2009-09
+started-on:: 2009-09
 end:: 2010-03
-duration:: 0,5 years
+has-duration:: 0,5 years
 at-company:: #[[Infrabel]]
 description::
 linked-roles:: #[[Project lead]]
