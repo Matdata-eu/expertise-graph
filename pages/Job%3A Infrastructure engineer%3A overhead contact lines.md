@@ -6,7 +6,7 @@ at-company:: #[[Infrabel]]
 has-description::
 has-linked-roles:: #[[Engineer overhead contact line]]
 
-- {{query (and (page-property :type "Project") (page-property :during-job [[Job: Infrastructure engineer: overhead contact lines]]))}}
+- {{query (and (page-property :type "Project") (page-property :during-job "[[Job: Infrastructure engineer: overhead contact lines]]"))}}
   :LOGBOOK:
   CLOCK: [2024-11-11 Mon 22:10:41]
   :END:
