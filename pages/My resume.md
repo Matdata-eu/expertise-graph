@@ -2,5 +2,10 @@
 	- #[[Teamlead data centricity]]
 	- #[[Project lead digitalisation linear assets]]
 	- #[[Project lead SMILE 2.0]]
+	- #[[Infrastructure engineer: overhead contact lines]]
+	- #[[Ambassador]]
+	- #[[Coordinator operational safety]]
+	- #[[Fencing instructor]]
+	- #[[Chairman committee 9]]
 	-
 -
