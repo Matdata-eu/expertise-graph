@@ -1,3 +1,3 @@
 exclude-from-graph-view:: true
-is-of-type:: #[[Property]]
+type:: #[[Property]]
 has-description:: title of the talk

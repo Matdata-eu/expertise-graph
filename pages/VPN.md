@@ -1,5 +1,5 @@
 public:: true
-is-of-type:: #[[Technique]]
+type:: #[[Technique]]
 self-estimated-proficiency:: Competent
 is-featured:: Yes
 has-category:: Networking

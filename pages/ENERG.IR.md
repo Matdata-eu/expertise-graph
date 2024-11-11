@@ -1,4 +1,4 @@
-is-of-type:: #[[Company]]
+type:: #[[Company]]
 has-link::
 
 - Company is disbanded due to not profitable

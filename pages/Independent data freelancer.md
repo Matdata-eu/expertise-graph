@@ -1,4 +1,4 @@
-is-of-type:: #[[Job]]
+type:: #[[Job]]
 started-on:: 2025-02
 ended-on::
 has-duration:: tbd

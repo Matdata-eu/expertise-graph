@@ -5,7 +5,7 @@ exclude-from-graph-view:: true
 	- template:: Project
 	  template-including-parent:: false
 		- public:: true
-		  is-of-type:: #[[Project]]
+		  type:: #[[Project]]
 		  has-tagged-techniques::
 		  has-tagged-roles::
 		  has-linked-projects::
@@ -14,14 +14,14 @@ exclude-from-graph-view:: true
 	- template:: Role
 	  template-including-parent:: false
 		- public:: true
-		  is-of-type:: #[[Role]]
+		  type:: #[[Role]]
 		  self-estimated-proficiency::
 		  is-featured::
 - Techniques
 	- template:: Technique
 	  template-including-parent:: false
 		- public:: true
-		  is-of-type:: #[[Technique]]
+		  type:: #[[Technique]]
 		  self-estimated-proficiency::
 		  is-featured::
 		  has-category::
@@ -29,15 +29,15 @@ exclude-from-graph-view:: true
 	- template:: Talk
 	  template-including-parent:: false
 		- public:: true
-		  is-of-type:: #[[Talk]]
+		  type:: #[[Talk]]
 		  has-subject::
 		  audience-size::
-		  has-audience-is-of-type::
+		  has-audience-type::
 		  is-featured::
 - Job
 	- template:: Job
 	  template-including-parent:: false
-		- is-of-type:: #[[Job]]
+		- type:: #[[Job]]
 		  started-on::
 		  ended-on::
 		  has-duration:: ~ years
@@ -47,5 +47,5 @@ exclude-from-graph-view:: true
 - Company
 	- template:: Company
 	  template-including-parent:: false
-		- is-of-type:: #[[Company]]
+		- type:: #[[Company]]
 		  has-link::
