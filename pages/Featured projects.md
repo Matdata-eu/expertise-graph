@@ -68,4 +68,7 @@
 - Energy storage calculation sheet
 - Home automation system
 - ERA RINF Chatbot
+- Logseq RDF export
+- RCM-DX
+- Openrail
 -
