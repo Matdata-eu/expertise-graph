@@ -6,4 +6,4 @@ at-company:: #[[Infrabel]]
 has-description::
 has-linked-roles:: #[[Engineer overhead contact line]]
 
-- {{query (and (page-property :type "Project") (page-property :during-job [[Job: Teamlead data centricity]]))}}
+- {{query (and (page-property :type "Project") (page-property :during-job "[[Job: Infrastructure engineer: overhead contact lines]]"))}}
