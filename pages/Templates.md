@@ -43,3 +43,8 @@ exclude-from-graph-view:: true
 		  at-company:: 
 		  description:: 
 		  linked-roles::
+- Company
+	- template:: Company
+	  template-including-parent:: false
+		- type:: [[Company]]
+		  link:: https://matdata.eu/

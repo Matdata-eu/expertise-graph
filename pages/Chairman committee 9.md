@@ -1,7 +1,7 @@
 type:: [[Job title]]
-start:: 09/2009
-end:: 03/2010
-duration:: 0,5 years
-at-company:: #[[Infrabel]]
+start:: 01/2013
+end:: 10/2017
+duration:: 5 years
+at-company:: #[[CEB-BEC]]
 description::
-linked-roles::
+linked-roles:: #[[Company representative]]
