@@ -1,5 +1,5 @@
 type:: [[Job title]]
-start:: 02/2025
+start:: 2025-02
 end:: 
 duration:: tbd
 at-company:: #[[Matdata]]

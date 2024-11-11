@@ -1,6 +1,6 @@
 type:: [[Job title]]
-start:: 09/2017
-end:: 01/2020
+start:: 2017-09
+end:: 2020-01
 duration:: 2 years
 at-company:: #[[Infrabel]]
 description::
