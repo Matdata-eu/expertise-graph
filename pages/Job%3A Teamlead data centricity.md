@@ -5,3 +5,5 @@ has-duration:: ~3-years
 at-company:: #[[Infrabel]]
 has-description::
 has-linked-roles:: #Teamlead
+
+- {{query (page-property :type "#[[Project]]")}}
