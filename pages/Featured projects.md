@@ -54,4 +54,5 @@
 - #[[Automated data pipelines]]
 - #[[Post processing of binary linear measurement file]]
 - Mapping train statistic on RINF data model
-- Dashboard: disk space usage
+- Dashboard: disk space usage measurement drives
+- Data sync tool measurement vehicle
