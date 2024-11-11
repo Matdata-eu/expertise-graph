@@ -23,4 +23,8 @@
 - Business process for track tracé data delivery
 - Data helpdesk
 - GPS trackers for mobile safety equipment
-- Data integration of track tamper machines
+- Data integration of old track tamper machines
+- Location measurement system for measurement train
+- Contact wire thickness measurement system
+- Location post processing system for railway vehicles
+-
