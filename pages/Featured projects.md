@@ -20,4 +20,4 @@
 - Enterprise data governance model
 - OCL maintenance KPI's
 - Cost model
--
+- business process for track tracé data supply
