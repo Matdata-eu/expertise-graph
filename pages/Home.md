@@ -3,9 +3,9 @@
 	- Example: a project's page will describe the project but also the role I had and the techniques that were used. So you can click on the role link and see other projects in which I had the same role.
 - The goal of this graph is to prove my expertise according to different axes in an interactive way. Something you would also find in a resume. The added value can be found in the fact that here I can go into details with for example screenshots and testimonials.
 - Some interesting starting pages
+	- #[[Featured projects]]
 	- #[[Featured roles]]
 	- #[[Featured talks]]
-	- #[[Featured projects]]
 	- #[[Featured techniques & tools]]
 - Be sure to check the graph view for inspiration!
 - This graph is under construction.
