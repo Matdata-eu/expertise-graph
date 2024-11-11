@@ -40,6 +40,6 @@ exclude-from-graph-view:: true
 		  start:: 
 		  end:: 
 		  duration:: ~ years
-		  with-company:: 
+		  at-company:: 
 		  description:: 
 		  linked-roles::
