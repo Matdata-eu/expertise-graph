@@ -1,2 +1,2 @@
-type:: [[Company]]
+type:: #[[Company]]
 link:: https://matdata.eu/
