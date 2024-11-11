@@ -61,3 +61,5 @@
 - #[[Postgres management tools]]
 - Thematic layers for GIS reporting
 - #[[Polygon generation for EBP posts]]
+- Desktop app: Pendules
+- Data cube: linear as
