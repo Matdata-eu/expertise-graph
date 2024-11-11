@@ -4,5 +4,6 @@
 - RailML ontology workgroup
 - #[[Linear measurement data viewer]]
 - Energy settlement data lookup
-- Mobile Android app for geolocated assistance
+- Mobile Android app for geolocated technical assistance
+- #[[Model for FTE calculation of OCL technicians]]
 -
