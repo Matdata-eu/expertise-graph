@@ -1,4 +1,4 @@
 type:: [[Company]]
 link::
 
-- Company is disban
+- Company is disbanded due to not profitable

@@ -5,5 +5,3 @@ duration:: 1 years
 at-company:: #[[ENERG.IR]]
 description:: creation of official building energy certificates
 linked-roles::
-
--
