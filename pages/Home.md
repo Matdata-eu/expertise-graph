@@ -10,3 +10,5 @@
 	- #[[My resume]]
 - Be sure to check the graph view for inspiration!
 - This graph is under construction.
+- The structured data of this graph is available in RDF
+	- LATER Add link to rdf
