@@ -47,4 +47,5 @@
 - OCL stability design principles
 - OCL freespace design principles
 - Lightning detection alerting system
+- Contact wire uplift measurement system
 -
