@@ -5,7 +5,7 @@ exclude-from-graph-view:: true
   - template:: Project
     template-including-parent:: false
     - public:: true
-      type:: Project
+      type:: #[[Project]]
       tagged-techniques::
       tagged-roles::
       linked-projects::
@@ -29,7 +29,7 @@ exclude-from-graph-view:: true
   - template:: Talk
     template-including-parent:: false
     - public:: true
-      type:: Talk
+      type:: #[[Talk]]
       subject::
       audience-size::
       audience-type::
