@@ -22,3 +22,5 @@
 - Cost model
 - Business process for track tracé data delivery
 - Data helpdesk
+- GPS trackers for mobile safety equipment
+- Data integration of track tamper machines
