@@ -1,5 +1,5 @@
 public:: true
 type:: #[[Technique]]
-self-estimated-proficiency:: 
+self-estimated-proficiency:: Advanced beginner
 is-featured:: Yes
 has-category:: Mobile
