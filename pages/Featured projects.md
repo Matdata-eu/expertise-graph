@@ -31,4 +31,6 @@
 - Pole inventory
 - Asset recognition on images from measurement train
 - Lidar vegetation detection
-- Lidar
+- Image indexing services
+- User friendly UI for lidar measurements
+-
