@@ -1,5 +1,7 @@
-- #[[Project lead]]
-- #[[Business analyst]]
+- General
+	- #[[Project lead]]
+	- #[[Business analyst]]
+- Data & IT related
 - #[[Developper]]
 - #[[DevOps engineer]]
 - #[[Data analyst]]

@@ -1,4 +1,4 @@
 public:: true
 type:: Role
-self-estimated-proficiency:: 
-is-featured::
+self-estimated-proficiency:: Advanced
+is-featured:: Yes
