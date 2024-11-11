@@ -7,5 +7,7 @@
 	- #[[Coordinator operational safety]]
 	- #[[Fencing instructor]]
 	- #[[Chairman committee 9]]
-	-
+	- #[[EIM speaker for energy subsystem]]
+	- #[[Entrepreneur, head of my own company]]
+	- #Internship statistical analysis]]
 -
