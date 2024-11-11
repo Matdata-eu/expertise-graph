@@ -3,3 +3,5 @@ type:: [[Class]]
 has-description:: a thing you do when you have a goal in mind
 
 - {{query (page-property :type [[Project]])}}
+  query-sort-by:: page
+  query-sort-desc:: false
