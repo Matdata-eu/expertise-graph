@@ -1,4 +1,4 @@
-type:: [[Job title]]
+type:: [[Job]]
 start:: 2025-02
 end:: 
 duration:: tbd

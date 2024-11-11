@@ -36,7 +36,7 @@ exclude-from-graph-view:: true
 - Job
 	- template:: Job
 	  template-including-parent:: false
-		- type:: [[Job title]]
+		- type:: [[Job]]
 		  start:: 
 		  end:: 
 		  duration:: ~ years

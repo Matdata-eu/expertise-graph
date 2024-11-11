@@ -1,4 +1,4 @@
-type:: [[Job title]]
+type:: [[Job]]
 start:: 2020-01
 end:: 2022-04
 duration:: 2 years

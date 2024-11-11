@@ -1,4 +1,4 @@
-type:: [[Job title]]
+type:: [[Job]]
 start:: 2010-03
 end:: 2017-09
 duration:: 2 years
