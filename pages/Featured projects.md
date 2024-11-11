@@ -6,4 +6,5 @@
 - Energy settlement data lookup
 - Mobile Android app for geolocated technical assistance
 - #[[Model for FTE calculation of OCL technicians]]
+- PostGIS: GIS to LRS calculation library
 -
