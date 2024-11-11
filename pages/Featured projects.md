@@ -74,5 +74,3 @@
 - Infrabel opendata to RDF
 - Android: infradoc
 - RailML ontology workgroup
-- TSI ENE
--
