@@ -1,6 +1,7 @@
 - Topologie to be
 - Enterprise data model
 - Enterprise data governance model
+- Data centric strategy
 - RailML ontology workgroup
 - #[[Linear measurement data viewer]]
 - Energy settlement data lookup
@@ -17,7 +18,6 @@
 - Setup strategic project reporting
 - Asset360
 - SAPEX
-- Enterprise data governance model
 - OCL maintenance KPI's
 - Cost model
 - Business process for track tracé data delivery
@@ -52,3 +52,4 @@
 - Database versioning system based on git
 - Pantograph shock detection system
 - #[[Automated data pipelines]]
+- Post processing of binary linear measurement files
