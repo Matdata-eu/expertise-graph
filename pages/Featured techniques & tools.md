@@ -31,7 +31,7 @@
 	- #SHACL
 	- #OWL
 	- #SKOS
-	- #RML/YARRRML
+	- #[[RML & YARRRML]]
 	- #GeoSPARQL
 	- Triple stores
 		- #[[Apache Jena Fuseki]]
