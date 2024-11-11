@@ -1,3 +1,4 @@
+exclude-from-graph-view:: true
 type:: [[Property]]
 description:: self evaluation of my skill level for this technique or tool
 
