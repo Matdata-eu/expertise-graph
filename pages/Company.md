@@ -1,3 +1,3 @@
 exclude-from-graph-view:: true
 type:: #[[Class]]
-description:: a commercial business
+has-description:: a commercial business

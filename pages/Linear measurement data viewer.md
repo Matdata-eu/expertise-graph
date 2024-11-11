@@ -1,6 +1,6 @@
 public:: true
-tagged-techniques:: [[C# .NET]]
-tagged-roles:: 
+has-tagged-techniques:: [[C# .NET]]
+has-tagged-roles:: 
 linked-projects::
 
 -

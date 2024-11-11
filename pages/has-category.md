@@ -1,5 +1,5 @@
 exclude-from-graph-view:: true
 type:: #[[Property]]
-description:: used to put things in buckets
+has-description:: used to put things in buckets
 
 -

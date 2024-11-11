@@ -1,5 +1,5 @@
 exclude-from-graph-view:: true
 type:: #[[Property]]
-description:: is of
+has-description:: is of
 
 -

@@ -1,3 +1,3 @@
 exclude-from-graph-view:: true
 type:: #[[Property]]
-description:: reference to external website
+has-description:: reference to external website

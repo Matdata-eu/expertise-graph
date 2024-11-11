@@ -6,8 +6,8 @@ exclude-from-graph-view:: true
 	  template-including-parent:: false
 		- public:: true
 		  type:: #[[Project]]
-		  tagged-techniques::
-		  tagged-roles::
+		  has-tagged-techniques::
+		  has-tagged-roles::
 		  linked-projects::
 		  is-featured::
 - Role
@@ -30,7 +30,7 @@ exclude-from-graph-view:: true
 	  template-including-parent:: false
 		- public:: true
 		  type:: #[[Talk]]
-		  subject::
+		  has-subject::
 		  audience-size::
 		  audience-type::
 		  is-featured::
@@ -39,11 +39,11 @@ exclude-from-graph-view:: true
 	  template-including-parent:: false
 		- type:: #[[Job]]
 		  started-on::
-		  end::
+		  ended-on::
 		  has-duration:: ~ years
 		  at-company::
-		  description::
-		  linked-roles::
+		  has-description::
+		  has-linked-roles::
 - Company
 	- template:: Company
 	  template-including-parent:: false

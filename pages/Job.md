@@ -1,3 +1,3 @@
 exclude-from-graph-view:: false
 type:: #[[Class]]
-description:: official title held in a company hierarchy
+has-description:: official title held in a company hierarchy
