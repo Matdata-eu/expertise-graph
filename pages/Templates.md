@@ -6,10 +6,11 @@ exclude-from-graph-view:: true
 	  template-including-parent:: false
 		- public:: true
 		  type:: #[[Project]]
-		  has-tagged-techniques::
-		  has-tagged-roles::
-		  has-linked-projects::
-		  is-featured::
+		  has-tagged-techniques:: 
+		  has-tagged-roles:: 
+		  has-linked-projects:: 
+		  is-featured:: 
+		  during-job::
 - Role
 	- template:: Role
 	  template-including-parent:: false
