@@ -3,3 +3,6 @@
 - Enterprise data governance model
 - RailML ontology workgroup
 - #[[Linear measurement data viewer]]
+- Energy settlement data lookup
+- Mobile Android app for geolocated assistance
+-
