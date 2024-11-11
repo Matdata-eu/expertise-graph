@@ -1,4 +1,4 @@
-type:: #[[Job]]
+type:: [[Job]]
 started-on:: 2013-01
 ended-on:: 2017-09
 has-duration:: 5 years

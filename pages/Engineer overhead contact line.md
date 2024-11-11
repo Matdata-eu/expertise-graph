@@ -1,5 +1,5 @@
 public:: true
-type:: #[[Role]]
+type:: [[Role]]
 self-estimated-proficiency:: Advanced beginner
 is-featured:: Yes
 has-category:: Leading roles

@@ -1,3 +1,3 @@
 exclude-from-graph-view:: true
-type:: #[[Property]]
+type:: [[Property]]
 has-description:: boolean to highlight something

@@ -1,5 +1,5 @@
 public:: true
-type:: #[[Role]]
+type:: [[Role]]
 self-estimated-proficiency:: Proficient
 is-featured:: Yes
 has-category:: Data & IT role
