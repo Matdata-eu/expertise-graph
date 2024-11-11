@@ -113,7 +113,6 @@
 	- #IIS
 	- #[[Apache http server]]
 - Data models
-  collapsed:: true
 	- #railML
 	- #[[ERA ontology]]
 	- #RTM / #RSM
