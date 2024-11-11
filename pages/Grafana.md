@@ -1,5 +1,5 @@
 public:: true
 type:: Technique
-self-estimated-proficiency:: Intermediate
+self-estimated-proficiency:: Competent
 is-featured:: Yes
 has-category:: Data analytics

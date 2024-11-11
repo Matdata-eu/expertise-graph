@@ -1,6 +1,6 @@
 public:: true
 type:: Technique
-self-estimated-proficiency:: Intermediate
+self-estimated-proficiency:: Competent
 is-featured:: No
 has-category:: ERP
 

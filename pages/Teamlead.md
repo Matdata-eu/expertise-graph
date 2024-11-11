@@ -1,6 +1,6 @@
 public:: true
 type:: Role
-self-estimated-proficiency:: Intermediate
+self-estimated-proficiency:: Competent
 is-featured:: Yes
 category:: Data & IT role
 
