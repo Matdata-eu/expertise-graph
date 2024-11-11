@@ -47,4 +47,4 @@ exclude-from-graph-view:: true
 	- template:: Company
 	  template-including-parent:: false
 		- type:: [[Company]]
-		  link:: https://matdata.eu/
+		  link::
