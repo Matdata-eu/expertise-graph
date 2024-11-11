@@ -10,9 +10,9 @@
 - Leading
 	- #[[Teamlead data centricity]]
 	- #[[Project lead]]
-	- #[[EIM ENE Speaker]]
+	- #[[Sector representative]]
 	- #[[Company representative]]
-	- #[[BEC-CEB Chairman TC9]]
+	- #[[National representative]]
+	-
 - #[[SPOC data for department of 9000 employees]]
 - #[[Engineer overhead contact line]]
-- #[[National representative CENELEC technical committees TC9, TC9X, SC9XC]]

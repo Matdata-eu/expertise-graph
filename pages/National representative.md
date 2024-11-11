@@ -1,0 +1,2 @@
+- BEC-CEB Chairman TC9
+- National representative CENELEC technical committees TC9, TC9X, SC9XC
