@@ -1,9 +1,8 @@
 public:: true
 has-tagged-techniques:: [[C# .NET]]
 has-tagged-roles:: 
-has-linked-projects::
+has-linked-projects:: 
+is-featured:: Yes
 during-job:: #[[Engineer overhead contact line]]
 
--
--
 -
