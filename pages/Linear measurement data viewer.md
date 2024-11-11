@@ -1,4 +1,5 @@
 public:: true
+type:: #[[Project]] 
 has-tagged-techniques:: [[C# .NET]]
 has-tagged-roles:: 
 has-linked-projects:: 
