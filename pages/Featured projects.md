@@ -64,3 +64,5 @@
 - Desktop app: Pendules
 - Data cube: linear phenomena's
 - Shelter GIS position management system
+- Quartely peak power
+- Energy storage calculation sheet
