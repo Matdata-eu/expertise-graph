@@ -72,7 +72,7 @@
 - DevOps
   collapsed:: true
 	- #Docker
-	- #[[Gitlab CI/CD]]
+	- #[[Gitlab CI CD]]
 	- #[[Github actions]]
 	- #Git
 	- #Devcontainers
