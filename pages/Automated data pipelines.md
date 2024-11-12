@@ -8,6 +8,6 @@ has-linked-projects::
 is-featured:: Yes
 during-job:: #[[Job: engineer overhead contact lines]], #[[Job: Project lead digitalisation linear assets]], #[[Job: Teamlead data centricity]]
 
-- The system needed to sync data around the enterprise into a Postgres based data platform. It's written in
+- The system needed to sync data around the enterprise into a #Postgresql based data platform. It's written in #[[C# .NET]] and uses #Quartz.NET for scheduling. It's a very flexible setup where source data is listed in the Postgres database.
 - I would prefer not to have to work with a #SAS "database" again.
 -
