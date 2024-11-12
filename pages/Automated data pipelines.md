@@ -1,8 +1,8 @@
 public:: true
 type:: [[Project]]
-description:: A backend system to automate data transfers from several databases.
+description:: A backend system to automate data transfers from several databases. Using several techniques such as delta transfer or ID based copying.
 has-category:: Data processing
-has-tagged-techniques:: [[C# .NET]], #Postgresql, #SAS, #MSSQL, #Oracle, #Kerberos
+has-tagged-techniques:: [[C# .NET]], #Postgresql, #SAS, #MSSQL, #Oracle, #Kerberos, #[[SAP HANA BIQ]]
 has-tagged-roles:: #Developper, #[[Data analyst]], #[[Data architect]] 
 has-linked-projects::
 is-featured:: Yes
