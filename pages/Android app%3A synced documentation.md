@@ -6,6 +6,7 @@ has-tagged-roles:: #[[Business analyst]], #[[Data architect]], #[[DevOps enginee
 has-linked-projects::
 is-featured:: Yes
 during-job:: #[[Job: engineer overhead contact lines]]
+has-category:: Android app
 external-link:: https://apps.apple.com/be/app/infradoc/id1592342814, https://play.google.com/store/apps/details?id=be.infrabel.infradoc
 
 - DevOps: using #Fastlane
