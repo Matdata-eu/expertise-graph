@@ -12,3 +12,4 @@ during-job:: #[[Job: engineer overhead contact lines]]
 - The system was in production during a few months and then removed for improvement into a production system.
 - ![IMG_20131231_134151.jpg](../assets/IMG_20131231_134151_1731451542180_0.jpg)
 - ![IMG_20131230_030501.jpg](../assets/IMG_20131230_030501_1731451556219_0.jpg)
+- ![20241112_235233.jpg](../assets/20241112_235233_1731452038113_0.jpg)
