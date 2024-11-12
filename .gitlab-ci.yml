@@ -10,10 +10,9 @@ rdf:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
   stage: rdf
   script:
-    - cd $CI_PROJECT_DIR
+    - cp -r $CI_PROJECT_DIR/* /data
+    - cd /data
     - ls -a
-    - env -i bash
-    - env
     - logseq-rdf-export matdata-expertise.ttl
   artifacts:
     paths:
