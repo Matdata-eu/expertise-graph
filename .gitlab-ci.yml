@@ -11,6 +11,7 @@ rdf:
   stage: rdf
   script:
     - node /logseq-rdf-export/rdf_export.mjs matdata-expertise.ttl --directory $CI_PROJECT_DIR
+    - sleep 1000
   artifacts:
     paths:
       - matdata-expertise.ttl
