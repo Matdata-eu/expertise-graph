@@ -10,7 +10,7 @@ rdf:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
   stage: rdf
   script:
-    - logseq-rdf-export matdata-expertise.ttl --directory=$CI_PROJECT_DIR
+    - node /logseq-rdf-export/rdf_export.mjs matdata-expertise.ttl --directory $CI_PROJECT_DIR
   artifacts:
     paths:
       - matdata-expertise.ttl
