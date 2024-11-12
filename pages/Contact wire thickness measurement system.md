@@ -1,8 +1,8 @@
 public:: true
 type:: [[Project]]
 description::
-has-category::
-has-tagged-techniques:: [[C# .NET]]
+has-category:: Measurement system
+has-tagged-techniques:: #Camera, #Laser, #[[Laser triangulation]]
 has-tagged-roles::
 has-linked-projects::
 is-featured:: Yes
