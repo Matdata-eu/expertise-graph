@@ -4,6 +4,6 @@ description:: A backend processing system to identify railway assets on pictures
 has-category:: Image processing
 has-tagged-techniques:: #AI, #[[C# .NET]]  
 has-tagged-roles:: #[[Business analyst]], #[[Data analyst]] 
-has-linked-projects::
+has-linked-projects:: #[[Measurement train image post processing]] 
 is-featured:: Yes
 during-job:: #[[Job: Project lead digitalisation linear assets]]
