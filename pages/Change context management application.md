@@ -8,4 +8,4 @@ has-linked-projects:: #Asset360, #[[Business process for track tracé data deliv
 is-featured:: Yes
 during-job:: #[[Job: Teamlead data centricity]]
 
--
+- The concept of "change context" is an important one for a data centric enterprise. The change context combines all the information required to find the reason for a data change. In asset management, and certainly in #Railway, the main driver for
