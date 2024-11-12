@@ -11,10 +11,7 @@ rdf:
   stage: rdf
   script:
     - echo "The following line is to avoid a check in logseq-rdf-export targetting github actions"
-    - export CI=false
-    - env
     - unset CI
-    - env
     - logseq-rdf-export matdata-expertise.ttl --directory $CI_PROJECT_DIR
   artifacts:
     paths:
