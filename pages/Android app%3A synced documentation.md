@@ -9,5 +9,5 @@ during-job:: #[[Job: engineer overhead contact lines]]
 external-link:: https://apps.apple.com/be/app/infradoc/id1592342814, https://play.google.com/store/apps/details?id=be.infrabel.infradoc
 
 - DevOps: using #Fastlane
-- Data architect: innovative approach using #Git to sync online documentation locally whenever the device is used while online.
+- The innovative approach in this application was the use of #Git to sync online documentation locally whenever the device is used while online.
 - ![unnamed.jpg](../assets/unnamed_1731446679435_0.jpg)
