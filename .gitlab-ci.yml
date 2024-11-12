@@ -1,0 +1,31 @@
+
+stages:
+  - rdf
+  - pages
+
+rdf:
+  image:
+    name: mathiasvda/logseq-rdf-export
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+  stage: rdf
+  script:
+    - logseq-rdf-export notes.ttl
+  artifacts:
+    paths:
+      - notes.ttl
+
+pages:
+  image:
+    name: ghcr.io/l-trump/logseq-publish-spa:alpine
+    entrypoint: ["/bin/sh", "-c"]
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+  stage: pages
+  environment: live
+  script:
+    - mkdir -p public
+    - node /opt/logseq-publish-spa/publish_spa.mjs $CI_PROJECT_DIR/public --static-directory /opt/logseq-static --directory $CI_PROJECT_DIR --theme-mode $THEME --accent-color $ACCENT_COLOR
+  artifacts:
+    paths:
+      - public
