@@ -10,10 +10,10 @@ rdf:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
   stage: rdf
   script:
-    - logseq-rdf-export notes.ttl
+    - logseq-rdf-export matdata-expertise.ttl
   artifacts:
     paths:
-      - notes.ttl
+      - matdata-expertise.ttl
 
 pages:
   image:
@@ -26,6 +26,9 @@ pages:
   script:
     - mkdir -p public
     - node /opt/logseq-publish-spa/publish_spa.mjs $CI_PROJECT_DIR/public --static-directory /opt/logseq-static --directory $CI_PROJECT_DIR --theme-mode $THEME --accent-color $ACCENT_COLOR
+    - cp -r build/* public/static/
   artifacts:
     paths:
       - public
+  dependencies:
+    - rdf

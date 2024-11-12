@@ -23,7 +23,9 @@
 	  CLOCK: [2024-11-12 Tue 13:20:46]
 	  :END:
 	- LATER Add screenshots and other documentation to projects
-- The structured data of this graph is available in RDF
-	- LATER Add link to rdf
+- The structured data of this graph [is available in RDF](https://expertise.matdata.eu/static/matdata-expertise.ttl)
 	- LATER Add chatbot
+	  :LOGBOOK:
+	  CLOCK: [2024-11-12 Tue 14:36:37]--[2024-11-12 Tue 14:36:39] =>  00:00:02
+	  :END:
 	- LATER Add SPARQL endpoint
