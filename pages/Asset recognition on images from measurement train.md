@@ -7,3 +7,5 @@ has-tagged-roles:: #[[Business analyst]], #[[Data analyst]]
 has-linked-projects:: #[[Measurement train image post processing]] 
 is-featured:: Yes
 during-job:: #[[Job: Project lead digitalisation linear assets]]
+
+-
