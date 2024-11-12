@@ -7,4 +7,5 @@
   has-linked-projects::
   is-featured:: Yes
   during-job:: #[[Job: engineer overhead contact lines]]
+- Android playstore link: https://play.google.com/store/apps/details?id=be.infrabel.infradoc&hl=en&pli=1
 -
