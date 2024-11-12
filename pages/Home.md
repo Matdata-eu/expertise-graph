@@ -14,13 +14,10 @@
   Be sure to check the graph view for inspiration!
   #+END_NOTE
 - Under construction. The following activities are not yet completed:
-	- NOW Publish the notes
-	  :LOGBOOK:
-	  CLOCK: [2024-11-12 Tue 13:20:45]
-	  :END:
 	- NOW Add structured data for the projects
 	  :LOGBOOK:
 	  CLOCK: [2024-11-12 Tue 13:20:46]
+	  CLOCK: [2024-11-12 Tue 14:38:46]
 	  :END:
 	- LATER Add screenshots and other documentation to projects
 - The structured data of this graph [is available in RDF](https://expertise.matdata.eu/static/matdata-expertise.ttl)
