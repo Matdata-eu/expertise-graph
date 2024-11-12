@@ -13,6 +13,8 @@ rdf:
     - echo $CI_PROJECT_DIR
     - cd $CI_PROJECT_DIR
     - ls 
+    - ls logseq
+    - ls pages
     - logseq-rdf-export matdata-expertise.ttl
   artifacts:
     paths:
