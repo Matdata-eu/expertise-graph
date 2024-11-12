@@ -12,6 +12,7 @@ rdf:
   script:
     - cd $CI_PROJECT_DIR
     - ls -a
+    - env -i bash
     - env
     - logseq-rdf-export matdata-expertise.ttl
   artifacts:
