@@ -68,4 +68,5 @@
 - #[[Webapp: common path of several railway vehicles]]
 - #[[Webapp: OCL safety sheets]]
 - #[[Webapp: train protection system]]
-- {{query }}
+- {{query (and (page-property :type [[Project]]) (and))}}
+  query-properties:: [:page :description :has-tagged-techniques :has-category]
