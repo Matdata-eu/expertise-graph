@@ -14,8 +14,9 @@
   Be sure to check the graph view for inspiration!
   #+END_NOTE
 - Under construction. The following activities are not yet completed:
-	- Add structured data for the projects
 	-
+	- Add structured data for the projects
+	- LATER Add screenshots and other documentation to projects
 - The structured data of this graph is available in RDF
 	- LATER Add link to rdf
 	- LATER Add chatbot
