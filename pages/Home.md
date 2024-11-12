@@ -11,7 +11,7 @@
 	- #[[Featured techniques & tools]]
 	- #[[My resume]]
 - #+BEGIN_NOTE
-  Be sure to check the graph view for inspiration!
+  Be sure to check the [graph view](https://expertise.matdata.eu/#/graph) for inspiration!
   #+END_NOTE
 - Under construction. The following activities are not yet completed:
 	- NOW Add structured data for the projects
