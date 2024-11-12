@@ -3,14 +3,14 @@ exclude-from-graph-view:: true
 
 - Project
   - template:: Project
-    template-including-parent:: false
-    - public:: true
-      type:: [[Project]]
-      has-tagged-techniques::
-      has-tagged-roles::
-      has-linked-projects::
-      is-featured::
-      during-job::
+    template-including-parent:: false - public:: true
+    type:: [[Project]]
+    has-category::
+    has-tagged-techniques::
+    has-tagged-roles::
+    has-linked-projects::
+    is-featured::
+    during-job::
 - Role
   - template:: Role
     template-including-parent:: false
