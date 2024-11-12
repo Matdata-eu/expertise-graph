@@ -13,5 +13,10 @@
 - #+BEGIN_NOTE
   Be sure to check the graph view for inspiration!
   #+END_NOTE
+- Under construction. The following activities are not yet completed:
+	- Add structured data for the projects
+	-
 - The structured data of this graph is available in RDF
 	- LATER Add link to rdf
+	- LATER Add chatbot
+	- LATER Add SPARQL endpoint
