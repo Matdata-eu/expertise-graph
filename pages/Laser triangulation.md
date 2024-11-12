@@ -4,4 +4,4 @@ self-estimated-proficiency:: Intermediate
 is-featured:: Yes
 has-category:: Measurement system
 
-- Measuri
+- Dimensional measurements using a #Laser and a #Camera
