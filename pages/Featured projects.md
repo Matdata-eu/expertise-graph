@@ -1,4 +1,4 @@
-- #[[Android: infradoc]]
+- #[[Android app: synced documentation]]
 - #[[Asset recognition on images from measurement train]]
 - #[[Asset360]]
 - #[[Automated data pipelines]]
