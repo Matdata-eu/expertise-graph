@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["home" "featured techniques & tools" "featured talks" "featured roles" "featured projects" "my resume"]
+ :favorites ["home" "featured projects" "featured roles" "featured talks" "featured techniques & tools" "my resume"]
 
  ;; Set flashcards interval.
  ;; Expected value:
