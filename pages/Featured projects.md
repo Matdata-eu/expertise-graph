@@ -1,9 +1,3 @@
-- #[[Mobile app: synced documentation]]
-- #[[Asset recognition on images from measurement train]]
-- #[[Asset360]]
-- #[[Automated data pipelines]]
-- #[[Business process for track tracé data delivery]]
-- #[[Change context management application]]
 - #[[Contact wire thickness measurement system]]
 - #[[Contact wire uplift measurement system]]
 - #[[Cost model]]
@@ -74,3 +68,4 @@
 - #[[Webapp: common path of several railway vehicles]]
 - #[[Webapp: OCL safety sheets]]
 - #[[Webapp: train protection system]]
+- {{query }}
