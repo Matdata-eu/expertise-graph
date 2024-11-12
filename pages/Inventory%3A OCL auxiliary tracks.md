@@ -1,5 +1,6 @@
 public:: true
 type:: [[Project]]
+description::
 has-category::
 has-tagged-techniques::
 has-tagged-roles::

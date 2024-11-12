@@ -1,5 +1,6 @@
 public:: true
 type:: [[Project]]
+description::
 has-category::
 has-tagged-techniques:: [[C# .NET]]
 has-tagged-roles::
@@ -11,5 +12,5 @@ during-job:: #[[Job: engineer overhead contact lines]]
 - Long running queries
 - Matview refresh
 - Table copy
-  - kerberos
+	- kerberos
 - Query executor
