@@ -14,8 +14,8 @@ description:: used to put things in buckets
     ]
     :result-transform (fn [result] (result))
     :view (fn [result]
-            [:ul (for [value result]
-                   [:li value])])
+            [:ul (for [val result]
+                   [:li val])])
   }
   #+END_QUERY
 -
