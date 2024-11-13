@@ -1,7 +1,7 @@
 public:: true
 type:: [[Project]]
 description::
-has-category:: Semantic, AI
+has-category:: Semantic
 has-tagged-techniques::
 has-tagged-roles::
 has-linked-projects::

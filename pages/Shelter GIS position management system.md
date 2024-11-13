@@ -1,7 +1,7 @@
 public:: true
 type:: [[Project]]
 description::
-has-category::
+has-category:: Data management app
 has-tagged-techniques::
 has-tagged-roles::
 has-linked-projects::

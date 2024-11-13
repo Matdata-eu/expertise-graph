@@ -1,7 +1,7 @@
 public:: true
 type:: [[Project]]
 description::
-has-category::
+has-category:: Webapp
 has-tagged-techniques:: [[C# .NET]]
 has-tagged-roles::
 has-linked-projects::
