@@ -13,7 +13,7 @@ description:: used to put things in buckets
       [(get ?props :has-category) ?value]
     ]
     :result-transform (fn [result] (sort result))
-    :view (fn [result] (for [r result] 
+    :view (fn [result] 
             [:ul (for [val result]
                    [:li val])])
   }
