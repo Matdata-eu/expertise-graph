@@ -2,7 +2,7 @@ public:: true
 type:: [[Project]]
 description::
 has-category:: Planningtool
-has-tagged-techniques::
+has-tagged-techniques:: #[[SAP PM]] 
 has-tagged-roles::
 has-linked-projects::
 is-featured:: Yes
