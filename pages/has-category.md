@@ -4,7 +4,7 @@ description:: used to put things in buckets
 
 - #+BEGIN_QUERY
   {
-    :title "Distinct values of a property"
+    :title "Distinct values"
     :query [
       :find (distinct ?value)
       :where
