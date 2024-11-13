@@ -2,7 +2,7 @@ public:: true
 type:: [[Project]]
 description::
 has-category:: Data processing
-has-tagged-techniques::
+has-tagged-techniques:: #GNSS, #[[C# .NET]], #Git, #[[Gitlab CI CD]], #IMU, #Odometry, #Topology 
 has-tagged-roles::
 has-linked-projects::
 is-featured:: Yes

@@ -31,7 +31,7 @@
 	- #[[Logseq RDF export]]
 	- #[[Mapping train statistic on RINF data model]]
 	- #[[Measurement train image post processing]]
-	- #[[Mobile Android app for geolocated technical assistance]]
+	- #[[Mobile app for geolocated technical assistance]]
 	- #[[Mobile time registration system with NFC badges]]
 	- #[[Model for FTE calculation of OCL technicians]]
 	- #[[OCL freespace design principles]]
