@@ -12,7 +12,7 @@ description:: used to put things in buckets
       [ page-property ?page :type "Project" ]
       [(get ?props :has-category) ?value]
     ]
-    :result-transform (fn [result] (map first result))
+    :result-transform (fn [result] (result))
     :view (fn [result]
             [:ul (for [value result]
                    [:li value])])
