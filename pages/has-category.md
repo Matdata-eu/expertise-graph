@@ -18,4 +18,15 @@ description:: used to put things in buckets
                    [:li val])])
   }
   #+END_QUERY
--
+- #+BEGIN_QUERY
+  {
+  :query [
+      :find ?prop
+      :where
+        [?b :block/properties ?prop]
+  ]
+  :view(fn [rows] (for
+      [prop (sort (distinct (flatten (map keys rows))))]
+      [:div (clojure.string/replace-first (str prop) ":" "") ]))
+  }
+  #+END_QUERY
