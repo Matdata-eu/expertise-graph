@@ -1,7 +1,7 @@
 public:: true
 type:: [[Project]]
 description::
-has-category:: Ontology
+has-category:: Semantic
 has-tagged-techniques::
 has-tagged-roles::
 has-linked-projects::
