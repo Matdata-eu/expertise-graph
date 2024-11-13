@@ -11,9 +11,6 @@ description:: used to put things in buckets
       [?page :block/properties ?props]
       [(get ?props :has-category) ?value]
     ]
-    :result-transform (fn [result] (map first result))
-    :view (fn [result]
-            [:ul (for [value result]
-                   [:li value])])
   }
   #+END_QUERY
+-
