@@ -2,7 +2,7 @@ public:: true
 type:: [[Project]]
 description::
 has-category:: DevOps
-has-tagged-techniques:: #[[Github actions]], #Docker 
+has-tagged-techniques:: #[[Github actions]], #Docker, #Git 
 has-tagged-roles::
 has-linked-projects::
 is-featured:: No
