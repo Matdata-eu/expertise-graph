@@ -5,5 +5,5 @@ has-category:: DevOps
 has-tagged-techniques::
 has-tagged-roles::
 has-linked-projects::
-is-featured:: Yes
+is-featured:: No
 during-job:: #[[Job: Independent data freelancer]]
