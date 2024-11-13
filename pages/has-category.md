@@ -12,8 +12,8 @@ description:: used to put things in buckets
       [ page-property ?page :type "Project" ]
       [(get ?props :has-category) ?value]
     ]
-    :result-transform (fn [result] (result))
-    :view (fn [result]
+    :result-transform (fn [result] (sort result))
+    :view (fn [result] (for [r result] 
             [:ul (for [val result]
                    [:li val])])
   }
