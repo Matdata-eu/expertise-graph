@@ -1,9 +1,9 @@
 public:: true
 type:: [[Project]]
 description::
-has-category::
-has-tagged-techniques:: [[C# .NET]]
+has-category:: BI
+has-tagged-techniques:: #Qlikview 
 has-tagged-roles::
 has-linked-projects::
-is-featured:: Yes
+is-featured:: No
 during-job:: #[[Job: engineer overhead contact lines]]

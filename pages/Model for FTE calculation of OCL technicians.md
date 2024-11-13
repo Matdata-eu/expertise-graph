@@ -1,8 +1,8 @@
 public:: true
 type:: [[Project]]
-description::
-has-category::
-has-tagged-techniques:: [[C# .NET]]
+description:: 
+has-category:: Strategy
+has-tagged-techniques:: 
 has-tagged-roles::
 has-linked-projects::
 is-featured:: Yes
