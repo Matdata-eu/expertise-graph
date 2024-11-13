@@ -2,3 +2,5 @@
   query-properties:: [:page :self-estimated-proficiency :category]
   query-sort-by:: page
   query-sort-desc:: false
+- {{query (and (page-property :type "Role") (not (page-property :is-featured "No")))}}
+- {{query }}
