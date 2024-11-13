@@ -2,4 +2,5 @@
   query-properties:: [:page :self-estimated-proficiency :category]
   query-sort-by:: page
   query-sort-desc:: false
-- title: get all pages with property type:: Role]]
+- title: get all pages with property type:: Role
+  - pages
