@@ -1,7 +1,7 @@
 public:: true
 type:: [[Project]]
 description::
-has-category::
+has-category:: Business process
 has-tagged-techniques::
 has-tagged-roles::
 has-linked-projects::
