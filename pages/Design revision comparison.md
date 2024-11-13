@@ -1,7 +1,7 @@
 public:: true
 type:: [[Project]]
 description::
-has-category::
+has-category:: Image processing, Data processing
 has-tagged-techniques::
 has-tagged-roles::
 has-linked-projects::
