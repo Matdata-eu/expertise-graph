@@ -2,7 +2,7 @@ public:: true
 type:: [[Project]]
 description::
 has-category:: Data processing
-has-tagged-techniques:: #Topology
+has-tagged-techniques:: #Topology, #[[Data architect]] 
 has-tagged-roles::
 has-linked-projects::
 is-featured:: Yes

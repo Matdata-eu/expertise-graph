@@ -64,7 +64,7 @@
 	- #[[Train alert system]]
 	- #[[Trainannouncer]]
 	- #[[User friendly UI for lidar measurements]]
-	- #[[Visual inspection system for OCL]]
+	- #[[Camera inspection system for OCL]]
 	- #[[Webapp: common path of several railway vehicles]]
 	- #[[Webapp: OCL safety sheets]]
 	- #[[Webapp: train protection system]]
