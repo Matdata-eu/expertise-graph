@@ -1,7 +1,7 @@
 public:: true
 type:: [[Project]]
 description::
-has-category::
+has-category:: Measurement system
 has-tagged-techniques::
 has-tagged-roles::
 has-linked-projects::
