@@ -13,7 +13,9 @@
 	  :query [:find (pull ?block [*])
 	  :where
 	  [?block :block/name ?pagename]
+	  (page-property ?block :type "Role")
 	  ]
 	  }
 	  #+END_QUERY
+-
 -
