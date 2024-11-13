@@ -21,12 +21,16 @@ description:: used to put things in buckets
 - #+BEGIN_QUERY
   {
   :query [
-      :find ?prop
+      :find ?value
       :where
-        [?b :block/properties ?prop]
+      [?page :block/properties ?props]
+      [ page-property ?page :type "Project" ]
+      [(get ?props :has-category) ?value]
+      [(not= ?value "")]
   ]
   :view(fn [rows] (for
       [prop (sort (distinct (flatten (map keys rows))))]
-      [:div (clojure.string/replace-first (str prop) ":" "") ]))
+      [:div (clojure.string/replace-first (str value) ":" "") ]))
   }
   #+END_QUERY
+-
