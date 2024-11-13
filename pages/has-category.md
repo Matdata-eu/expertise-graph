@@ -4,22 +4,7 @@ description:: used to put things in buckets
 
 - #+BEGIN_QUERY
   {
-    :title "Distinct values of has-category"
-    :query [
-      :find (distinct ?value)
-      :where
-      [?page :block/properties ?props]
-      [ page-property ?page :type "Project" ]
-      [(get ?props :has-category) ?value]
-    ]
-    :result-transform (fn [result] (sort result))
-    :view (fn [result] 
-            [:ul (for [val result]
-                   [:li val])])
-  }
-  #+END_QUERY
-- #+BEGIN_QUERY
-  {
+    :title "Distinct values of has-category for project pages"
   :query [
       :find ?value
       :where
@@ -28,9 +13,9 @@ description:: used to put things in buckets
       [(get ?props :has-category) ?value]
       [(not= ?value "")]
   ]
+    :result-transform (fn [result] (sort result))
   :view(fn [rows] (for
       [prop (sort (distinct (flatten (map keys rows))))]
       [:div (clojure.string/replace-first (str value) ":" "") ]))
   }
   #+END_QUERY
--
