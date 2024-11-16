@@ -4,7 +4,7 @@ description:: A measurement train contains many measurement systems that collect
 has-category:: Data processing
 has-tagged-techniques:: [[C# .NET]], #Git, #[[Gitlab CI CD]], #Binary,  
 has-tagged-roles:: #Developper, #[[Data architect]], #[[Data analyst]], #[[Business analyst]], #[[Project lead]] 
-has-linked-projects:: #[[Linear measurement data viewer]], #[[Data sync tool measurement vehicle]], #[[PostGIS: GIS to LRS calculation library]] 
+has-linked-projects:: #[[Linear measurement data viewer]], #[[Data sync tool measurement vehicle]], #[[PostGIS: GIS to LRS calculation library]], #RCM-DX 
 is-featured:: Yes
 during-job:: #[[Job: engineer overhead contact lines]]
 

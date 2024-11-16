@@ -4,7 +4,7 @@ description:: The Openrail foundation is an opensource initiative started by OBB
 has-category:: Strategy
 has-tagged-techniques:: #Railway, #[[Project management]] 
 has-tagged-roles:: #[[Business analyst]], #[[Company representative]]
-has-linked-projects:: #[[Location post processing system for railway vehicles]] 
+has-linked-projects:: #[[Location post processing system for railway vehicles]], #RCM-DX 
 is-featured:: Yes
 during-job:: #[[Job: Teamlead data centricity]]
 external-link:: https://openrailfoundation.org/
