@@ -4,6 +4,6 @@ description:: A hardware system using camera's and lasers mounted on a pantograp
 has-category:: Measurement system
 has-tagged-techniques:: #Camera, #Laser, #[[Laser triangulation]], #Railway 
 has-tagged-roles:: #Developper, #[[Data architect]], #[[Business analyst]], #[[Project lead]] 
-has-linked-projects::
+has-linked-projects:: #[[Linear measurement data viewer]], #[[Location measurement system for measurement train]], #[[Camera inspection system for OCL]] 
 is-featured:: Yes
 during-job:: #[[Job: engineer overhead contact lines]]
