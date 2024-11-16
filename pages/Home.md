@@ -27,4 +27,4 @@
 	  :LOGBOOK:
 	  CLOCK: [2024-11-12 Tue 14:36:37]--[2024-11-12 Tue 14:36:39] =>  00:00:02
 	  :END:
--
+	- LATER Add better graph visualisation, for example: https://www.semspect.de/
