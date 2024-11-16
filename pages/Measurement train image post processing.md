@@ -1,6 +1,6 @@
 public:: true
 type:: [[Project]]
-description::
+description:: Several measurement trains are equipped with 
 has-category:: Data processing
 has-tagged-techniques::
 has-tagged-roles::
