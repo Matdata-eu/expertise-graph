@@ -25,7 +25,7 @@ description:: describes which techniques and tools were used in the project
 	      [_ ?property _]
 	    ]
 	    :result-transform (fn [result] (sort-by (fn [r] (get-in r [:sort])) result))
-	  :view (fn [result] (pr-str result))
+	    :view (fn [result] (pr-str result))
 	  }
 	  #+END_QUERY
 - query-sort-by:: started-on
