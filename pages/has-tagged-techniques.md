@@ -3,7 +3,7 @@ type:: [[Property]]
 description:: describes which techniques and tools were used in the project
 
 - To document:
-	- #ESP32, #NodeMCU, #PLC, #Telnet
+	- #ESP32, #NodeMCU, #PLC, #Telnet, #[[PL/pgSQL]]
 	-
 - {{query (page-property :type [[Technique]])}}
   query-sort-by:: page
