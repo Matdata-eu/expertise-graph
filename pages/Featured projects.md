@@ -3,4 +3,4 @@
 -
 -
 -
-- {{query (property :type [[Project]])}}
+- {{query (and (property :type [[Project]]) (property :is-featured "Yes"))}}
