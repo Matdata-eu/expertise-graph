@@ -1,6 +1,6 @@
 public:: true
 type:: [[Project]]
-description:: 
+description:: A GIS (graphical) management application running in QGIS to build and update the sectioning database of the overhead contact line. The base layer is the track topology on which a layer of sectioning elements and cables are attached. A backend program creates a sectioning topology from these singular and linear elements that is linked to the track topology. 
 has-category:: Data management app
 has-tagged-techniques:: #QGIS, #Topology, #RTM, #Postgresql, #PostGIS, #Git, #[[PL/pgSQL]], #PgRouting, #Railway 
 has-tagged-roles:: #Developper, #[[Business analyst]], #[[Data architect]] 
