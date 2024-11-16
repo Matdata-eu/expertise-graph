@@ -4,8 +4,7 @@ description:: A full stack application to manage change context inside the topol
 has-category:: Web app
 has-tagged-techniques:: #Python, #RDF, #SHACL, #SPARQL, #VueJs, #Railway 
 has-tagged-roles:: #[[Product owner]], #[[Data architect]] 
-has-linked-projects:: #Asset360, #[[Business process for track tracé data delivery]], #[[Topologie to be]]
-, #[[Product owner: railway micro-topology management platform]] 
+has-linked-projects:: #Asset360, #[[Business process for track tracé data delivery]], #[[Topologie to be]], #[[Product owner: railway micro-topology management platform]] 
 is-featured:: Yes
 during-job:: #[[Job: Teamlead data centricity]]
 

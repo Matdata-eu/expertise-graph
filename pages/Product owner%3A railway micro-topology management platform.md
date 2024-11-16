@@ -4,6 +4,6 @@ description:: The track microtopology topology is a very important data aspect f
 has-category:: Business process
 has-tagged-techniques:: #[[Data centricity]], #Topology, #RTM, #[[AutoCAD suite]], #GIS, #Oracle, #LandXML, #Railway, #Jira 
 has-tagged-roles:: #Teamlead, #[[Product owner]], #[[Business analyst]]
-has-linked-projects:: #[[Topologie to be]], #[[Design revision comparison]] 
+has-linked-projects:: #[[Topologie to be]], #[[Design revision comparison]], #[[Change context management application]], #[[Business process for track tracé data delivery]] 
 is-featured:: Yes
 during-job:: #[[Job: Teamlead data centricity]]
