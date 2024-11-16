@@ -1,9 +1,9 @@
 public:: true
 type:: [[Project]]
-description::
+description:: Energy settlement (responsible for a large part of the operational turnover of the company) is still done mainly using Excel. Several interfaces to existing JSON API services were added to the Excel file to add a higher level of automation to the system. 
 has-category:: Data processing
 has-tagged-techniques:: #[[Power Query]], #Excel, #[[JSON API]] 
-has-tagged-roles::
+has-tagged-roles:: #Developper, #[[Business analyst]], #[[Data architect]] 
 has-linked-projects::
 is-featured:: No
 during-job:: #[[Job: Teamlead data centricity]]
