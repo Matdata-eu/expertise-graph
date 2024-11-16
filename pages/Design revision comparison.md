@@ -1,6 +1,6 @@
 public:: true
 type:: [[Project]]
-description::
+description:: 
 has-category:: Image processing, Data processing
 has-tagged-techniques:: #OpenCV, #Devcontainers, #[[C# .NET]], #Python 
 has-tagged-roles::
