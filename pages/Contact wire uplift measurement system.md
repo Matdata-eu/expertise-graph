@@ -3,7 +3,7 @@ type:: [[Project]]
 description:: A solar/battery powered hardware system mounted in the catenary, measuring the vertical movement of the contact wire at the passage of a train.
 has-category:: Measurement system
 has-tagged-techniques:: #[[Raspberry Pi]], #Arduino, #C++, #[[PCB design]], #GSM 
-has-tagged-roles:: #Developper, #[[Business analyst]] 
+has-tagged-roles:: #Developer, #[[Business analyst]] 
 has-linked-projects::
 is-featured:: Yes
 during-job:: #[[Job: engineer overhead contact lines]]
