@@ -4,7 +4,7 @@ description:: A desktop application that interfaces with the traffic management 
 has-category:: Desktop app
 has-tagged-techniques:: #[[C# .NET]], #ClickOnce, #Railway, #Git, #[[Gitlab CI CD]], #OpenCV
  
-has-tagged-roles::
+has-tagged-roles:: #[[Project lead]], #[[Data architect]], #[[Business analyst]] 
 has-linked-projects::
 is-featured:: No
 during-job:: #[[Job: Project lead SMILE 2.0]]
