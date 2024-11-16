@@ -1,8 +1,9 @@
 public:: true
 type:: [[Project]]
-description::
+description:: 
 has-category:: Data processing
-has-tagged-techniques::
+has-tagged-techniques:: #Topology, #RTM, #Railway, #QGIS, #PostGIS, #PgRouting, #Git
+
 has-tagged-roles::
 has-linked-projects::
 is-featured:: Yes
