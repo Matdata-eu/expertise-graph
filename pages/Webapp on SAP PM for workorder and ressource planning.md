@@ -1,9 +1,9 @@
 public:: true
 type:: [[Project]]
-description::
+description:: SAP is not a very user friendly system. The available tools to perform planning of workorders are insufficient for railway purposes. Thus a new web application was designed and interfaced with SAP backend. This project is part of a "planningtools" program to improve the business process and optimise the use of resources.
 has-category:: Planningtool
-has-tagged-techniques:: #[[SAP PM]] 
-has-tagged-roles::
+has-tagged-techniques:: #[[SAP PM]], #[[C# .NET]],  
+has-tagged-roles:: #[[Project lead]], #[[Data architect]] 
 has-linked-projects::
 is-featured:: Yes
 during-job:: #[[Job: Teamlead data centricity]]
