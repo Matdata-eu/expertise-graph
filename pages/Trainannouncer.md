@@ -1,6 +1,6 @@
 public:: true
 type:: [[Project]]
-description::
+description:: 
 has-category:: Data processing
 has-tagged-techniques:: [[C# .NET]]
 has-tagged-roles::
