@@ -1,8 +1,8 @@
 public:: true
 type:: [[Project]]
-description::
+description:: Lightning strikes on railway infrastructure can cause serious damage and is not always detected. There exist commercially available measurement systems that interface their data of the lightning strike location and strength. We interfaced with these datasources and mapped the location (with some business rules) on the rail network. An email system was put in place to notify the installation responsible person. A GIS webapp and dashboard were also developed. 
 has-category:: Data processing
-has-tagged-techniques:: [[C# .NET]]
+has-tagged-techniques:: [[C# .NET]], #Git, #[[Gitlab CI CD]], #QGIS, #Angular, #Leaflet 
 has-tagged-roles::
 has-linked-projects::
 is-featured:: Yes
