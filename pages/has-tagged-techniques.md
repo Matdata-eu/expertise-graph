@@ -7,14 +7,14 @@ description:: describes which techniques and tools were used in the project
   :title[:h2 "Techniques not documented"]
   :query 
     [
-      :find ?technique
+      :find ?p
       :where 
-      (
+      
        [?p :block/properties ?properties]
        [(get ?properties :type) ?type]
        [(= ?type "Project")]     
        [(get ?properties :has-tagged-techniques) ?techniques]
-      )
+      
     ]
   }
   #+END_QUERY
