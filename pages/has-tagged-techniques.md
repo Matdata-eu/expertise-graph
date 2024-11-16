@@ -3,8 +3,39 @@ type:: [[Property]]
 description:: describes which techniques and tools were used in the project
 
 - #+BEGIN_QUERY
-  
+  {
+  :title[:h2 "Techniques not documented"]
+  :query 
+    [
+      :find ?technique
+      :where 
+      (
+       [?p :block/pro
+      )
+    ]
+  }
   #+END_QUERY
+	- query-table:: false
+	  #+BEGIN_QUERY
+	  {
+	    :title "List of all properties"
+	    :query [
+	      :find  ?property 
+	      :where
+	      [_ ?property _]
+	    ]
+	    :result-transform (fn [result] (sort-by first result))
+	    :view (fn [props]
+	        [:div.flex.flex-col
+	          (for [prop props]
+	            [:li prop]
+	           ) 
+	        ]
+	      )
+	  }
+	  #+END_QUERY
+- query-sort-by:: started-on
+- query-sort-desc:: true
 - {{query (page-property :type [[Technique]])}}
   query-sort-by:: page
   query-sort-desc:: false
