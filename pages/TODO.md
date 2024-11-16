@@ -63,7 +63,7 @@
 	- #[[Topologie to be]]
 	- #[[Train alert system]]
 	- #[[Trainannouncer]]
-	- #[[User friendly UI for lidar measurements]]
+	- #[[User friendly UI for image & lidar measurements]]
 	- #[[Camera inspection system for OCL]]
 	- #[[Webapp: common path of several railway vehicles]]
 	- #[[Webapp: OCL safety sheets]]
