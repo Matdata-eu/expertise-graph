@@ -1,5 +1,6 @@
 public:: true
 type:: [[Technique]]
-self-estimated-proficiency::
-is-featured::
-has-category::
+self-estimated-proficiency:: Competent
+is-featured:: No
+has-category:: Frontend
+external-link:: https://www.scichart.com/
