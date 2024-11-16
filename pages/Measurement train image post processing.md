@@ -4,7 +4,7 @@ description:: Several measurement trains are equipped with camera's that capture
 has-category:: Data processing
 has-tagged-techniques:: #[[C# .NET]], #Git, #[[Gitlab CI CD]], #Openshift, #S3, #GNSS, #Quartz.NET, #Serilog 
 has-tagged-roles:: #Developper, #[[Project lead]], #[[Business analyst]], #[[Data architect]] 
-has-linked-projects:: #[[Linear measurement data viewer]], #[[User friendly UI for image & lidar measurements]], #[[Asset recognition on images from measurement train]] 
+has-linked-projects:: #[[Linear measurement data viewer]], #[[Webapp for digital inspection]], #[[Asset recognition on images from measurement train]] 
 is-featured:: Yes
 during-job:: #[[Job: Project lead digitalisation linear assets]]
 

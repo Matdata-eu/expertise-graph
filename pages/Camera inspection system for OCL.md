@@ -4,6 +4,6 @@ description:: We installed over 16 camera's on a measurement train to inspect th
 has-category:: Measurement system
 has-tagged-techniques:: #Camera, #Laser, #Railway, #NTP, #SSH, #Railway, #S3 
 has-tagged-roles:: #[[Project lead]], #Technician
-has-linked-projects:: #[[Image recognition AI]], #[[Location post processing system for railway vehicles]], #[[Stratum 1 NTP server]], #[[User friendly UI for image & lidar measurements]], #[[Measurement train image post processing]] 
+has-linked-projects:: #[[Image recognition AI]], #[[Location post processing system for railway vehicles]], #[[Stratum 1 NTP server]], #[[Webapp for digital inspection]], #[[Measurement train image post processing]] 
 is-featured:: Yes
 during-job:: #[[Job: engineer overhead contact lines]]
