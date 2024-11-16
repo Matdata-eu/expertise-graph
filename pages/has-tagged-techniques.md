@@ -12,6 +12,8 @@ description:: describes which techniques and tools were used in the project
       (
        [?p :block/properties ?properties]
        [(get ?properties :type) ?type]
+       [(= ?type "Project")]     
+       [(get ?properties :has-tagged-techniques) ?techniques]
       )
     ]
   }
