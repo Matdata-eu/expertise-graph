@@ -2,4 +2,6 @@ public:: true
 type:: [[Technique]]
 self-estimated-proficiency:: Competent
 is-featured:: No
-has-category:: GIS
+has-category:: GIS & topology
+
+-
