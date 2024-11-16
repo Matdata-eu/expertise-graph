@@ -10,7 +10,8 @@ description:: describes which techniques and tools were used in the project
       :find ?technique
       :where 
       (
-       [?p :block/pro
+       [?p :block/properties ?properties]
+       [(get ?properties :type) ?type]
       )
     ]
   }
