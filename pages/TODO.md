@@ -42,7 +42,7 @@
 	- #[[Out of service planning consolidation system]]
 	- #[[Out of tension digital request system]]
 	- #[[Pantograph shock detection system]]
-	- #[[Pole inventory]]
+	- #[[Pole inventory management system]]
 	- #[[Polygon generation for EBP posts]]
 	- #[[Post processing of binary linear measurement file]]
 	- #[[PostGIS: GIS to LRS calculation library]]
