@@ -1,8 +1,8 @@
 public:: true
 type:: [[Project]]
-description:: A periodic relevant reporting on the status of strategic projects was wanted by the upper management. 
+description:: A periodic relevant reporting on the status of strategic projects was requested by the upper management. A special focus was put on change and issue reporting. Projects were categorized into two types: development and roll-out programs. A prioritisation model was also developed to objectively score projects for attention and resource reasons.
 has-category:: Business process
-has-tagged-techniques::
+has-tagged-techniques:: #Qlikview, #[[MS Project]], #Postgresql, #[[Project management]], #PMO, 
 has-tagged-roles::
 has-linked-projects:: #[[Setup PMO office]] 
 is-featured:: Yes
