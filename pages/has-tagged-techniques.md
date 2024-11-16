@@ -1,8 +1,7 @@
 exclude-from-graph-view:: true
 type:: [[Property]]
-description:: describes which techniques and tools were used in the project
+description:: describes which techniques and tools were used by me in the project. It could be that more techniques are employed but if the use of the technique in the project doesn't in some way prove my proficiency, it is not linked by this property.
 
--
 - To document:
 	- #ESP32, #NodeMCU, #PLC, #Telnet, #[[PL/pgSQL]], #[[IBM MQ]]
 	-
