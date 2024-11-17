@@ -7,3 +7,5 @@ has-tagged-roles:: #Developer, #[[Business analyst]], #[[Data architect]], #[[Pr
 has-linked-projects:: #[[OCL sectioning (topology) management application]], #[[Product owner: railway micro-topology management platform]] 
 is-featured:: Yes
 during-job:: #[[Job: Teamlead data centricity]]
+
+- ![image.png](../assets/image_1731851822715_0.png)
