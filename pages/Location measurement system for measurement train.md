@@ -9,4 +9,4 @@ is-featured:: Yes
 during-job:: #[[Job: engineer overhead contact lines]]
 
 - ![IMG_20210309_161310.jpg](../assets/IMG_20210309_161310_1731868257996_0.jpg)
-	- The box on the left of the Teltoni
+	- The box on the left of the Teltonika
