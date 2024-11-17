@@ -7,4 +7,4 @@ description::
 has-linked-roles:: #Teamlead
 
 - {{query (and (page-property :type "Project") (page-property :during-job [[Job: Teamlead data centricity]]))}}
--
+- {{query (and (page-property :type "Project") (property :during-job [[Job: Teamlead data centricity]]))}}
