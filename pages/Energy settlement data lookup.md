@@ -8,4 +8,6 @@ has-linked-projects::
 is-featured:: Yes
 during-job:: #[[Job: Teamlead data centricity]]
 
+- ![image.png](../assets/image_1731871285597_0.png)
 - ![image.png](../assets/image_1731871264915_0.png)
+- ![image.png](../assets/image_1731871312524_0.png)
