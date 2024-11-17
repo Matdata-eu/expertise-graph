@@ -2,5 +2,5 @@
 - RailLive Bilbao
 - Data mineurs Charleroi
 - Conference Iot & Big Data for Rail Cologne
-- Webinar: linked data vlaanderen?
+- #[[What is Law as a Code and why is it relevant for digital ready policymaking?]]
 - #[[Announcing the Rail Data Forum 2024]]
