@@ -6,4 +6,4 @@ is-featured:: Yes
 external-link:: https://iotandbigdatainrail.com/
 year::
 
-- [2019-05-28_29 - RiseOfIotAndBigData.pptx](../assets/2019-05-28_29_-_RiseOfIotAndBigData_1731848760834_0.pptx)
+- [2021-05-18 - Rise of Iot and big data (online).pptx](../assets/2021-05-18_-_Rise_of_Iot_and_big_data_(online)_1731848837953_0.pptx)
