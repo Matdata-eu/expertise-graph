@@ -37,6 +37,8 @@ exclude-from-graph-view:: true
 		  audience-size::
 		  has-audience-type::
 		  is-featured::
+		  external-link::
+		  year::
 - Job
 	- template:: Job
 	  template-including-parent:: false

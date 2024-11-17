@@ -14,12 +14,12 @@
   Be sure to check the [graph view](https://expertise.matdata.eu/#/graph) for inspiration!
   #+END_NOTE
 - Under construction. The following activities are not yet completed:
-	- NOW Add structured data for the projects
+	- NOW Add screenshots and other documentation to projects
 	  :LOGBOOK:
 	  CLOCK: [2024-11-12 Tue 13:20:46]
-	  CLOCK: [2024-11-12 Tue 14:38:46]
+	  CLOCK: [2024-11-12 Tue 14:38:46]--[2024-11-17 Sun 13:40:09] =>  119:01:23
+	  CLOCK: [2024-11-17 Sun 13:40:11]
 	  :END:
-	- LATER Add screenshots and other documentation to projects
 	- LATER Add structured data to talks
 - The structured data of this graph [is available in RDF](https://expertise.matdata.eu/static/matdata-expertise.ttl)
 	- LATER Add SPARQL endpoint
