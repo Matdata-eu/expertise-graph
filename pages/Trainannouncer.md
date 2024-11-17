@@ -7,3 +7,6 @@ has-tagged-roles:: #Developer, #[[Data architect]], #[[DevOps engineer]]
 has-linked-projects:: PantoCAM, Numberfinder
 is-featured:: Yes
 during-job:: #[[Job: engineer overhead contact lines]]
+
+- ![image.png](../assets/image_1731856238586_0.png)
+- ![image.png](../assets/image_1731856264669_0.png)
