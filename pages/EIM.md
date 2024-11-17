@@ -1,2 +1,2 @@
 type:: [[Company]]
-has-link:: https://eimrail.org/
+external-link:: https://eimrail.org/

@@ -1,2 +1,2 @@
 type:: [[Company]]
-has-link:: https://www.kuleuven.be/kuleuven
+external-link:: https://www.kuleuven.be/kuleuven

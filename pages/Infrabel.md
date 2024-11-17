@@ -1,2 +1,2 @@
 type:: [[Company]]
-has-link:: https://infrabel.be/
+external-link:: https://infrabel.be/

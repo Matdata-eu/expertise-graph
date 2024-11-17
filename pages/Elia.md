@@ -1,2 +1,2 @@
 type:: [[Company]]
-has-link:: https://www.elia.be
+external-link:: https://www.elia.be

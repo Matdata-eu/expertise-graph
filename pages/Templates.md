@@ -51,4 +51,4 @@ exclude-from-graph-view:: true
 	- template:: Company
 	  template-including-parent:: false
 		- type:: [[Company]]
-		  has-link::
+		  external-link::

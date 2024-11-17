@@ -1,2 +1,2 @@
 type:: [[Company]]
-has-link:: https://www.ceb-bec.be/
+external-link:: https://www.ceb-bec.be/

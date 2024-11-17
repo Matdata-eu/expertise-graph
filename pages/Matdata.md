@@ -1,2 +1,2 @@
 type:: [[Company]]
-has-link:: https://matdata.eu/
+external-link:: https://matdata.eu/
