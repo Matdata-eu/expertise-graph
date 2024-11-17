@@ -11,7 +11,7 @@
 	- #[[Data sync tool measurement vehicle]]
 	- #[[Database versioning system based on git]]
 	- #[[Design revision comparison]]
-	- #[[Desktop app: Pendules]]
+	- #[[OCL dropper calculator]]
 	- #[[Energy settlement data lookup]]
 	- #[[Energy storage calculation sheet]]
 	- #[[Enterprise data governance model]]
