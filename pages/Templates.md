@@ -33,9 +33,8 @@ exclude-from-graph-view:: true
 	  template-including-parent:: false
 		- public:: true
 		  type:: [[Talk]]
-		  has-subject::
+		  format::
 		  audience-size::
-		  has-audience-type::
 		  is-featured::
 		  external-link::
 		  year::
