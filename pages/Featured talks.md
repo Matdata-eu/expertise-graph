@@ -1,6 +1,6 @@
-- #[[ERA RailDataForum (RDF)]]
-- Bilbao (Raillive
-- Data mineurs
-- Iot & Big Data for Rail
+- #[[ERA RailDataForum (RDF) Verona]]
+- RailLive Bilbao
+- Data mineurs Charleroi
+- Iot & Big Data for Rail Cologne
 - Webinar linked data vlaanderen?
 -
