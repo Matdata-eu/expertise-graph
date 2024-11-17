@@ -9,3 +9,7 @@ is-featured:: Yes
 during-job:: #[[Job: engineer overhead contact lines]]
 
 - Integration with WMS
+- ![image.png](../assets/image_1731852493125_0.png)
+- ![image.png](../assets/image_1731852496953_0.png)
+- ![image.png](../assets/image_1731852517090_0.png)
+- ![image.png](../assets/image_1731852539115_0.png)
