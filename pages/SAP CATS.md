@@ -1,5 +1,5 @@
 public:: true
 type:: [[Technique]]
-self-estimated-proficiency::
+self-estimated-proficiency:: Competent
 is-featured:: No
 has-category:: ERP
