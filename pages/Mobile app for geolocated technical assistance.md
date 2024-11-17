@@ -8,3 +8,5 @@ has-linked-projects:: #[[Linear measurement data viewer]]
 is-featured:: Yes
 during-job:: #[[Job: engineer overhead contact lines]]
 external-link:: https://apps.apple.com/be/app/amdm/id1553037373, https://play.google.com/store/apps/details?id=be.infrabel.amdm&hl=en, https://amdm-web.infrabel.be/
+
+-
