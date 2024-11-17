@@ -7,3 +7,5 @@ has-tagged-roles:: #Developer, #[[Data analyst]], #[[Data architect]]
 has-linked-projects:: #[[OCL sectioning (topology) management application]]
 is-featured:: Yes
 during-job:: #[[Job: Teamlead data centricity]]
+
+- ![image.png](../assets/image_1731851720579_0.png)
