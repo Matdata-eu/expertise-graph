@@ -7,3 +7,5 @@ has-tagged-roles:: #Developer, #[[Data architect]], #[[Business analyst]], #[[De
 has-linked-projects:: #[[Out of tension digital request system]] 
 is-featured:: Yes
 during-job:: #[[Job: Project lead digitalisation linear assets]]
+
+- ![image.png](../assets/image_1731854502077_0.png)
