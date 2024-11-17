@@ -9,3 +9,18 @@ is-featured:: Yes
 during-job:: #[[Job: Project lead digitalisation linear assets]]
 
 - ![image.png](../assets/image_1731863096158_0.png)
+- Features
+	- GIS map with assets from inventory and #JARVIS AI detected assets
+	- See images from several perspectives
+	- Search assets and location
+	- Search all detected assets of a certain type on a line
+	- Create LIDAR sections
+	- Pole name cut out & size increase
+- Screenshots
+	- ![image.png](../assets/image_1695896275969_0.png)
+	- ![image.png](../assets/image_1695896804761_0.png)
+	- ![image.png](../assets/image_1695988850025_0.png)
+		- ![image.png](../assets/image_1695896275969_0.png)
+		- ![image.png](../assets/image_1695896804761_0.png)
+		- ![image.png](../assets/image_1695988850025_0.png)
+		-
