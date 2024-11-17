@@ -7,3 +7,5 @@ has-tagged-roles:: #[[Project lead]], #Technician
 has-linked-projects:: #[[Image recognition AI]], #[[Location post processing system for railway vehicles]], #[[Stratum 1 NTP server]], #[[Webapp for digital inspection]], #[[Measurement train image post processing]] 
 is-featured:: Yes
 during-job:: #[[Job: engineer overhead contact lines]]
+
+- ![image.png](../assets/image_1731852719752_0.png)
