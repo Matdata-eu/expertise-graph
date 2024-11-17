@@ -1,5 +1,5 @@
 public:: true
 type:: [[Technique]]
-self-estimated-proficiency::
-is-featured::
-has-category::
+self-estimated-proficiency:: Expert
+is-featured:: Yes
+has-category:: Databases

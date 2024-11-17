@@ -3,5 +3,3 @@ type:: [[Technique]]
 self-estimated-proficiency:: Competent
 is-featured:: No
 has-category:: Databases
-
-- Active directory
