@@ -8,4 +8,5 @@ has-linked-projects::
 is-featured:: No
 during-job::
 
+- ![image.png](../assets/image_1731855536316_0.png)
 -
