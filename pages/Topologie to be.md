@@ -8,4 +8,4 @@ has-linked-projects:: #[[Product owner: railway micro-topology management platfo
 is-featured:: Yes
 during-job:: #[[Job: Teamlead data centricity]]
 
--
+- ![image.png](../assets/image_1731849825290_0.png)
