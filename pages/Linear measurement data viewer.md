@@ -1,6 +1,6 @@
 public:: true
 type:: [[Project]]
-description:: Linear measurements used to be distribute on paper or sometimes pdf. Obviously, this does not allow for normal data analysis, let alone be a driver for predictive maintenance. For this project, a data platform was set up with an automatic data transfer from measurement system to storage, automatic loading of the measurement onto the data platform and alert creation according to business rules. Furthermore an analysis desktop tool was developed that allows 
+description:: Linear measurements used to be distribute on paper or sometimes pdf. Obviously, this does not allow for normal data analysis, let alone be a driver for predictive maintenance. For this project, a data platform was set up with an automatic data transfer from measurement system to storage, automatic loading of the measurement onto the data platform and alert creation according to business rules. Furthermore an analysis desktop tool was developed that allows to visualise the measurement on an interactive chart. Other features such as an image viewer, lidar viewer, trend analysis, inventory viewer and management, event viewer, 
 has-category:: Desktop app
 has-tagged-techniques:: [[C# .NET]], #Serilog, #Git, #[[Gitlab CI CD]], #ClickOnce, #Postgresql, #PostGIS, #Scichart, #Topology, #Qlikview, #Camera, #Lidar, #WMS, #Leaflet 
 has-tagged-roles:: #[[Project lead]], #[[Business analyst]], #[[Data architect]], #[[Data analyst]], #Developer, #[[DevOps engineer]] 
