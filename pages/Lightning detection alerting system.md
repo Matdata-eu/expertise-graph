@@ -9,3 +9,4 @@ is-featured:: Yes
 during-job:: #[[Job: engineer overhead contact lines]]
 
 - ![image.png](../assets/image_1731862683788_0.png)
+- ![image.png](../assets/image_1731862720711_0.png)
