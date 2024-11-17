@@ -9,4 +9,24 @@ is-featured:: Yes
 during-job:: #[[Job: engineer overhead contact lines]]
 external-link:: https://apps.apple.com/be/app/amdm/id1553037373, https://play.google.com/store/apps/details?id=be.infrabel.amdm&hl=en, https://amdm-web.infrabel.be/
 
--
+- Main features & screenshots:
+	- Open a design or the EBP screen applicable for your current location
+		- ![image.png](../assets/image_1731868531040_0.png)
+		- ![image.png](../assets/image_1731868560847_0.png)
+	- Open a design or EBP screen applicable for a location on the map
+		- ![image.png](../assets/image_1731868585755_0.png)
+	- Visualize the blocked axle counters (ACAT)
+		- ![image_1695850055676_0.png](../assets/image_1695850055676_0_1731868684914_0.png)
+		- Message appears with information about data freshness
+			- ![image.png](../assets/image_1695850099394_0.png)
+		- It's possible that for some ACAT, the location is not known. It is not possible to display these on the map, so viewing a LIST is possible
+			- ![image.png](../assets/image_1695850143545_0.png)
+			- ![image.png](../assets/image_1695850154042_0.png)
+	- Create a incident report, with photo, location and description (integrated with Workflow)
+		- ![image.png](../assets/image_1695850227375_0.png)
+	- Search assets and KP location
+		- ![image.png](../assets/image_1695850275445_0.png)
+		- ![image.png](../assets/image_1695850296866_0.png)
+	- Display your current KP location or that selected on the map
+	- Navigate to asset or use compass
+		- ![image.png](../assets/image_1695850356129_0.png)
