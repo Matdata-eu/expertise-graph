@@ -11,3 +11,5 @@ during-job:: #[[Job: Teamlead data centricity]]
 - ![image.png](../assets/image_1731851357342_0.png)
 - ![image.png](../assets/image_1731851593460_0.png)
 - ![image.png](../assets/image_1731851617280_0.png)
+- ![image.png](../assets/image_1731852108147_0.png)
+- ![image.png](../assets/image_1731852118758_0.png)
