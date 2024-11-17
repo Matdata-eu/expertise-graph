@@ -7,3 +7,5 @@ has-tagged-roles:: #[[Business analyst]], #[[Data architect]]
 has-linked-projects:: #Asset360 
 is-featured:: Yes
 during-job:: #[[Job: Teamlead data centricity]]
+
+-
