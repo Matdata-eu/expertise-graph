@@ -5,5 +5,7 @@ has-category:: Data processing
 has-tagged-techniques:: #[[Power Query]], #Excel, #[[JSON API]] 
 has-tagged-roles:: #Developer, #[[Business analyst]], #[[Data architect]] 
 has-linked-projects::
-is-featured:: No
+is-featured:: Yes
 during-job:: #[[Job: Teamlead data centricity]]
+
+- ![image.png](../assets/image_1731871264915_0.png)
