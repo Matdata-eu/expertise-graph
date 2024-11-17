@@ -4,6 +4,6 @@ description:: Location measurement of a measurement train is very important. The
 has-category:: Measurement system
 has-tagged-techniques:: #GNSS, #[[Raspberry Pi]], #IMU, #Odometry, #Git, #Prometheus, #Grafana, #SSH, #Python 
 has-tagged-roles:: #Developer, #[[Project lead]], #[[Data architect]], #Technician 
-has-linked-projects:: #[[Linear measurement data viewer]], #[[Data sync tool measurement vehicle]], #[[Measurement train image post processing]], #[[Camera inspection system for OCL]], #[[Stratum 1 NTP server]] 
+has-linked-projects:: #[[Linear measurement data viewer]], #[[Data sync tool measurement vehicle]], #[[Measurement train image post processing]], #[[Camera inspection system for OCL]], #[[Stratum 1 NTP server]], #[[Location post processing system for railway vehicles]] 
 is-featured:: Yes
 during-job:: #[[Job: engineer overhead contact lines]]
