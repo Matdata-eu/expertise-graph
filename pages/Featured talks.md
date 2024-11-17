@@ -1,4 +1,4 @@
-- #[[ERA RailDataForum (RDF) Verona]]
+- #[[ERA Rail Data Forum #1]]
 - RailLive Bilbao
 - #[[Data mineurs]]
 - #[[railML 44th conference]]
