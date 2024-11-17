@@ -9,4 +9,6 @@ is-featured:: No
 during-job::
 
 - ![image.png](../assets/image_1731855536316_0.png)
+- ![Screenshot_20241117_175554_openHAB.jpg](../assets/Screenshot_20241117_175554_openHAB_1731863181213_0.jpg)
+- ![Screenshot_20241117_175546_openHAB.jpg](../assets/Screenshot_20241117_175546_openHAB_1731863190190_0.jpg)
 -
