@@ -8,3 +8,6 @@ has-linked-projects:: #Asset360, #[[Enterprise data model]], #[[Enterprise data 
 is-featured:: Yes
 during-job:: #[[Job: Teamlead data centricity]]
 external-link:: http://datacentricmanifesto.org/
+
+- 4 key project were started:
+	-
