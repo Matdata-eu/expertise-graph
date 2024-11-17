@@ -9,4 +9,4 @@ is-featured:: Yes
 during-job:: #[[Job: Project lead digitalisation linear assets]]
 
 - Did you know that GPS time is x leap seconds away from UTC time?
--
+- ![image.png](../assets/image_1731855044196_0.png)
