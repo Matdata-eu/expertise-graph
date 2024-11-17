@@ -7,3 +7,7 @@ has-tagged-roles:: #Developer, #[[Project lead]], #[[Business analyst]]
 has-linked-projects:: #[[Train alert system]] 
 is-featured:: Yes
 during-job:: #[[Job: Project lead SMILE 2.0]]
+
+- ![Nieuwe tracker.jpg](../assets/Nieuwe_tracker_1731863475973_0.jpg)
+- ![image.png](../assets/image_1731863489701_0.png)
+- ![image.png](../assets/image_1731863505779_0.png)
