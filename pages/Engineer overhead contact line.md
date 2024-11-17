@@ -1,5 +1,5 @@
 public:: true
 type:: [[Role]]
-self-estimated-proficiency:: Advanced beginner
+self-estimated-proficiency:: Competent
 is-featured:: Yes
-has-category:: Leading roles
+has-category:: Engineering
