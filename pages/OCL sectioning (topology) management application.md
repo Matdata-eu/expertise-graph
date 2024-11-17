@@ -7,3 +7,6 @@ has-tagged-roles:: #Developer, #[[Business analyst]], #[[Data architect]]
 has-linked-projects:: #[[Signaling topology calculation program]], #[[Product owner: railway micro-topology management platform]]
 is-featured:: Yes
 during-job:: #[[Job: Project lead digitalisation linear assets]]
+
+- ![image.png](../assets/image_1731852447426_0.png)
+- ![image.png](../assets/image_1731852473739_0.png)
