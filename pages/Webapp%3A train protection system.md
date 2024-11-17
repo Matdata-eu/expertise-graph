@@ -10,3 +10,4 @@ during-job:: #[[Job: Project lead digitalisation linear assets]]
 external-link:: https://opendata.infrabel.be/explore/dataset/geo-etcs/information/?disjunctive.etcs_level&disjunctive.line_name_input
 
 - Signal data integration from multiple system for topology
+- ![image.png](../assets/image_1731850472027_0.png)
