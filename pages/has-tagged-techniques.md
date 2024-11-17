@@ -4,5 +4,5 @@ description:: describes which techniques and tools were used by me in the projec
 
 - {{query (page-property :type [[Technique]])}}
   query-sort-by:: has-category
-  query-sort-desc:: true
+  query-sort-desc:: false
   query-properties:: [:page :self-estimated-proficiency :is-featured :has-category]
