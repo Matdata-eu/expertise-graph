@@ -1,8 +1,2 @@
-- #[[ERA Rail Data Forum 2024]]
-- #[[RailLive 2019]]
-- #[[Data mineurs]]
-- #[[railML 44th conference]]
-- #[[Iot & Big Data for Rail 2021]]
-- #[[What is Law as a Code and why is it relevant for digital ready policymaking?]]
-- #[[Announcing the Rail Data Forum 2024]]
-- {{query }}
+- {{query (and (page-property :type [[Talk]]) (page-property :is-featured "Yes"))}}
+  query-properties:: [:page :format :audience-size :is-featured :external-link :year]
