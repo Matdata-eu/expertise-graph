@@ -8,5 +8,5 @@ has-linked-projects:: #[[Linear measurement data viewer]], #[[Webapp for digital
 is-featured:: Yes
 during-job:: #[[Job: Project lead digitalisation linear assets]]
 
-- Positioning in axis system with 0 GNSS
 - Did you know that GPS time is x leap seconds away from UTC time?
+-
