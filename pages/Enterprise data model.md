@@ -10,3 +10,5 @@ during-job:: #[[Job: Teamlead data centricity]]
 
 - ![image.png](../assets/image_1731853180355_0.png)
 - ![image.png](../assets/image_1731853194864_0.png)
+- ![edm-ap-infrastructure-shacl.png](../assets/edm-ap-infrastructure-shacl_1731853218896_0.png)
+- ![image.png](../assets/image_1731853236375_0.png)
