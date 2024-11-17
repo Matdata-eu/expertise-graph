@@ -8,3 +8,5 @@ has-linked-projects:: #Openrail, #[[Linear measurement data viewer]], #[[Post pr
 is-featured:: Yes
 during-job:: #[[Job: Teamlead data centricity]]
 external-link:: https://github.com/OpenRailAssociation/rcm-dx
+
+- ![image.png](../assets/image_1731853941991_0.png)
