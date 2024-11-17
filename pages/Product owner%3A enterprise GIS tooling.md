@@ -7,3 +7,5 @@ has-tagged-roles:: #Teamlead, #[[Project lead]], #[[Data architect]]
 has-linked-projects:: #[[Topologie to be]], #[[Product owner: railway micro-topology management platform]] 
 is-featured:: Yes
 during-job:: #[[Job: Teamlead data centricity]]
+
+- ![image.png](../assets/image_1731849887241_0.png)
