@@ -1,6 +1,6 @@
 - #[[ERA RailDataForum (RDF) Verona]]
 - RailLive Bilbao
 - Data mineurs Charleroi
-- Conference Iot & Big Data for Rail Cologne
+- #[[Iot & Big Data for Rail]]
 - #[[What is Law as a Code and why is it relevant for digital ready policymaking?]]
 - #[[Announcing the Rail Data Forum 2024]]
