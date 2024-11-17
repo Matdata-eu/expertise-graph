@@ -7,3 +7,5 @@ has-tagged-roles:: #Developer, #[[Business analyst]], #[[Data architect]], #[[Pr
 has-linked-projects:: #Openrail, #[[Camera inspection system for OCL]], #[[Location measurement system for measurement train]], #[[Contact wire thickness measurement system]]
 is-featured:: Yes
 during-job:: #[[Job: Project lead digitalisation linear assets]]
+
+- ![image.png](../assets/image_1731854919666_0.png)
