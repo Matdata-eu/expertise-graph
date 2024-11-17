@@ -7,3 +7,6 @@ has-tagged-roles:: #Developer, #[[Project lead]], #[[Data architect]], #Technici
 has-linked-projects:: #[[Linear measurement data viewer]], #[[Data sync tool measurement vehicle]], #[[Measurement train image post processing]], #[[Camera inspection system for OCL]], #[[Stratum 1 NTP server]], #[[Location post processing system for railway vehicles]] 
 is-featured:: Yes
 during-job:: #[[Job: engineer overhead contact lines]]
+
+- ![IMG_20210309_161310.jpg](../assets/IMG_20210309_161310_1731868257996_0.jpg)
+	- The box on the left of the Teltoni
