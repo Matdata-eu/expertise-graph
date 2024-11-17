@@ -38,6 +38,7 @@ exclude-from-graph-view:: true
 		  is-featured::
 		  external-link::
 		  year::
+		  during-job::
 - Job
 	- template:: Job
 	  template-including-parent:: false
