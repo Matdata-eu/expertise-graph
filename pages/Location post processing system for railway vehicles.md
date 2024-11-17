@@ -9,3 +9,4 @@ is-featured:: Yes
 during-job:: #[[Job: Project lead digitalisation linear assets]]
 
 - ![image.png](../assets/image_1731854919666_0.png)
+- Soon to be open sourced
