@@ -7,3 +7,7 @@ has-tagged-roles:: #[[Business analyst]], #[[Project lead]]
 has-linked-projects:: #[[Linear measurement data viewer]]
 is-featured:: No
 during-job:: #[[Job: engineer overhead contact lines]]
+
+- ![image.png](../assets/image_1731847959496_0.png)
+- ![image.png](../assets/image_1731847970877_0.png)
+- ![image.png](../assets/image_1731847982405_0.png)
