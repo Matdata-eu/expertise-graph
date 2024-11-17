@@ -2,7 +2,7 @@ public:: true
 type:: [[Project]]
 description:: A full stack application to manage change context inside the topology management system.
 has-category:: Webapp
-has-tagged-techniques:: #Python, #RDF, #SHACL, #SPARQL, #VueJs, #Railway, #Git, #[[Gitlab CI CD]], #[[Apache Jena Fuseki]] 
+has-tagged-techniques:: #Python, #RDF, #SHACL, #SPARQL, #VueJs, #Railway, #Git, #[[Gitlab CI CD]], #[[Apache Jena Fuseki]], #[[Helm charts]] 
 has-tagged-roles:: #[[Product owner]], #[[Data architect]] 
 has-linked-projects:: #Asset360, #[[Business process for track tracé data delivery]], #[[Topologie to be]], #[[Product owner: railway micro-topology management platform]] 
 is-featured:: Yes
