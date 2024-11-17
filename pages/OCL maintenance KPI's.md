@@ -7,3 +7,5 @@ has-tagged-roles:: #Developer, #[[Business analyst]]
 has-linked-projects::
 is-featured:: No
 during-job:: #[[Job: engineer overhead contact lines]]
+
+- ![image.png](../assets/image_1731850367449_0.png)
