@@ -8,4 +8,4 @@ has-linked-projects:: #[[OCL maintenance KPI's]], #[[Model for FTE calculation o
 is-featured:: Yes
 during-job:: #[[Job: engineer overhead contact lines]]
 
--
+- ![image.png](../assets/image_1731850056115_0.png)
