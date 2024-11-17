@@ -8,4 +8,5 @@ has-linked-projects:: #[[Linear measurement data viewer]], #[[Data sync tool mea
 is-featured:: Yes
 during-job:: #[[Job: engineer overhead contact lines]]
 
-- Binary files are normally manually split whenever the measurement train switches main tracks. However, sometimes Split & correct
+- Binary files are normally manually split whenever the measurement train switches main tracks. However, people make mistakes. The automatic system is also designed to correct these mistakes and create additional splits and other corrections when applicable.
+-
