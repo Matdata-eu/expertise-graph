@@ -9,4 +9,4 @@ is-featured:: Yes
 during-job:: #[[Job: Project lead digitalisation linear assets]]
 
 - Positioning in axis system with 0 GNSS
-- GPS time
+- Did you know that GPS time is x leap seconds away from UTC time?
