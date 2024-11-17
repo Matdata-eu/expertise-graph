@@ -9,4 +9,4 @@ is-featured:: Yes
 during-job:: #[[Job: engineer overhead contact lines]]
 
 - Binary files are normally manually split whenever the measurement train switches main tracks. However, people make mistakes. The automatic system is also designed to correct these mistakes and create additional splits and other corrections when applicable.
--
+- ![image.png](../assets/image_1731855383132_0.png)
