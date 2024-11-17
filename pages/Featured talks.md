@@ -1,5 +1,6 @@
-- ERA RailDataForum (RDF)
-- Bilbao (Raillive?)
+- #[[ERA RailDataForum (RDF)]]
+- Bilbao (Raillive
 - Data mineurs
 - Iot & Big Data for Rail
 - Webinar linked data vlaanderen?
+-
