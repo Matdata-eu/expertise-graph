@@ -8,4 +8,5 @@ has-linked-projects:: #Asset360
 is-featured:: Yes
 during-job:: #[[Job: Teamlead data centricity]]
 
--
+- ![image.png](../assets/image_1731853047195_0.png)
+- ![image.png](../assets/image_1731853061476_0.png)
