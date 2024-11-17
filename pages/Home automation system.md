@@ -11,4 +11,7 @@ during-job::
 - ![image.png](../assets/image_1731855536316_0.png)
 - ![Screenshot_20241117_175554_openHAB.jpg](../assets/Screenshot_20241117_175554_openHAB_1731863181213_0.jpg)
 - ![Screenshot_20241117_175546_openHAB.jpg](../assets/Screenshot_20241117_175546_openHAB_1731863190190_0.jpg)
+- ![20240310_201518.jpg](../assets/20240310_201518_1731863306839_0.jpg)
+- ![IMG_20230628_223128.jpg](../assets/IMG_20230628_223128_1731863320298_0.jpg)
+	- Charging station
 -
