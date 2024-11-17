@@ -2,6 +2,4 @@ public:: true
 type:: [[Technique]]
 self-estimated-proficiency:: Competent
 is-featured:: No
-has-category:: Database
-
-- Active directory
+has-category:: Authentication

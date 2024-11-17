@@ -1,7 +1,5 @@
 public:: true
 type:: [[Technique]]
 self-estimated-proficiency:: Competent
-is-featured:: No
-has-category:: Database
-
-- Active directory
+is-featured:: Yes
+has-category:: Data platform
