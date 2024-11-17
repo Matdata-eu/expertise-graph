@@ -20,6 +20,7 @@
 	  CLOCK: [2024-11-12 Tue 14:38:46]--[2024-11-17 Sun 13:40:09] =>  119:01:23
 	  CLOCK: [2024-11-17 Sun 13:40:11]
 	  :END:
+	- LATER Add structured data and screenshots to not-features projects
 - The structured data of this graph [is available in RDF](https://expertise.matdata.eu/static/matdata-expertise.ttl).
 - I still plan to add the following features to this graph.
 	- LATER Add SPARQL endpoint
