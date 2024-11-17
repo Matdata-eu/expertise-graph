@@ -17,8 +17,9 @@ exclude-from-graph-view:: true
 	  template-including-parent:: false
 		- public:: true
 		  type:: [[Role]]
-		  self-estimated-proficiency::
-		  is-featured::
+		  self-estimated-proficiency:: 
+		  is-featured:: 
+		  has-category::
 - Techniques
 	- template:: Technique
 	  template-including-parent:: false
