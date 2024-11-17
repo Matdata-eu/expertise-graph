@@ -8,7 +8,7 @@ has-linked-projects::
 is-featured:: No
 during-job::
 
-- ![image.png](../assets/image_1731855536316_0.png)
+- ![image.png](../assets/image_1731855536316_0.png){:height 405, :width 736}
 - ![Screenshot_20241117_175554_openHAB.jpg](../assets/Screenshot_20241117_175554_openHAB_1731863181213_0.jpg)
 - ![Screenshot_20241117_175546_openHAB.jpg](../assets/Screenshot_20241117_175546_openHAB_1731863190190_0.jpg)
 - ![20240310_201518.jpg](../assets/20240310_201518_1731863306839_0.jpg)
