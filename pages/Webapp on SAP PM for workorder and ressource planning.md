@@ -9,3 +9,4 @@ is-featured:: Yes
 during-job:: #[[Job: Teamlead data centricity]]
 
 - ![image.png](../assets/image_1731853794341_0.png)
+- ![image.png](../assets/image_1731853842900_0.png)
