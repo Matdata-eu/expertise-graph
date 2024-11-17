@@ -8,4 +8,4 @@ has-linked-projects:: #[[Measurement train image post processing]]
 is-featured:: Yes
 during-job:: #[[Job: Project lead digitalisation linear assets]]
 
--
+- ![image.png](../assets/image_1731863096158_0.png)
