@@ -2,7 +2,7 @@ public:: true
 type:: [[Talk]]
 format:: Online webinar
 audience-size:: >1000
-is-featured:: No
+is-featured:: Yes
 external-link:: https://interoperable-europe.ec.europa.eu/collection/better-legislation-smoother-implementation/event/may-2023-blsi-virtual-breakfast-what-law-code-and-why-it-relevant-digital-ready-policymaking
 year:: 2023
 
