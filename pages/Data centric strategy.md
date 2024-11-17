@@ -9,5 +9,7 @@ is-featured:: Yes
 during-job:: #[[Job: Teamlead data centricity]]
 external-link:: http://datacentricmanifesto.org/
 
-- 4 key project were started:
-	-
+- 4 key project/programs were started:
+	- #[[Enterprise data model]]: align the data models of the enterprise
+	- Data pipelines: the one that creates the data, should also publish the data
+	- Data ecosystem:
