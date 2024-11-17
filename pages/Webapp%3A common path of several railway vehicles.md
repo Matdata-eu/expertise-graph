@@ -7,3 +7,5 @@ has-tagged-roles:: #[[Project lead]], #[[DevOps engineer]], #[[Data architect]],
 has-linked-projects::
 is-featured:: Yes
 during-job:: #[[Job: engineer overhead contact lines]]
+
+- ![image.png](../assets/image_1731863574635_0.png)
