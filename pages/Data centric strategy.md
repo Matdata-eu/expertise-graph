@@ -12,4 +12,5 @@ external-link:: http://datacentricmanifesto.org/
 - 4 key project/programs were started:
 	- #[[Enterprise data model]]: align the data models of the enterprise
 	- Data pipelines: the one that creates the data, should also publish the data
-	- Data ecosystem:
+	- Data ecosystem: all application functionality, depends on the data model. This project basically started a new data layer with generic data functionality. Partly accomplished by #Asset360
+	-
