@@ -10,3 +10,4 @@ during-job:: #[[Job: Teamlead data centricity]]
 external-link:: https://gitlab.com/mathias.vanden.auweele/era-rinf-chatbot
 
 - Link to demo environment available on request.
+- ![image.png](../assets/image_1731869035590_0.png)

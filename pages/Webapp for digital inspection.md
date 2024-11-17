@@ -7,3 +7,5 @@ has-tagged-roles:: #[[Business analyst]], #[[Data architect]], #[[Project lead]]
 has-linked-projects:: #[[Image recognition AI]], #[[Image indexing services]], #[[Measurement train image post processing]], #[[PostGIS: GIS to LRS calculation library]], #[[Post processing of binary linear measurement file]], #[[Lidar vegetation detection]], #[[Linear measurement data viewer]]
 is-featured:: Yes
 during-job:: #[[Job: Project lead digitalisation linear assets]]
+
+-
