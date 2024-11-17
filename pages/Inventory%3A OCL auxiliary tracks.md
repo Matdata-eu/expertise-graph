@@ -7,3 +7,5 @@ has-tagged-roles:: #[[Project lead]], #Developer, #[[Data architect]]
 has-linked-projects:: #[[OCL sectioning (topology) management application]]
 is-featured:: Yes
 during-job:: #[[Job: Project lead digitalisation linear assets]]
+
+- ![image.png](../assets/image_1731850246134_0.png)
