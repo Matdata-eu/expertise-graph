@@ -7,3 +7,6 @@ has-tagged-roles:: #Developer, #[[Data analyst]], #[[Data architect]]
 has-linked-projects:: #[[ERA RINF Chatbot]] 
 is-featured:: Yes
 during-job:: #[[Job: Teamlead data centricity]]
+
+- ![image.png](../assets/image_1731844102041_0.png)
+-
