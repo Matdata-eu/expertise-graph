@@ -8,4 +8,4 @@ has-linked-projects:: #[[Image recognition AI]], #[[Image indexing services]], #
 is-featured:: Yes
 during-job:: #[[Job: Project lead digitalisation linear assets]]
 
--
+- ![image.png](../assets/image_1731863096158_0.png)
