@@ -10,3 +10,5 @@ during-job:: #[[Job: engineer overhead contact lines]]
 
 - ![image.png](../assets/image_1731852830631_0.png)
 - ![image.png](../assets/image_1731852839165_0.png)
+- ![image.png](../assets/image_1731854445541_0.png)
+- ![image.png](../assets/image_1731854427721_0.png)
