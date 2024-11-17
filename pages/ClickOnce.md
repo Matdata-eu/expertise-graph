@@ -1,5 +1,5 @@
 public:: true
 type:: [[Technique]]
 self-estimated-proficiency:: Proficient
-is-featured:: Yes
-has-category:: Backend
+is-featured:: No
+has-category:: DevOps
