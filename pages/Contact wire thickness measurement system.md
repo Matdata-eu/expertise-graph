@@ -7,3 +7,6 @@ has-tagged-roles:: #Developer, #[[Data architect]], #[[Business analyst]], #[[Pr
 has-linked-projects:: #[[Linear measurement data viewer]], #[[Location measurement system for measurement train]], #[[Camera inspection system for OCL]] 
 is-featured:: Yes
 during-job:: #[[Job: engineer overhead contact lines]]
+
+- ![image.png](../assets/image_1731852830631_0.png)
+- ![image.png](../assets/image_1731852839165_0.png)
