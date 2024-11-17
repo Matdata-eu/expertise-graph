@@ -10,3 +10,4 @@ during-job:: #[[Job: Project lead SMILE 2.0]]
 
 - ![image.png](../assets/image_1731847438762_0.png)
 - ![image.png](../assets/image_1731847459936_0.png)
+- ![image.png](../assets/image_1731852909014_0.png)
