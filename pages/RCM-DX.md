@@ -10,3 +10,4 @@ during-job:: #[[Job: Teamlead data centricity]]
 external-link:: https://github.com/OpenRailAssociation/rcm-dx
 
 - ![image.png](../assets/image_1731853941991_0.png)
+- ![image.png](../assets/image_1731854061936_0.png)
