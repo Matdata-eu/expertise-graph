@@ -8,4 +8,5 @@ has-linked-projects:: #[[Data centric strategy]], #[[Enterprise data governance 
 is-featured:: Yes
 during-job:: #[[Job: Teamlead data centricity]]
 
--
+- ![image.png](../assets/image_1731853180355_0.png)
+- ![image.png](../assets/image_1731853194864_0.png)
