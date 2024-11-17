@@ -1,5 +1,7 @@
 public:: true
 type:: [[Technique]]
 self-estimated-proficiency:: Expert
-is-featured:: No
-has-category:: Data models
+is-featured:: Yes
+has-category:: Business
+
+- Linear referencing system

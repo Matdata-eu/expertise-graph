@@ -1,5 +1,5 @@
 public:: true
 type:: [[Technique]]
 self-estimated-proficiency:: Proficient
-is-featured:: Yes
-has-category:: Data models
+is-featured::
+has-category::
