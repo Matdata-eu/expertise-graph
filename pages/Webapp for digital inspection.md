@@ -17,10 +17,7 @@ during-job:: #[[Job: Project lead digitalisation linear assets]]
 	- Create LIDAR sections
 	- Pole name cut out & size increase
 - Screenshots
-	- ![image.png](../assets/image_1695896275969_0.png)
-	- ![image.png](../assets/image_1695896804761_0.png)
-	- ![image.png](../assets/image_1695988850025_0.png)
-		- ![image.png](../assets/image_1695896275969_0.png)
-		- ![image.png](../assets/image_1695896804761_0.png)
-		- ![image.png](../assets/image_1695988850025_0.png)
-		-
+	- ![image_1695896275969_0.png](../assets/image_1695896275969_0_1731870263382_0.png)
+	- ![image_1695896804761_0.png](../assets/image_1695896804761_0_1731870270385_0.png)
+	- ![image_1695988850025_0.png](../assets/image_1695988850025_0_1731870272758_0.png)
+	-
