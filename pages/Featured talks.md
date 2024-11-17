@@ -1,6 +1,6 @@
 - #[[ERA RailDataForum (RDF) Verona]]
 - RailLive Bilbao
 - Data mineurs Charleroi
-- Iot & Big Data for Rail Cologne
-- Webinar linked data vlaanderen?
--
+- Conference Iot & Big Data for Rail Cologne
+- Webinar: linked data vlaanderen?
+- Webinar: Announcing the Rail Data Forum 2024
