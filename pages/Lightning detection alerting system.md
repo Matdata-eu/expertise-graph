@@ -7,3 +7,5 @@ has-tagged-roles:: #Developer, #[[Project lead]], #[[Data architect]]
 has-linked-projects:: #[[Linear measurement data viewer]]
 is-featured:: Yes
 during-job:: #[[Job: engineer overhead contact lines]]
+
+- ![image.png](../assets/image_1731862683788_0.png)
