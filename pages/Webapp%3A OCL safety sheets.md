@@ -10,3 +10,4 @@ during-job:: #[[Job: Project lead digitalisation linear assets]]
 
 - ![image.png](../assets/image_1731854560697_0.png)
 - ![image.png](../assets/image_1731854601403_0.png)
+- ![image.png](../assets/image_1731854796004_0.png)
