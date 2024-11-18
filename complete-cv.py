@@ -82,7 +82,6 @@ WHERE {
 }
 GROUP BY ?category
 ORDER BY ?category
-LIMIT 10
 
 """
 

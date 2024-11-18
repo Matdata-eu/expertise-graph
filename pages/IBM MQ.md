@@ -1,5 +1,5 @@
 public:: true
 type:: [[Technique]]
 self-estimated-proficiency:: Advanced beginner
-is-featured:: No
+is-featured:: Yes
 has-category:: Message queue

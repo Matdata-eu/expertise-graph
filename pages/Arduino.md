@@ -1,5 +1,5 @@
 public:: true
 type:: [[Technique]]
 self-estimated-proficiency:: Proficient
-is-featured:: No
+is-featured:: Yes
 has-category:: Micro computer

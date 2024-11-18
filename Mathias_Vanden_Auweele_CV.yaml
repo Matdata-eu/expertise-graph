@@ -355,7 +355,7 @@ cv:
         lead'
       - '**Technologies**: Dbeaver, Excel, Oracle, Postgresql, SQL, VBA'
     - date: Data management app
-      name: '[OCL sectioning (topology) management application](https://expertise.matdata.eu/\#/page/OCL\%20sectioning\%20\(topology\)\%20management\%20application)'
+      name: '[OCL sectioning topology management application](https://expertise.matdata.eu/\#/page/OCL\%20sectioning\%20topology\%20management\%20application)'
       highlights:
       - A frontend GIS (graphical) management application running in QGIS to build
         and update the sectioning database of the overhead contact line. The base
@@ -608,11 +608,15 @@ cv:
     - label: API
       details: '[JSON API](https://expertise.matdata.eu/\#/page/JSON\%20API), [MS
         Graph](https://expertise.matdata.eu/\#/page/MS\%20Graph)'
+    - label: Authentication
+      details: '[ADFS](https://expertise.matdata.eu/\#/page/ADFS), [Kerberos](https://expertise.matdata.eu/\#/page/Kerberos)'
     - label: Business
       details: '[Data governance](https://expertise.matdata.eu/\#/page/Data\%20governance),
         [LRS](https://expertise.matdata.eu/\#/page/LRS), [PMO](https://expertise.matdata.eu/\#/page/PMO),
         [Project management](https://expertise.matdata.eu/\#/page/Project\%20management),
         [Railway](https://expertise.matdata.eu/\#/page/Railway)'
+    - label: Communication
+      details: '[NFC](https://expertise.matdata.eu/\#/page/NFC)'
     - label: Data analytics
       details: '[Excel](https://expertise.matdata.eu/\#/page/Excel), [Grafana](https://expertise.matdata.eu/\#/page/Grafana),
         [Power Query](https://expertise.matdata.eu/\#/page/Power\%20Query), [PowerBI](https://expertise.matdata.eu/\#/page/PowerBI),
@@ -635,6 +639,67 @@ cv:
       details: '[Dbeaver](https://expertise.matdata.eu/\#/page/Dbeaver), [MSSQL](https://expertise.matdata.eu/\#/page/MSSQL),
         [MySQL](https://expertise.matdata.eu/\#/page/MySQL), [Oracle](https://expertise.matdata.eu/\#/page/Oracle),
         [Postgresql](https://expertise.matdata.eu/\#/page/Postgresql)'
+    - label: DevOps
+      details: '[Devcontainers](https://expertise.matdata.eu/\#/page/Devcontainers),
+        [Docker](https://expertise.matdata.eu/\#/page/Docker), [Git](https://expertise.matdata.eu/\#/page/Git),
+        [Github actions](https://expertise.matdata.eu/\#/page/Github\%20actions),
+        [Gitlab CI CD](https://expertise.matdata.eu/\#/page/Gitlab\%20CI\%20CD), [Helm
+        charts](https://expertise.matdata.eu/\#/page/Helm\%20charts)'
+    - label: ERP
+      details: '[SAP PM](https://expertise.matdata.eu/\#/page/SAP\%20PM)'
+    - label: Frontend
+      details: '[Scichart](https://expertise.matdata.eu/\#/page/Scichart)'
+    - label: GIS & Topology
+      details: '[PgRouting](https://expertise.matdata.eu/\#/page/PgRouting), [PostGIS](https://expertise.matdata.eu/\#/page/PostGIS)'
+    - label: GIS & topology
+      details: '[QGIS](https://expertise.matdata.eu/\#/page/QGIS), [WMS](https://expertise.matdata.eu/\#/page/WMS)'
+    - label: IaaS / Container orchestration
+      details: '[Azure](https://expertise.matdata.eu/\#/page/Azure), [Kubernetes](https://expertise.matdata.eu/\#/page/Kubernetes),
+        [Openshift](https://expertise.matdata.eu/\#/page/Openshift)'
+    - label: Message queue
+      details: '[MQTT](https://expertise.matdata.eu/\#/page/MQTT)'
+    - label: Micro computer
+      details: '[PLC](https://expertise.matdata.eu/\#/page/PLC)'
+    - label: Mobile
+      details: '[Android](https://expertise.matdata.eu/\#/page/Android), [iOS](https://expertise.matdata.eu/\#/page/iOS)'
+    - label: Monitoring system
+      details: '[Loki](https://expertise.matdata.eu/\#/page/Loki), [Prometheus](https://expertise.matdata.eu/\#/page/Prometheus)'
+    - label: Networking
+      details: '[Cloudflare](https://expertise.matdata.eu/\#/page/Cloudflare), [Firewall](https://expertise.matdata.eu/\#/page/Firewall),
+        [Forward proxy](https://expertise.matdata.eu/\#/page/Forward\%20proxy), [Reverse
+        proxy](https://expertise.matdata.eu/\#/page/Reverse\%20proxy), [SSH](https://expertise.matdata.eu/\#/page/SSH),
+        [VPN](https://expertise.matdata.eu/\#/page/VPN)'
+    - label: Other
+      details: '[Logseq](https://expertise.matdata.eu/\#/page/Logseq), [MS Project](https://expertise.matdata.eu/\#/page/MS\%20Project),
+        [Nextcloud](https://expertise.matdata.eu/\#/page/Nextcloud), [ODK](https://expertise.matdata.eu/\#/page/ODK),
+        [OpenHAB](https://expertise.matdata.eu/\#/page/OpenHAB), [Opendata](https://expertise.matdata.eu/\#/page/Opendata),
+        [Sharepoint](https://expertise.matdata.eu/\#/page/Sharepoint)'
+    - label: Programming languages
+      details: '[C# /NET](https://expertise.matdata.eu/\#/page/C\%23\%20\%2FNET),
+        [Java](https://expertise.matdata.eu/\#/page/Java), [PHP](https://expertise.matdata.eu/\#/page/PHP),
+        [Plpgsql](https://expertise.matdata.eu/\#/page/Plpgsql), [Python](https://expertise.matdata.eu/\#/page/Python),
+        [SQL](https://expertise.matdata.eu/\#/page/SQL), [VBA](https://expertise.matdata.eu/\#/page/VBA)'
+    - label: Scheduler
+      details: '[Airflow](https://expertise.matdata.eu/\#/page/Airflow)'
+    - label: Semantic technologies
+      details: '[Apache Jena Fuseki](https://expertise.matdata.eu/\#/page/Apache\%20Jena\%20Fuseki),
+        [GeoSPARQL](https://expertise.matdata.eu/\#/page/GeoSPARQL), [GraphDB](https://expertise.matdata.eu/\#/page/GraphDB),
+        [OWL](https://expertise.matdata.eu/\#/page/OWL), [Ontop](https://expertise.matdata.eu/\#/page/Ontop),
+        [Protege](https://expertise.matdata.eu/\#/page/Protege), [RDF](https://expertise.matdata.eu/\#/page/RDF),
+        [RML & YARRRML](https://expertise.matdata.eu/\#/page/RML\%20\%26\%20YARRRML),
+        [RMLMapper](https://expertise.matdata.eu/\#/page/RMLMapper), [SHACL](https://expertise.matdata.eu/\#/page/SHACL),
+        [SHACL Play](https://expertise.matdata.eu/\#/page/SHACL\%20Play), [SKOS](https://expertise.matdata.eu/\#/page/SKOS),
+        [SOLID](https://expertise.matdata.eu/\#/page/SOLID), [SPARQL](https://expertise.matdata.eu/\#/page/SPARQL),
+        [SPARQL Anything](https://expertise.matdata.eu/\#/page/SPARQL\%20Anything),
+        [Virtuoso](https://expertise.matdata.eu/\#/page/Virtuoso), [Widoco](https://expertise.matdata.eu/\#/page/Widoco)'
+    - label: Sensors & measurements
+      details: '[DSMR](https://expertise.matdata.eu/\#/page/DSMR), [GNSS](https://expertise.matdata.eu/\#/page/GNSS),
+        [IMU](https://expertise.matdata.eu/\#/page/IMU), [Laser](https://expertise.matdata.eu/\#/page/Laser),
+        [Laser triangulation](https://expertise.matdata.eu/\#/page/Laser\%20triangulation),
+        [Lidar](https://expertise.matdata.eu/\#/page/Lidar), [NTP](https://expertise.matdata.eu/\#/page/NTP),
+        [Odometry](https://expertise.matdata.eu/\#/page/Odometry)'
+    - label: Webservers
+      details: '[Caddy](https://expertise.matdata.eu/\#/page/Caddy), [Nginx](https://expertise.matdata.eu/\#/page/Nginx)'
   social_networks:
   - network: LinkedIn
     username: mathiasvda
