@@ -1,0 +1,139 @@
+cv:
+  name: Mathias Vanden Auweele
+  location: Kampenhout, Belgium
+  email: mathias@matdata.eu
+  phone: tel:+32 491 16 16 88
+  website: https://matdata.eu
+  social_networks:
+    - network: LinkedIn
+      username: mathiasvda
+    - network: GitHub
+      username: MathiasVDA
+    - network: GitLab
+      username: mathias.vanden.auweele
+    - network: Mastodon
+      username: "@mathiasvda@Mastodon"
+      
+  sections:
+                
+    education:
+      - institution: KUL, university of Leuven, Belgium
+        area: Master in engineering, Energy
+        degree: ME
+        start_date: 2007-09
+        end_date: 2009-06
+        highlights:
+          - 'Graduated Magna cum laude'
+      - institution: GroepT, Leuven, Belgium
+        area: Master in engineering, Electromechanics
+        degree: ME
+        start_date: 2003-09
+        end_date: 2007-06
+        highlights:
+          - 'Graduated Magna cum laude'
+    
+    experience:
+      - company: Matdata
+        position: Freelance data consultant
+        location: Europe
+        start_date: 2025-02
+      - company: Infrabel
+        position: Teamlead data centricity
+        location: Brussels, Belgium
+        start_date: 2022-04
+        end_date: 2025-02
+        highlights:
+          - Lead the migration toward a data centric software landscape
+          - Be the data single point of contact for a department of 9000+ employees
+          - Steer the application landscape and implement the digital strategy
+          - Manage and improve the data quality
+          - Portfolio manager for data projects
+      - company: Infrabel
+        position: Project lead digitalisation
+        location: Brussels, Belgium
+        start_date: 2020-01
+        end_date: 2022-04
+        highlights:
+          - Design and produce innovative digital solutions to improve the different activities of Infrabel Operations (maintenance, construction, operation, logistics, ...)
+      - company: Infrabel
+        position: Project lead strategic project reporting
+        location: Brussels, Belgium
+        start_date: 2017-09
+        end_date: 2020-01
+        highlights:
+          - Align the innovation projects with the internal strategic vision
+          - Project prioritisation and portfolio management
+          - Implement a strategic project/program reporting system
+          - Setup a PMO office
+      - company: Infrabel
+        position: Engineer catenary data cell
+        location: Brussels, Belgium
+        start_date: 2009-09
+        end_date: 2017-09
+        highlights:
+          - Responsible for OCL measurement systems & all related IT
+          - Responsible for work management system of catenary
+          - Expand the technical inventory and develop supporting tools
+          - Participation in CEN/CENELEC and EIM/ERA working groups
+          - Uniformisation of the catenary design principles
+    
+    languages:
+      - label: Dutch
+        details: mother tongue
+      - label: French
+        details: fluent
+      - label: English
+        details: fluent
+    
+    projects_and_technologies:
+      - The project and technology lists below are a summary. More details such as screenshots or self-estimated-proficiency can be found and easily queried on https://expertise.matdata.eu/
+
+    projects:
+      - name: Multi-User Drawing Tool
+        date: '[github.com/name/repo](https://github.com/sinaatalay/rendercv)'
+        highlights:
+          - Developed an electronic classroom where multiple users
+            can simultaneously view and draw on a "chalkboard"
+            with each person's edits synchronized
+          - 'Tools Used: C++, MFC'
+    technologies:
+      - label: Languages
+        details: C++, C, Java, Objective-C, C#, SQL, JavaScript
+design:
+  theme: classic
+  font: Source Sans 3
+  font_size: 10pt
+  page_size: a4paper
+  color: '#0563bb'
+  disable_external_link_icons: false
+  disable_page_numbering: false
+  page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  disable_last_updated_date: true
+  last_updated_date_style: Last updated in TODAY
+  header_font_size: 24 pt
+  text_alignment: justified
+  seperator_between_connections: ''
+  use_icons_for_connections: true
+  margins:
+    page:
+      top: 2 cm
+      bottom: 2 cm
+      left: 2 cm
+      right: 2 cm
+    section_title:
+      top: 0.3 cm
+      bottom: 0.2 cm
+    entry_area:
+      left_and_right: 0.2 cm
+      vertical_between: 0.2 cm
+      date_and_location_width: 4.5 cm
+      education_degree_width: 1 cm
+    highlights_area:
+      top: 0.10 cm
+      left: 0.4 cm
+      vertical_between_bullet_points: 0.10 cm
+    header:
+      vertical_between_name_and_connections: 0.3 cm
+      bottom: 0.3 cm
+      horizontal_between_connections: 0.5 cm
+  show_timespan_in: []
