@@ -4,7 +4,7 @@ description:: A data management application in QGIS to manage the geographic loc
 has-category:: Data management app
 has-tagged-techniques:: #ODK, #QGIS, #PostGIS, #Postgresql, #Dbeaver, #Plpgsql, #Git, #PowerBI, #Topology, #WMS
 has-tagged-roles:: #Developer, #[[Data analyst]], #[[Data architect]]
-has-linked-projects:: #[[OCL sectioning (topology) management application]]
+has-linked-projects:: #[[OCL sectioning topology management application]]
 is-featured:: Yes
 during-job:: #[[Job: Teamlead data centricity]]
 

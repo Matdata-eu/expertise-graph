@@ -1,0 +1,32 @@
+[
+  {
+    "kind": 1,
+    "language": "markdown",
+    "value": "    d:has-tagged-techniques d:Python, d:Azure, d:OWL, <https://expertise.matdata.eu/#/page/ERA%20ontology>, <https://expertise.matdata.eu/#/page/Gitlab%20CI%20CD>, <https://expertise.\r\n    d:has-tagged-roles d:Ontologist, d:Developer, <https://expertise.matdata.eu/#/page/DevOps%20engineer>;",
+    "metadata": {}
+  },
+  {
+    "kind": 2,
+    "language": "sparql",
+    "value": "PREFIX s: <https://schema.org/>\r\nPREFIX d: <https://expertise.matdata.eu/#/page/>\r\n\r\nSELECT ?uri ?category ?name ?description\r\n       (GROUP_CONCAT(distinct ?role_name; separator=\", \") AS ?roles) \r\n       (GROUP_CONCAT(distinct ?technique_name; separator=\", \") AS ?techniques) \r\nWHERE {\r\n    {\r\n        SELECT (REPLACE(str(?s),\"([#%()])\", \"\\\\\\\\$1\") as ?uri) ?category ?name ?description ?role_name ?technique_name\r\n        WHERE {\r\n            ?s  d:type d:Project ;\r\n                s:name ?name ;\r\n                d:description ?description ;\r\n                d:is-featured ?project_featured ;\r\n                d:has-category ?category ;\r\n                d:public ?public ;\r\n                d:has-tagged-techniques ?technique ;\r\n                d:has-tagged-roles ?role .\r\n\r\n            ?technique  d:type d:Technique ;\r\n                d:is-featured ?technique_featured ;\r\n                s:name ?technique_name .\r\n\r\n            ?role  d:type d:Role ;\r\n                d:is-featured ?role_featured ;\r\n                s:name ?role_name .\r\n\r\n            FILTER(?project_featured = \"Yes\")\r\n            FILTER(?technique_featured = \"Yes\")\r\n        }\r\n        ORDER BY ?role_name ?technique_name\r\n    }\r\n}\r\nGROUP BY ?uri ?category ?name ?description\r\nORDER BY ?uri ?category ?name\r\nLIMIT 10",
+    "metadata": {}
+  },
+  {
+    "kind": 2,
+    "language": "sparql",
+    "value": "\r\nPREFIX s: <https://schema.org/>\r\nPREFIX d: <https://expertise.matdata.eu/#/page/>\r\n\r\nSELECT ?category \r\n       (GROUP_CONCAT(\r\n        CONCAT(\"[\", str(?name), \"](\"\r\n        , REPLACE(\r\n            str(?s),\r\n            \"([#%()])\", \"\\\\$1\"\r\n        )       \r\n        , \")\"\r\n       ); separator=\", \") AS ?technologies)\r\nWHERE {\r\n    SELECT ?s ?category ?name\r\n    WHERE {\r\n        ?s  d:type d:Technique;\r\n            d:is-featured ?featured;\r\n            d:has-category ?category;\r\n            s:name ?name.      \r\n            \r\n        FILTER(?featured=\"Yes\")\r\n    }\r\n    ORDER BY ?category ?name\r\n}\r\nGROUP BY ?category\r\nORDER BY ?category\r\nLIMIT 10",
+    "metadata": {}
+  },
+  {
+    "kind": 2,
+    "language": "sparql",
+    "value": "PREFIX s: <https://schema.org/>\r\nPREFIX d: <https://expertise.matdata.eu/#/page/>\r\n\r\nSELECT ?s ?category ?name\r\nWHERE {\r\n    ?s  d:type d:Role;\r\n        d:is-featured ?featured;\r\n        d:has-category ?category;\r\n        s:name ?name.\r\n        \r\n    FILTER(?featured=\"Yes\")\r\n}\r\nORDER BY ?category ?name",
+    "metadata": {}
+  },
+  {
+    "kind": 2,
+    "language": "sparql",
+    "value": "PREFIX s: <https://schema.org/>\r\nPREFIX d: <https://expertise.matdata.eu/#/page/>\r\n\r\nSELECT ?s ?category ?name (CONCAT(\"[\", str(?name), \"](\", str(?s), \")\") as ?tech)\r\nWHERE {\r\n    ?s  d:type d:Technique;\r\n        d:is-featured ?featured;\r\n        d:has-category ?category;\r\n        s:name ?name.      \r\n\r\n    FILTER(?featured=\"Yes\")\r\n}\r\nORDER BY ?category ?name",
+    "metadata": {}
+  }
+]

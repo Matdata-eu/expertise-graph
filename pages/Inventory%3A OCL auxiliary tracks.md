@@ -4,7 +4,7 @@ description:: The legacy system to manage the electrified auxiliary tracks was n
 has-category:: Data processing
 has-tagged-techniques:: #Topology, #Qlikview, #QGIS, #PostGIS, #Postgresql, #Dbeaver, #Plpgsql
 has-tagged-roles:: #[[Project lead]], #Developer, #[[Data architect]]
-has-linked-projects:: #[[OCL sectioning (topology) management application]]
+has-linked-projects:: #[[OCL sectioning topology management application]]
 is-featured:: Yes
 during-job:: #[[Job: Project lead digitalisation linear assets]]
 
