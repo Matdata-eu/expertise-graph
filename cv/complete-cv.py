@@ -7,7 +7,7 @@ yaml = YAML()
 g = Graph()
 
 # Parse the TTL file
-g.parse("matdata-expertise.ttl", format="turtle")
+g.parse("../matdata-expertise.ttl", format="turtle")
 
 # Print the number of triples in the graph
 print(f"Number of triples in the graph: {len(g)}")

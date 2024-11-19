@@ -1,6 +1,7 @@
 
 stages:
   - rdf
+  - cv
   - pages
 
 rdf:
@@ -17,6 +18,22 @@ rdf:
     paths:
       - matdata-expertise.ttl
 
+cv:
+  image: mathiasvda/rendercv
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+  stage: cv
+  script:
+    - cd cv
+    - pip install -r requirements.txt
+    - python ./complete-cv.py
+    - rendercv render Mathias_Vanden_auweele_CV.yaml
+  dependencies:
+    - rdf
+  artifacts:
+    paths:
+      - cv/rendercv_output/
+
 pages:
   image:
     name: ghcr.io/l-trump/logseq-publish-spa:alpine
@@ -29,8 +46,10 @@ pages:
     - mkdir -p public
     - node /opt/logseq-publish-spa/publish_spa.mjs $CI_PROJECT_DIR/public --static-directory /opt/logseq-static --directory $CI_PROJECT_DIR --theme-mode $THEME --accent-color $ACCENT_COLOR
     - mv matdata-expertise.ttl public/static/
+    - mv rendercv_output/Mathias_Vanden_Auweele_CV.pdf public/static/
   artifacts:
     paths:
       - public
   dependencies:
     - rdf
+    - cv
