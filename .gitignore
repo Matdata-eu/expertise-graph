@@ -2,3 +2,5 @@ logseq/bak
 logseq/.recycle
 matdata-expertise.ttl
 .venv
+cv/rendercv_output/
+cv/texput.log
