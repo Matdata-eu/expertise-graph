@@ -26,7 +26,7 @@ cv:
   script:
     - cd cv
     - pip install -r requirements.txt
-    - python ./complete-cv.py
+    - python3.12 ./complete-cv.py
     - rendercv render Mathias_Vanden_Auweele_CV.yaml
   dependencies:
     - rdf
