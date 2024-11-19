@@ -19,7 +19,7 @@ rdf:
       - matdata-expertise.ttl
 
 cv:
-  image: mathiasvda/rendercv
+  image: mathiasvda/rendercv-with-lualatex
   rules:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
   stage: cv
