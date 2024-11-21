@@ -22,6 +22,7 @@
 	  :END:
 - The structured data of this graph [is available in RDF](https://expertise.matdata.eu/static/matdata-expertise.ttl).
 - I still plan to add the following features to this graph.
+	- LATER Add SHACL validation to gitlab pipeline
 	- LATER Add SPARQL endpoint
 	- LATER Add chatbot
 	  :LOGBOOK:

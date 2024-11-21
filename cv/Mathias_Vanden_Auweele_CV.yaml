@@ -4,6 +4,7 @@ cv:
   email: mathias@matdata.eu
   phone: tel:+32 491 16 16 88
   website: https://matdata.eu
+  photo: profile.jpg
   social_networks:
   - network: LinkedIn
     username: mathiasvda
@@ -14,6 +15,9 @@ cv:
   - network: Mastodon
     username: '@mathiasvda@Mastodon'
   sections:
+    about_me:
+    - Innovative data freelancer with over 15 years of experience developing user-centered and data-centric IT systems. Starting from business idea and going all the way a solution in production and even beyond.
+    
     education:
     - institution: KUL, university of Leuven, Belgium
       area: Master in engineering, Energy
@@ -29,6 +33,7 @@ cv:
       end_date: 2007-06
       highlights:
       - Graduated Magna cum laude
+    
     experience:
     - company: Matdata
       position: Freelance data consultant

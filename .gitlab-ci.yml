@@ -19,7 +19,7 @@ rdf:
       - matdata-expertise.ttl
 
 cv:
-  image: mathiasvda/rendercv-with-lualatex
+  image: mathiasvda/rendercv-with-profile-pic
   rules:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
   stage: cv
@@ -27,7 +27,7 @@ cv:
     - cd cv
     - pip install -r requirements.txt
     - python3.12 ./complete-cv.py
-    - rendercv render --use-local-latex-command lualatex Mathias_Vanden_Auweele_CV.yaml
+    - rendercv render -use pdflatex -nomd -nohtml -nopng Mathias_Vanden_Auweele_CV.yaml
   dependencies:
     - rdf
   artifacts:
