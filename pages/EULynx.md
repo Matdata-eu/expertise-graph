@@ -1,5 +1,5 @@
 public:: true
 type:: [[Technique]]
-self-estimated-proficiency:: 
-is-featured::
-has-category::
+self-estimated-proficiency:: Advanced beginner
+is-featured:: No
+has-category:: Data models
