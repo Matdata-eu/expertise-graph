@@ -1,0 +1,4 @@
+
+  ?s a qudt:Quantity .
+  ?s ?p ?o.
+  FILTER NOT EXISTS {?s qudt:value ?value}

@@ -28,5 +28,11 @@
     "language": "sparql",
     "value": "PREFIX s: <https://schema.org/>\r\nPREFIX d: <https://expertise.matdata.eu/#/page/>\r\n\r\nSELECT ?s ?category ?name (CONCAT(\"[\", str(?name), \"](\", str(?s), \")\") as ?tech)\r\nWHERE {\r\n    ?s  d:type d:Technique;\r\n        d:is-featured ?featured;\r\n        d:has-category ?category;\r\n        s:name ?name.      \r\n\r\n    FILTER(?featured=\"Yes\")\r\n}\r\nORDER BY ?category ?name",
     "metadata": {}
+  },
+  {
+    "kind": 2,
+    "language": "sparql",
+    "value": "select * where { ?s ?p ?o } limit 10",
+    "metadata": {}
   }
 ]

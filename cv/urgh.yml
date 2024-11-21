@@ -1,0 +1,4 @@
+cd cv
+pip install -r requirements.txt
+python3.12 ./complete-cv.py
+rendercv render -use "lualatex" Mathias_Vanden_Auweele_CV.yaml
