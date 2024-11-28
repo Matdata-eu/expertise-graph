@@ -56,12 +56,21 @@ pages:
   dependencies:
     - rdf
     - cv
-    
+
 upload:
   stage: upload
-  script:
-    - curl -X POST -H "Authorization: Basic ${JENA_AUTH}" --data "update=delete%20where%20%7B%20%3Fs%20%3Fp%20%3Fo%20%7D" https://jena.mkwadraat.be/expertise/update
-    - curl -X POST -H "Authorization: Basic ${JENA_AUTH}" -H "Content-Type: text/turtle" --data-binary @matdata-expertise.ttl https://jena.mkwadraat.be/expertise/data
+  script:     
+    - |
+      curl -X POST \
+      -H "Authorization: Basic ${JENA_AUTH}" \
+      --data "update=delete%20where%20%7B%20%3Fs%20%3Fp%20%3Fo%20%7D" \
+      https://jena.mkwadraat.be/expertise/update      
+    - |
+        curl -X POST \
+        -H "Authorization: Basic ${JENA_AUTH}" \
+        -H "Content-Type: text/turtle" \
+        --data-binary @matdata-expertise.ttl \
+        https://jena.mkwadraat.be/expertise/data
   dependencies:
     - rdf
   rules:
