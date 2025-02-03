@@ -5,3 +5,5 @@ matdata-expertise.ttl
 cv/rendercv_output/
 cv/texput.log
 cv/classic2/
+matdata-expertise-raw.ttl
+matdata-expertise-cleaned.ttl

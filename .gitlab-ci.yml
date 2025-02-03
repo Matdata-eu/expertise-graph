@@ -1,6 +1,6 @@
-
 stages:
   - rdf
+  - validate
   - cv
   - pages
   - upload
@@ -14,10 +14,26 @@ rdf:
   script:
     - echo "The following line is to avoid a check in logseq-rdf-export targetting github actions"
     - unset CI
-    - logseq-rdf-export matdata-expertise.ttl --directory $CI_PROJECT_DIR
+    - logseq-rdf-export matdata-expertise-raw.ttl --directory $CI_PROJECT_DIR
+  artifacts:
+    paths:
+      - matdata-expertise-raw.ttl
+
+validate:
+  image: python:3.12.8-slim
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+  stage: validate
+  script:
+    - pip install -r ./kg-actions/requirements.txt
+    - python ./kg-actions/clean-graph.py
+    - python ./kg-actions/validate-graph.py
+  dependencies:
+    - rdf
   artifacts:
     paths:
       - matdata-expertise.ttl
+      - matdata-expertise-raw.ttl
 
 cv:
   image: mathiasvda/rendercv-with-profile-pic
@@ -48,6 +64,7 @@ pages:
     - mkdir -p public
     - node /opt/logseq-publish-spa/publish_spa.mjs $CI_PROJECT_DIR/public --static-directory /opt/logseq-static --directory $CI_PROJECT_DIR --theme-mode $THEME --accent-color $ACCENT_COLOR
     - mv matdata-expertise.ttl public/static/
+    - mv matdata-expertise-raw.ttl public/static/
     - ls cv/rendercv_output/
     - mv cv/rendercv_output/Mathias_Vanden_Auweele_CV.pdf public/static/
   artifacts:
@@ -75,3 +92,4 @@ upload:
     - rdf
   rules:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+

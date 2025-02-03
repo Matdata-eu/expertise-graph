@@ -1,0 +1,237 @@
+@prefix d: <https://expertise.matdata.eu/#/page/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+d:category-ai-mv a skos:Concept ;
+    skos:definition "Artificial Intelligence and Machine Vision" ;
+    skos:inScheme d:TechniqueCategories ;
+    skos:prefLabel "AI/MV" .
+
+d:category-api a skos:Concept ;
+    skos:inScheme d:TechniqueCategories ;
+    skos:prefLabel "API" .
+
+d:category-authentication a skos:Concept ;
+    skos:inScheme d:TechniqueCategories ;
+    skos:prefLabel "Authentication" .
+
+d:category-bi a skos:Concept ;
+    skos:inScheme d:ProjectCategories ;
+    skos:prefLabel "BI" .
+
+d:category-business a skos:Concept ;
+    skos:inScheme d:TechniqueCategories ;
+    skos:prefLabel "Business" .
+
+d:category-business-process a skos:Concept ;
+    skos:inScheme d:ProjectCategories ;
+    skos:prefLabel "Business process" .
+
+d:category-communication a skos:Concept ;
+    skos:inScheme d:TechniqueCategories ;
+    skos:prefLabel "Communication" .
+
+d:category-csharp-library a skos:Concept ;
+    skos:inScheme d:TechniqueCategories ;
+    skos:prefLabel "C# library" .
+
+d:category-data-analytics a skos:Concept ;
+    skos:inScheme d:TechniqueCategories ;
+    skos:prefLabel "Data analytics" .
+
+d:category-data-management-app a skos:Concept ;
+    skos:inScheme d:ProjectCategories ;
+    skos:prefLabel "Data management app" .
+
+d:category-data-models a skos:Concept ;
+    skos:inScheme d:TechniqueCategories ;
+    skos:prefLabel "Data models" .
+
+d:category-data-platform a skos:Concept ;
+    skos:inScheme d:ProjectCategories,
+        d:TechniqueCategories ;
+    skos:prefLabel "Data platform" .
+
+d:category-data-processing a skos:Concept ;
+    skos:inScheme d:ProjectCategories ;
+    skos:prefLabel "Data processing" .
+
+d:category-data-storage a skos:Concept ;
+    skos:inScheme d:TechniqueCategories ;
+    skos:prefLabel "Data storage" .
+
+d:category-data-strategy a skos:Concept ;
+    skos:inScheme d:TechniqueCategories ;
+    skos:prefLabel "Data strategy" .
+
+d:category-database a skos:Concept ;
+    skos:inScheme d:ProjectCategories ;
+    skos:prefLabel "Database" .
+
+d:category-databases a skos:Concept ;
+    skos:inScheme d:TechniqueCategories ;
+    skos:prefLabel "Databases" .
+
+d:category-desktop-app a skos:Concept ;
+    skos:inScheme d:ProjectCategories ;
+    skos:prefLabel "Desktop app" .
+
+d:category-devops a skos:Concept ;
+    skos:inScheme d:ProjectCategories,
+        d:TechniqueCategories ;
+    skos:prefLabel "DevOps" .
+
+d:category-engineering a skos:Concept ;
+    skos:inScheme d:ProjectCategories, d:RoleCategories ;
+    skos:prefLabel "Engineering" .
+
+d:category-erp a skos:Concept ;
+    skos:inScheme d:TechniqueCategories ;
+    skos:prefLabel "ERP" .
+
+d:category-frontend a skos:Concept ;
+    skos:inScheme d:TechniqueCategories ;
+    skos:prefLabel "Frontend" .
+
+d:category-gis-and-topology a skos:Concept ;
+    skos:inScheme d:TechniqueCategories ;
+    skos:prefLabel "GIS & topology" .
+
+d:category-iaas---container-orchestration a skos:Concept ;
+    skos:inScheme d:TechniqueCategories ;
+    skos:prefLabel "IaaS / Container orchestration" .
+
+d:category-image-processing a skos:Concept ;
+    skos:inScheme d:ProjectCategories ;
+    skos:prefLabel "Image processing" .
+
+d:category-lidar-processing a skos:Concept ;
+    skos:inScheme d:ProjectCategories ;
+    skos:prefLabel "Lidar processing" .
+
+d:category-measurement-system a skos:Concept ;
+    skos:inScheme d:ProjectCategories ;
+    skos:prefLabel "Measurement system" .
+
+d:category-message-queue a skos:Concept ;
+    skos:inScheme d:TechniqueCategories ;
+    skos:prefLabel "Message queue" .
+
+d:category-micro-computer a skos:Concept ;
+    skos:inScheme d:TechniqueCategories ;
+    skos:prefLabel "Micro computer" .
+
+d:category-mobile a skos:Concept ;
+    skos:inScheme d:TechniqueCategories ;
+    skos:prefLabel "Mobile" .
+
+d:category-mobile-app a skos:Concept ;
+    skos:inScheme d:ProjectCategories ;
+    skos:prefLabel "Mobile app" .
+
+d:category-monitoring-system a skos:Concept ;
+    skos:inScheme d:TechniqueCategories ;
+    skos:prefLabel "Monitoring system" .
+
+d:category-networking a skos:Concept ;
+    skos:inScheme d:TechniqueCategories ;
+    skos:prefLabel "Networking" .
+
+d:category-operating-systems a skos:Concept ;
+    skos:inScheme d:TechniqueCategories ;
+    skos:prefLabel "Operating systems" .
+
+d:category-other a skos:Concept ;
+    skos:inScheme d:TechniqueCategories ;
+    skos:prefLabel "Other" .
+
+d:category-planningtool a skos:Concept ;
+    skos:inScheme d:ProjectCategories ;
+    skos:prefLabel "Planningtool" .
+
+d:category-programming-languages a skos:Concept ;
+    skos:inScheme d:TechniqueCategories ;
+    skos:prefLabel "Programming languages" .
+
+d:category-scheduler a skos:Concept ;
+    skos:inScheme d:TechniqueCategories ;
+    skos:prefLabel "Scheduler" .
+
+d:category-semantic a skos:Concept ;
+    skos:inScheme d:ProjectCategories ;
+    skos:prefLabel "Semantic technologies" .
+
+d:category-semantic-technologies a skos:Concept ;
+    skos:inScheme d:TechniqueCategories ;
+    skos:prefLabel "Semantic technologies" .
+
+d:category-sensors-and-measurements a skos:Concept ;
+    skos:inScheme d:ProjectCategories,
+        d:TechniqueCategories ;
+    skos:prefLabel "Sensors & measurements" .
+
+d:category-strategy a skos:Concept ;
+    skos:inScheme d:ProjectCategories ;
+    skos:prefLabel "Strategy" .
+
+d:category-web-frameworks a skos:Concept ;
+    skos:inScheme d:TechniqueCategories ;
+    skos:prefLabel "Web frameworks" .
+
+d:category-web-frontend a skos:Concept ;
+    skos:inScheme d:TechniqueCategories ;
+    skos:prefLabel "Web frontend" .
+
+d:category-webapp a skos:Concept ;
+    skos:inScheme d:ProjectCategories ;
+    skos:prefLabel "Webapp" .
+
+d:category-webservers a skos:Concept ;
+    skos:inScheme d:TechniqueCategories ;
+    skos:prefLabel "Webservers" .
+
+d:proficiency-novice a skos:Concept ;
+    skos:definition "Rigid adherence to taught rules or plans; little situational perception; no discretionary judgment" ;
+    skos:inScheme d:ProficiencyLevels ;
+    skos:prefLabel "Novice" .
+
+d:proficiency-advanced-beginner a skos:Concept ;
+    skos:definition "Guidelines for action based on attributes or aspects; situational perception still limited; all attributes and aspects are treated separately and given equal importance" ;
+    skos:inScheme d:ProficiencyLevels ;
+    skos:prefLabel "Advanced beginner" .
+
+d:proficiency-competent a skos:Concept ;
+    skos:definition "Conscious deliberate planning; standardized and routinized procedures; sees actions at least partially in terms of longer-term goals" ;
+    skos:inScheme d:ProficiencyLevels ;
+    skos:prefLabel "Competent" .
+
+d:proficiency-proficient a skos:Concept ;
+    skos:definition "Sees situations holistically rather than in terms of aspects; sees what is most important in a situation; perceives deviations from the normal pattern; decision-making less labored; uses maxims for guidance, whose meaning varies according to the situation" ;
+    skos:inScheme d:ProficiencyLevels ;
+    skos:prefLabel "Proficient" .
+
+d:proficiency-expert a skos:Concept ;
+    skos:definition "No longer relies on rules, guidelines, or maxims; intuitive grasp of situations based on deep tacit understanding; analytic approaches used only in novel situations or when problems occur; vision of what is possible" ;
+    skos:inScheme d:ProficiencyLevels ;
+    skos:prefLabel "Expert" .
+
+d:ProficiencyLevels a skos:ConceptScheme ;
+    rdfs:label "Dreyfus model of skill acquisition" .
+
+d:ProjectCategories a skos:ConceptScheme ;
+    rdfs:label "Categories of projects" .
+
+d:TechniqueCategories a skos:ConceptScheme ;
+    rdfs:label "Categories of techniques and tools" .
+
+d:RoleCategories a skos:ConceptScheme ;
+    rdfs:label "Categories of roles" .
+
+    
+d:category-data-and-it-role skos:prefLabel "Data & IT role" ;
+	skos:inScheme d:RoleCategories ;
+	a skos:Concept .
+    
+d:category-leading-roles skos:prefLabel "Leading roles" ;
+	skos:inScheme d:RoleCategories ;
+	a skos:Concept .

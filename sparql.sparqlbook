@@ -1,0 +1,32 @@
+[
+  {
+    "kind": 2,
+    "language": "sparql",
+    "value": "prefix d: <https://expertise.matdata.eu/#/page/>\r\n\r\nselect * where \r\n{\r\n    ?s d:type d:Project;\r\n       d:hasTitle ?title;\r\n       d:hasDescription ?description;    \r\n}",
+    "metadata": {}
+  },
+  {
+    "kind": 2,
+    "language": "sparql",
+    "value": "prefix d: <https://expertise.matdata.eu/#/page/>\r\n\r\nprefix skos: <http://www.w3.org/2004/02/skos/core#>\r\n\r\nCONSTRUCT {\r\n    ?categoryUri a skos:Concept ;\r\n        skos:inScheme d:RoleCategories ;\r\n        skos:prefLabel ?category .\r\n} WHERE {\r\n    ?s d:has-category ?category\r\n    FILTER(isLiteral(?category))\r\n    BIND(uri(CONCAT(\"https://expertise.matdata.eu/#/page/category-\", LCASE(REPLACE(REPLACE(REPLACE(REPLACE(str(?category),\"#\", 'sharp'), \"/\", \"-\"), \" \", \"-\"), \"&\", \"and\")))) AS ?categoryUri)\r\n}\r\nGROUP BY ?category ?categoryUri",
+    "metadata": {}
+  },
+  {
+    "kind": 2,
+    "language": "sparql",
+    "value": "prefix d: <https://expertise.matdata.eu/#/page/>\r\n\r\nprefix skos: <http://www.w3.org/2004/02/skos/core#>\r\n\r\nselect ?category ?categoryUri WHERE {\r\n    ?s d:has-category ?category\r\n    FILTER(isLiteral(?category))\r\n\r\n    BIND(URI(LCASE(REPLACE(REPLACE(REPLACE(str(?category), \"/\", \"-\"), \" \", \"-\"), \"&\", \"and\"))) AS ?categoryUri)\r\n}\r\nGROUP BY ?category ?categoryUri",
+    "metadata": {}
+  },
+  {
+    "kind": 2,
+    "language": "sparql",
+    "value": "prefix d: <https://expertise.matdata.eu/#/page/>\r\n\r\nprefix skos: <http://www.w3.org/2004/02/skos/core#>\r\n\r\nconstruct {\r\n    ?category skos:inScheme d:TechniqueCategories ;\r\n} \r\nwhere{\r\n    ?s a d:Technique;\r\n        d:has-category ?category\r\n}\r\nGROUP BY ?category",
+    "metadata": {}
+  },
+  {
+    "kind": 2,
+    "language": "sparql",
+    "value": "prefix d: <https://expertise.matdata.eu/#/page/>\r\n\r\nprefix skos: <http://www.w3.org/2004/02/skos/core#>\r\n\r\nselect ?s ?role\r\nwhere{\r\n    ?s a d:Project;\r\n        d:has-tagged-roles ?role.\r\n    ?role a ?class.\r\n    FILTER(str(?class) != \"https://expertise.matdata.eu/#/page/Role\")\r\n}\r\nGROUP BY ?s ?role",
+    "metadata": {}
+  }
+]
