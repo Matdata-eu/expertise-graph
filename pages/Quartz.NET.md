@@ -1,6 +1,6 @@
 public:: true
 type:: [[Technique]]
-self-estimated-proficiency:: Intermediate
+self-estimated-proficiency:: Advanced beginner
 is-featured:: Yes
 has-category:: Scheduler
 

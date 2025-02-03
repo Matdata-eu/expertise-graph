@@ -16,8 +16,9 @@
 - The structured data of this graph is available in RDF:
 	- [As a file to be downloaded](https://expertise.matdata.eu/static/matdata-expertise.ttl)
 	- [Queryable using SPARQL](https://yasgui.matdata.eu/)
+	- The [SHACL shapes](https://expertise.matdata.eu/static/matdata-expertise-shacl.ttl) used to validate this graph complies with the UML diagram below:
+		- ![image.png](../assets/image_1738620165233_0.png)
 - Under construction. The following activities are not yet completed:
-  collapsed:: true
 	- LATER Add structured data and screenshots to not-features projects
 	  :LOGBOOK:
 	  CLOCK: [2024-11-12 Tue 13:20:46]
@@ -25,7 +26,7 @@
 	  CLOCK: [2024-11-17 Sun 13:40:11]
 	  :END:
 	- I still plan to add the following features to this graph.
-		- LATER Add SHACL validation to gitlab pipeline
+		- LATER SparNatural query interface https://sparnatural.eu/
 		- LATER Add better graph visualisation, for example: https://www.semspect.de/
 		- LATER Add chatbot
 		  :LOGBOOK:
