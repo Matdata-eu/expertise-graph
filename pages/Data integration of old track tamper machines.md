@@ -6,6 +6,6 @@ has-tagged-techniques:: #SSH, #[[Reverse proxy]], #GNSS, #Azure
 has-tagged-roles:: #Developer, #Technician, #[[Project lead]] 
 has-linked-projects:: #[[Linear measurement data viewer]] 
 is-featured:: Yes
-during-job:: #[[Job: Project lead SMILE 2.0]]
+during-job:: #[[Job: Project lead SMILE]]
 
 - ![Tamping flow.png](../assets/Tamping_flow_1731863920122_0.png)

@@ -6,6 +6,6 @@ has-tagged-techniques:: #Qlikview, #[[MS Project]], #Postgresql, #Dbeaver, #[[Pr
 has-tagged-roles:: #[[Project lead]], #[[Business analyst]], #[[Data architect]], #Developer
 has-linked-projects:: #[[Setup PMO office]]
 is-featured:: Yes
-during-job:: #[[Job: Project lead SMILE 2.0]]
+during-job:: #[[Job: Project lead SMILE]]
 
 -

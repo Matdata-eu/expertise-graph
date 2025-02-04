@@ -21,6 +21,18 @@ d:ProjectShape
         sh:minCount 1 ;
         sh:maxCount 1 ;
         sh:class skos:Concept ;
+        sh:node [
+            sh:property [
+                sh:path skos:inScheme ;
+                sh:hasValue d:ProjectCategories ;
+                sh:minCount 1 ;
+            ]
+        ] ;
+    ] ;
+    sh:property [
+        sh:path d:during-job ;
+        sh:nodeKind sh:IRI ;
+        sh:class d:Job ;
     ] ;
     sh:property [
         sh:path d:is-featured ;
@@ -60,6 +72,13 @@ d:TechniqueShape
         sh:minCount 1 ;
         sh:maxCount 1 ;
         sh:class skos:Concept ;
+        sh:node [
+            sh:property [
+                sh:path skos:inScheme ;
+                sh:hasValue d:TechniqueCategories ;
+                sh:minCount 1 ;
+            ]
+        ] ;
     ] ;
     sh:property [
         sh:path d:is-featured ;
@@ -73,6 +92,13 @@ d:TechniqueShape
         sh:minCount 1 ;
         sh:maxCount 1 ;
         sh:class skos:Concept ;
+        sh:node [
+            sh:property [
+                sh:path skos:inScheme ;
+                sh:hasValue d:ProficiencyLevels ;
+                sh:minCount 1 ;
+            ]
+        ] ;
     ] .
 
 # Role shape
@@ -91,6 +117,13 @@ d:RoleShape
         sh:minCount 1 ;
         sh:maxCount 1 ;
         sh:class skos:Concept ;
+        sh:node [
+            sh:property [
+                sh:path skos:inScheme ;
+                sh:hasValue d:RoleCategories ;
+                sh:minCount 1 ;
+            ]
+        ] ;
     ] ;
     sh:property [
         sh:path d:is-featured ;

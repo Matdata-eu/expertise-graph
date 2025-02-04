@@ -6,4 +6,4 @@ has-tagged-techniques:: #[[Project management]], #[[MS Project]], #[[Data centri
 has-tagged-roles:: #[[Project lead]], #[[Business analyst]] 
 has-linked-projects:: #[[Strategic project reporting]] 
 is-featured:: Yes
-during-job:: #[[Job: Project lead SMILE 2.0]]
+during-job:: #[[Job: Project lead SMILE]]

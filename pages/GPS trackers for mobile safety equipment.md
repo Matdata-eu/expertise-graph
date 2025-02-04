@@ -6,7 +6,7 @@ has-tagged-techniques:: #GNSS, #Git, #[[Gitlab CI CD]], #[[C#]], #[[JSON API]], 
 has-tagged-roles:: #Developer, #[[Project lead]], #[[Business analyst]] 
 has-linked-projects:: #[[Train alert system]] 
 is-featured:: Yes
-during-job:: #[[Job: Project lead SMILE 2.0]]
+during-job:: #[[Job: Project lead SMILE]]
 
 - ![Nieuwe tracker.jpg](../assets/Nieuwe_tracker_1731863475973_0.jpg)
 - ![image.png](../assets/image_1731863489701_0.png)

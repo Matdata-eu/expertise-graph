@@ -24,6 +24,12 @@
     "metadata": {}
   },
   {
+    "kind": 1,
+    "language": "markdown",
+    "value": "This is description on the next sparql query",
+    "metadata": {}
+  },
+  {
     "kind": 2,
     "language": "sparql",
     "value": "prefix d: <https://expertise.matdata.eu/#/page/>\r\n\r\nprefix skos: <http://www.w3.org/2004/02/skos/core#>\r\n\r\nselect ?s ?role\r\nwhere{\r\n    ?s a d:Project;\r\n        d:has-tagged-roles ?role.\r\n    ?role a ?class.\r\n    FILTER(str(?class) != \"https://expertise.matdata.eu/#/page/Role\")\r\n}\r\nGROUP BY ?s ?role",
