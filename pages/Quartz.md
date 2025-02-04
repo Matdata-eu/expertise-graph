@@ -4,4 +4,4 @@ self-estimated-proficiency:: Advanced beginner
 is-featured:: Yes
 has-category:: Scheduler
 
-- C# library for scheduling "jobs"
+- C# .NET library for scheduling "jobs"

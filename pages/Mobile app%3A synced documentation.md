@@ -3,7 +3,7 @@ public:: true
 type:: [[Project]]
 description:: A mobile app for catenary technicians for documentation lookup that is accessible offline and synced when online. The app uses Git to accomplish the syncing.
 has-category:: Mobile app
-has-tagged-techniques:: #[[C# .NET]], #Android, #iOS, #Git, #Fastlane
+has-tagged-techniques:: #[[C#]], #Android, #iOS, #Git, #Fastlane
 has-tagged-roles:: #[[Business analyst]], #[[Data architect]], #[[DevOps engineer]]
 has-linked-projects::
 is-featured:: Yes

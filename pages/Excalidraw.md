@@ -1,6 +1,6 @@
 public:: true
 type:: [[Technique]]
-self-estimated-proficiency:: High
+self-estimated-proficiency:: Proficient
 is-featured:: No
 has-category:: Other
 
