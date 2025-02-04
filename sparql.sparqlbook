@@ -28,5 +28,17 @@
     "language": "sparql",
     "value": "prefix d: <https://expertise.matdata.eu/#/page/>\r\n\r\nprefix skos: <http://www.w3.org/2004/02/skos/core#>\r\n\r\nselect ?s ?role\r\nwhere{\r\n    ?s a d:Project;\r\n        d:has-tagged-roles ?role.\r\n    ?role a ?class.\r\n    FILTER(str(?class) != \"https://expertise.matdata.eu/#/page/Role\")\r\n}\r\nGROUP BY ?s ?role",
     "metadata": {}
+  },
+  {
+    "kind": 2,
+    "language": "sparql",
+    "value": "PREFIX s: <https://schema.org/>\r\nPREFIX d: <https://expertise.matdata.eu/#/page/>\r\nPREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\r\nPREFIX skos: <http://www.w3.org/2004/02/skos/core#>\r\n\r\nSELECT ?uri ?category ?name ?description\r\n       (GROUP_CONCAT(distinct ?role_name; separator=\", \") AS ?roles) \r\n       (GROUP_CONCAT(distinct ?technique_name; separator=\", \") AS ?techniques) \r\nWHERE {\r\n    {\r\n        SELECT (REPLACE(str(?s),\"([#%()])\", \"\\\\\\\\$$1\") as ?uri) ?category ?name ?description ?role_name ?technique_name\r\n        WHERE {\r\n            ?s  a d:Project ;\r\n                rdfs:label ?name ;\r\n                rdfs:comment ?description ;\r\n                d:is-featured ?project_featured ;\r\n                d:has-category ?categoryUri ;\r\n                d:has-tagged-techniques ?technique ;\r\n                d:has-tagged-roles ?role .\r\n            \r\n            ?categoryUri skos:prefLabel ?category .\r\n\r\n            ?technique a d:Technique ;\r\n                d:is-featured ?technique_featured ;\r\n                rdfs:label ?technique_name .\r\n\r\n            ?role a d:Role ;\r\n                d:is-featured ?role_featured ;\r\n                rdfs:label ?role_name .\r\n\r\n            FILTER(?project_featured)\r\n        }\r\n        ORDER BY ?role_name ?technique_name\r\n    }\r\n}\r\nGROUP BY ?uri ?category ?name ?description\r\nORDER BY ?uri ?category ?name",
+    "metadata": {}
+  },
+  {
+    "kind": 2,
+    "language": "sparql",
+    "value": "PREFIX s: <https://schema.org/>\r\nPREFIX d: <https://expertise.matdata.eu/#/page/>\r\nPREFIX skos: <http://www.w3.org/2004/02/skos/core#>\r\nPREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\r\n\r\nSELECT ?category \r\n       (GROUP_CONCAT(\r\n        CONCAT(\"[\", str(?name), \"](\"\r\n        , REPLACE(\r\n            str(?s),\r\n            \"([#%()])\", \"\\\\\\\\$$1\"\r\n        )       \r\n        , \")\"\r\n       ); separator=\", \") AS ?technologies)\r\nWHERE {\r\n    SELECT ?s ?category ?name\r\n    WHERE {\r\n        ?s  a d:Technique;\r\n            d:is-featured ?featured;\r\n            d:has-category ?categoryUri;\r\n            rdfs:label ?name.      \r\n            \r\n        ?categoryUri skos:prefLabel ?category .\r\n\r\n        FILTER(?featured)\r\n    }\r\n    ORDER BY ?category ?name\r\n}\r\nGROUP BY ?category\r\nORDER BY ?category",
+    "metadata": {}
   }
 ]

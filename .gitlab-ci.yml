@@ -73,6 +73,7 @@ pages:
   dependencies:
     - rdf
     - cv
+    - validate
 
 upload:
   stage: upload
