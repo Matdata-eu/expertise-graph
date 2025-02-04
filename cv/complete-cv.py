@@ -17,6 +17,8 @@ query_projects = """
 
 PREFIX s: <https://schema.org/>
 PREFIX d: <https://expertise.matdata.eu/#/page/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 
 SELECT ?uri ?category ?name ?description
        (GROUP_CONCAT(distinct ?role_name; separator=", ") AS ?roles) 
@@ -25,24 +27,25 @@ WHERE {
     {
         SELECT (REPLACE(str(?s),"([#%()])", "\\\\$$1") as ?uri) ?category ?name ?description ?role_name ?technique_name
         WHERE {
-            ?s  d:type d:Project ;
-                s:name ?name ;
-                d:description ?description ;
+            ?s  a d:Project ;
+                rdfs:label ?name ;
+                rdfs:comment ?description ;
                 d:is-featured ?project_featured ;
-                d:has-category ?category ;
-                d:public ?public ;
+                d:has-category ?categoryUri ;
                 d:has-tagged-techniques ?technique ;
                 d:has-tagged-roles ?role .
+            
+            ?categoryUri skos:prefLabel ?category .
 
-            ?technique  d:type d:Technique ;
+            ?technique a d:Technique ;
                 d:is-featured ?technique_featured ;
-                s:name ?technique_name .
+                rdfs:label ?technique_name .
 
-            ?role  d:type d:Role ;
+            ?role a d:Role ;
                 d:is-featured ?role_featured ;
-                s:name ?role_name .
+                rdfs:label ?role_name .
 
-            FILTER(?project_featured = "Yes")
+            FILTER(?project_featured)
         }
         ORDER BY ?role_name ?technique_name
     }
@@ -58,6 +61,8 @@ query_technologies = """
 
 PREFIX s: <https://schema.org/>
 PREFIX d: <https://expertise.matdata.eu/#/page/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 
 SELECT ?category 
        (GROUP_CONCAT(
@@ -71,12 +76,14 @@ SELECT ?category
 WHERE {
     SELECT ?s ?category ?name
     WHERE {
-        ?s  d:type d:Technique;
+        ?s  a d:Technique;
             d:is-featured ?featured;
-            d:has-category ?category;
-            s:name ?name.      
+            d:has-category ?categoryUri;
+            rdfs:label ?name.      
             
-        FILTER(?featured="Yes")
+        ?categoryUri skos:prefLabel ?category .
+
+        FILTER(?featured)
     }
     ORDER BY ?category ?name
 }

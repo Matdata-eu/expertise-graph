@@ -95,7 +95,7 @@ cv:
       or self-estimated-proficiency can be found and easily queried on https://expertise.matdata.eu/
 
     projects:
-    - date: ''
+    - date: Data platform
       name: '[Asset360](https://expertise.matdata.eu/\#/page/Asset360)'
       highlights:
       - A data platform combining all asset data, setting the golden record and creating
@@ -103,7 +103,7 @@ cv:
       - '**Roles**: Business analyst, Product owner'
       - '**Technologies**: Airflow, Apache Jena Fuseki, Data centricity, Data governance,
         Dbeaver, Postgresql, Python, Railway'
-    - date: ''
+    - date: Image processing
       name: '[Asset recognition on images from measurement train](https://expertise.matdata.eu/\#/page/Asset\%20recognition\%20on\%20images\%20from\%20measurement\%20train)'
       highlights:
       - A backend processing system to identify railway assets on pictures taken by
@@ -111,16 +111,17 @@ cv:
         manual digital inspection. The goal is to also categorize assets according
         to their state (health/worn..)
       - '**Roles**: Business analyst, Data analyst'
-      - '**Technologies**: Dbeaver, Image recognition AI, Postgresql, Railway, S3'
-    - date: ''
+      - '**Technologies**: C#, Dbeaver, Image recognition AI, Postgresql, Railway,
+        S3'
+    - date: Data processing
       name: '[Automated data pipelines](https://expertise.matdata.eu/\#/page/Automated\%20data\%20pipelines)'
       highlights:
       - A backend system to automate data transfers from several databases. Using
         several techniques such as delta transfer or ID based copying.
       - '**Roles**: Data analyst, Data architect, DevOps engineer, Developer'
-      - '**Technologies**: Apache nifi, Dbeaver, Git, Gitlab CI CD, Kerberos, Loki,
-        MSSQL, Openshift, Oracle, Postgresql, SAP HANA BIQ, SAS, Serilog'
-    - date: ''
+      - '**Technologies**: Apache nifi, C#, Dbeaver, Git, Gitlab CI CD, Kerberos,
+        Loki, MSSQL, Openshift, Oracle, Postgresql, Quartz, SAP HANA BIQ, SAS, Serilog'
+    - date: Measurement system
       name: '[Camera inspection system for OCL](https://expertise.matdata.eu/\#/page/Camera\%20inspection\%20system\%20for\%20OCL)'
       highlights:
       - We installed over 16 camera's on a measurement train to inspect the overhead
@@ -131,7 +132,7 @@ cv:
         the system, both manual (using a webapp) and automatically (using AI).
       - '**Roles**: Project lead, Technician'
       - '**Technologies**: Camera, Laser, NTP, Railway, S3, SSH'
-    - date: ''
+    - date: Webapp
       name: '[Change context management application](https://expertise.matdata.eu/\#/page/Change\%20context\%20management\%20application)'
       highlights:
       - A full stack application to manage change context inside the topology management
@@ -139,7 +140,7 @@ cv:
       - '**Roles**: Data architect, Product owner'
       - '**Technologies**: Apache Jena Fuseki, Git, Gitlab CI CD, Helm charts, Python,
         RDF, Railway, SHACL, SPARQL, VueJs'
-    - date: ''
+    - date: Measurement system
       name: '[Contact wire thickness measurement system](https://expertise.matdata.eu/\#/page/Contact\%20wire\%20thickness\%20measurement\%20system)'
       highlights:
       - A hardware system using camera's and lasers mounted on a pantograph to measure
@@ -147,15 +148,15 @@ cv:
         and renewal and avoid catenary incidents.
       - '**Roles**: Business analyst, Data architect, Developer, Project lead'
       - '**Technologies**: Camera, Laser, Laser triangulation, Railway'
-    - date: ''
+    - date: Measurement system
       name: '[Contact wire uplift measurement system](https://expertise.matdata.eu/\#/page/Contact\%20wire\%20uplift\%20measurement\%20system)'
       highlights:
       - A solar/battery powered hardware system mounted in the catenary, measuring
         the vertical movement of the contact wire at the passage of a train. Everything
         was designed, assembled, programmed, ... by myself.
       - '**Roles**: Business analyst, Developer'
-      - '**Technologies**: Arduino, C++, Git, PCB design, Raspberry Pi'
-    - date: ''
+      - '**Technologies**: Arduino, C++, GSM, Git, PCB design, Raspberry Pi'
+    - date: Strategy
       name: '[Data centric strategy](https://expertise.matdata.eu/\#/page/Data\%20centric\%20strategy)'
       highlights:
       - An enterprise like a railway infrastructure manager, typically has a very
@@ -168,7 +169,7 @@ cv:
       - '**Roles**: Product owner, Project lead, SPOC data for department of 9000
         employees, Teacher, Teamlead'
       - '**Technologies**: Project management, Railway'
-    - date: ''
+    - date: Data processing
       name: "[Data cube: linear phenomena's](https://expertise.matdata.eu/\\#/page/Data\\\
         %20cube\\%3A\\%20linear\\%20phenomena's)"
       highlights:
@@ -178,8 +179,8 @@ cv:
         model and process was thought out to calculate smallest linear segments with
         a unique set of properties (over 100 properties were thus defined).
       - '**Roles**: Business analyst, Data architect, Developer'
-      - '**Technologies**: Dbeaver, Postgresql, Qlikview, Topology'
-    - date: ''
+      - '**Technologies**: C#, Dbeaver, Postgresql, Qlikview, Topology'
+    - date: Measurement system
       name: '[Data integration of old track tamper machines](https://expertise.matdata.eu/\#/page/Data\%20integration\%20of\%20old\%20track\%20tamper\%20machines)'
       highlights:
       - Older tamping machines use a relative system for track tamping. That means
@@ -192,7 +193,7 @@ cv:
         server over SSH and data transfer is automated.
       - '**Roles**: Developer, Project lead, Technician'
       - '**Technologies**: Azure, GNSS, Reverse proxy, SSH'
-    - date: ''
+    - date: Data processing
       name: '[Data integration: operational platform & track length](https://expertise.matdata.eu/\#/page/Data\%20integration\%3A\%20operational\%20platform\%20\%26\%20track\%20length)'
       highlights:
       - The data about operational length of tracks and platforms was a manually controlled
@@ -203,7 +204,20 @@ cv:
       - '**Roles**: Data analyst, Data architect, Developer, SPOC data for department
         of 9000 employees'
       - '**Technologies**: Dbeaver, Plpgsql, PostGIS, Postgresql, PowerBI, Topology'
-    - date: ''
+    - date: Image processing
+      name: '[Design revision comparison](https://expertise.matdata.eu/\#/page/Design\%20revision\%20comparison)'
+      highlights:
+      - Schematic designs are used in railway for the track, signaling and catenary
+        system. They schematically show how everything is connected. But it's not
+        easy to find the changes between design revisions, for example when a signal
+        is added or removed. To aid, we developed a machine vision based tool that
+        finds the differences between two pdf revisions.
+      - '**Roles**: Data analyst, Data architect, DevOps engineer, Developer, Project
+        lead'
+      - '**Technologies**: ADFS, Airflow, C#, Dbeaver, Devcontainers, Git, Gitlab
+        CI CD, Jira, MS Graph, OpenCV, Openshift, Postgresql, Python, Quartz, S3,
+        Serilog'
+    - date: Semantic technologies
       name: '[ERA RINF Chatbot](https://expertise.matdata.eu/\#/page/ERA\%20RINF\%20Chatbot)'
       highlights:
       - A proof of concept to show how RDF data together with an ontology can be used
@@ -213,7 +227,7 @@ cv:
       - '**Roles**: DevOps engineer, Developer, Ontologist'
       - '**Technologies**: Azure, Docker, ERA ontology, Git, Gitlab CI CD, LLM & ChatGPT,
         OWL, Python, RDF, Streamlit'
-    - date: ''
+    - date: Data processing
       name: '[Energy settlement data lookup](https://expertise.matdata.eu/\#/page/Energy\%20settlement\%20data\%20lookup)'
       highlights:
       - Energy settlement (responsible for a large part of the operational turnover
@@ -222,7 +236,7 @@ cv:
         to the system.
       - '**Roles**: Business analyst, Data architect, Developer'
       - '**Technologies**: Excel, JSON API, Power Query'
-    - date: ''
+    - date: Strategy
       name: '[Enterprise data governance model](https://expertise.matdata.eu/\#/page/Enterprise\%20data\%20governance\%20model)'
       highlights:
       - In order to improve data deficiencies, the enterprise decided to review the
@@ -233,7 +247,7 @@ cv:
       - '**Roles**: Department representative, SPOC data for department of 9000 employees,
         Teamlead'
       - '**Technologies**: Data centricity, Data governance, Project management'
-    - date: ''
+    - date: Semantic technologies
       name: '[Enterprise data model](https://expertise.matdata.eu/\#/page/Enterprise\%20data\%20model)'
       highlights:
       - A very important element in an enterprise to avoid siloed data, is to have
@@ -248,15 +262,16 @@ cv:
         of 9000 employees, Teacher, Teamlead'
       - '**Technologies**: ERA ontology, Gist, Git, Gitlab CI CD, OWL, Protege, QUDT,
         RSM, RTM, RailML, SHACL, SHACL Play, SKOS, Widoco'
-    - date: ''
+    - date: Measurement system
       name: '[GPS trackers for mobile safety equipment](https://expertise.matdata.eu/\#/page/GPS\%20trackers\%20for\%20mobile\%20safety\%20equipment)'
       highlights:
       - In order to reduce the number of "signals passed at danger", a project was
         launched to track in real time the location of safety equipment. A custom
         GPS tracker was designed and interfaced with the internal network over LTE.
       - '**Roles**: Business analyst, Developer, Project lead'
-      - '**Technologies**: Binary, Firewall, GNSS, Git, Gitlab CI CD, JSON API, Traccar'
-    - date: ''
+      - '**Technologies**: Binary, C#, Firewall, GNSS, Git, Gitlab CI CD, JSON API,
+        Traccar'
+    - date: Data processing
       name: '[Inventory: OCL auxiliary tracks](https://expertise.matdata.eu/\#/page/Inventory\%3A\%20OCL\%20auxiliary\%20tracks)'
       highlights:
       - The legacy system to manage the electrified auxiliary tracks was not data
@@ -266,7 +281,7 @@ cv:
       - '**Roles**: Data architect, Developer, Project lead'
       - '**Technologies**: Dbeaver, Plpgsql, PostGIS, Postgresql, QGIS, Qlikview,
         Topology'
-    - date: ''
+    - date: Data processing
       name: '[Lightning detection alerting system](https://expertise.matdata.eu/\#/page/Lightning\%20detection\%20alerting\%20system)'
       highlights:
       - Lightning strikes on railway infrastructure can cause serious damage and is
@@ -276,9 +291,9 @@ cv:
         rules) on the rail network. An email system was put in place to notify the
         installation responsible person. A GIS webapp and dashboard were also developed.
       - '**Roles**: Data architect, Developer, Project lead'
-      - '**Technologies**: Angular, Dbeaver, Docker, Git, Gitlab CI CD, Kerberos,
+      - '**Technologies**: Angular, C#, Dbeaver, Docker, Git, Gitlab CI CD, Kerberos,
         Leaflet, MSSQL, Nginx, Openshift, PostGIS, Postgresql, QGIS, Qlikview'
-    - date: ''
+    - date: Desktop app
       name: '[Linear measurement data viewer](https://expertise.matdata.eu/\#/page/Linear\%20measurement\%20data\%20viewer)'
       highlights:
       - Linear measurements used to be distribute on paper or sometimes pdf. Obviously,
@@ -292,9 +307,10 @@ cv:
         management, event viewer, GIS viewer, GPS tracking, export, ...
       - '**Roles**: Business analyst, Data analyst, Data architect, DevOps engineer,
         Developer, Project lead'
-      - '**Technologies**: Camera, ClickOnce, Dbeaver, GPSD, Git, Gitlab CI CD, Leaflet,
-        Lidar, PostGIS, Postgresql, Qlikview, Scichart, Serilog, Topology, WMS'
-    - date: ''
+      - '**Technologies**: C#, Camera, ClickOnce, Dbeaver, GPSD, Git, Gitlab CI CD,
+        Leaflet, Lidar, PostGIS, Postgresql, Qlikview, Scichart, Serilog, Topology,
+        WMS'
+    - date: Measurement system
       name: '[Location measurement system for measurement train](https://expertise.matdata.eu/\#/page/Location\%20measurement\%20system\%20for\%20measurement\%20train)'
       highlights:
       - Location measurement of a measurement train is very important. The usability
@@ -306,7 +322,7 @@ cv:
       - '**Roles**: Data architect, DevOps engineer, Developer, Project lead, Technician'
       - '**Technologies**: GNSS, GPSD, Git, Grafana, IMU, Odometry, Prometheus, Python,
         Raspberry Pi, SSH'
-    - date: ''
+    - date: Data processing
       name: '[Location post processing system for railway vehicles](https://expertise.matdata.eu/\#/page/Location\%20post\%20processing\%20system\%20for\%20railway\%20vehicles)'
       highlights:
       - Train vehicle locations arrives as GNSS positions. Depending on the quality
@@ -316,9 +332,9 @@ cv:
         information, in order to improve the quality of the location. This is very
         important for other infrastructure measurements.
       - '**Roles**: Business analyst, Data architect, Developer, Project lead'
-      - '**Technologies**: Dbeaver, GNSS, Git, Gitlab CI CD, IMU, Odometry, Openshift,
-        PgRouting, PostGIS, Postgresql, QGIS, RTM, S3, Serilog, Topology'
-    - date: ''
+      - '**Technologies**: C#, Dbeaver, GNSS, Git, Gitlab CI CD, IMU, Odometry, Openshift,
+        PgRouting, PostGIS, Postgresql, QGIS, Quartz, RTM, S3, Serilog, Topology'
+    - date: Data processing
       name: '[Mapping train statistic on RINF data model](https://expertise.matdata.eu/\#/page/Mapping\%20train\%20statistic\%20on\%20RINF\%20data\%20model)'
       highlights:
       - The EU requests publishing data based on the RINF data model. Our train statistics
@@ -328,7 +344,7 @@ cv:
       - '**Roles**: Data analyst, Data architect, Developer'
       - '**Technologies**: Dbeaver, ERA ontology, Excel, Git, PgRouting, Plpgsql,
         Postgresql, QGIS, RTM, SPARQL'
-    - date: ''
+    - date: Data processing
       name: '[Measurement train image post processing](https://expertise.matdata.eu/\#/page/Measurement\%20train\%20image\%20post\%20processing)'
       highlights:
       - Several measurement trains are equipped with camera's that capture the railway
@@ -337,8 +353,8 @@ cv:
         processing service that positions the image, based on its timestamp, the position
         of the camera in the vehicle and the position of the vehicle.
       - '**Roles**: Business analyst, Data architect, Developer, Project lead'
-      - '**Technologies**: GNSS, Git, Gitlab CI CD, Openshift, S3, Serilog'
-    - date: ''
+      - '**Technologies**: C#, GNSS, Git, Gitlab CI CD, Openshift, Quartz, S3, Serilog'
+    - date: Mobile app
       name: '[Mobile app for geolocated technical assistance](https://expertise.matdata.eu/\#/page/Mobile\%20app\%20for\%20geolocated\%20technical\%20assistance)'
       highlights:
       - This was the first mobile application of the enterprise. It's a GIS application,
@@ -351,16 +367,16 @@ cv:
         designs or the traffic management system viewer based on your location is
         possible.
       - '**Roles**: Business analyst, Data architect, Developer, Project lead, Teamlead'
-      - '**Technologies**: Android, Azure, Fastlane, GNSS, Git, Gitlab CI CD, JSON
-        API, SSH, VueJs, iOS'
-    - date: ''
+      - '**Technologies**: Android, Azure, C#, Fastlane, GNSS, Git, Gitlab CI CD,
+        JSON API, SSH, VueJs, iOS'
+    - date: Mobile app
       name: '[Mobile app: synced documentation](https://expertise.matdata.eu/\#/page/Mobile\%20app\%3A\%20synced\%20documentation)'
       highlights:
       - A mobile app for catenary technicians for documentation lookup that is accessible
         offline and synced when online. The app uses Git to accomplish the syncing.
       - '**Roles**: Business analyst, Data architect, DevOps engineer'
-      - '**Technologies**: Android, Fastlane, Git, iOS'
-    - date: ''
+      - '**Technologies**: Android, C#, Fastlane, Git, iOS'
+    - date: Strategy
       name: '[Model for FTE calculation of OCL technicians](https://expertise.matdata.eu/\#/page/Model\%20for\%20FTE\%20calculation\%20of\%20OCL\%20technicians)'
       highlights:
       - 'The enterprise is divided into about 15 workcenters. Each workcenter is assigned
@@ -374,7 +390,7 @@ cv:
       - '**Roles**: Business analyst, Data analyst, Data architect, Developer, Project
         lead'
       - '**Technologies**: Dbeaver, Excel, Oracle, Postgresql, SQL, VBA'
-    - date: ''
+    - date: Data management app
       name: '[OCL sectioning topology management application](https://expertise.matdata.eu/\#/page/OCL\%20sectioning\%20topology\%20management\%20application)'
       highlights:
       - A frontend GIS (graphical) management application running in QGIS to build
@@ -386,8 +402,8 @@ cv:
         for safety sheets or even for validating request for putting out of service.
       - '**Roles**: Business analyst, Data architect, Developer'
       - '**Technologies**: Data centricity, Dbeaver, Git, PgRouting, Plpgsql, PostGIS,
-        Postgresql, QGIS, RTM, Railway, Topology'
-    - date: ''
+        Postgresql, QGIS, Quartz, RTM, Railway, Topology'
+    - date: Strategy
       name: '[Openrail](https://expertise.matdata.eu/\#/page/Openrail)'
       highlights:
       - The Openrail foundation is an opensource initiative started by OBB, DB, SNCF
@@ -398,7 +414,7 @@ cv:
       - '**Roles**: Business analyst, Company representative, SPOC data for department
         of 9000 employees'
       - '**Technologies**: Project management, Railway'
-    - date: ''
+    - date: Measurement system
       name: '[Pantograph shock detection system](https://expertise.matdata.eu/\#/page/Pantograph\%20shock\%20detection\%20system)'
       highlights:
       - A measurement systems deployed on about 15 commercial vehicles. The purpose
@@ -415,10 +431,10 @@ cv:
         automatically created when possible.
       - '**Roles**: Business analyst, Data analyst, Data architect, Developer, Project
         lead, Technician'
-      - '**Technologies**: Accelerometers, Firewall, GNSS, Git, Gitlab CI CD, Loki,
-        Openshift, Plpgsql, PostGIS, PowerBI, QGIS, Qlikview, RTM, Railway, SSH, Serilog,
-        Topology'
-    - date: ''
+      - '**Technologies**: Accelerometers, C#, Firewall, GIS, GNSS, Git, Gitlab CI
+        CD, Loki, Openshift, Plpgsql, PostGIS, PowerBI, QGIS, Qlikview, Quartz, RTM,
+        Railway, SSH, Serilog, Topology'
+    - date: Data processing
       name: '[Pole inventory management system](https://expertise.matdata.eu/\#/page/Pole\%20inventory\%20management\%20system)'
       highlights:
       - The legacy measurement system was file based and project specific. We went
@@ -427,8 +443,9 @@ cv:
         of overhead structure. Pole naming was improved based on camera systems and
         AI detections.
       - '**Roles**: Data analyst, Developer, Project lead, Teamlead'
-      - '**Technologies**: Dbeaver, LRS, PostGIS, Postgresql, QGIS, Railway, WMS'
-    - date: ''
+      - '**Technologies**: Dbeaver, GIS, LRS, PostGIS, Postgresql, QGIS, Railway,
+        WMS'
+    - date: Data processing
       name: '[PostGIS: GIS to LRS calculation library](https://expertise.matdata.eu/\#/page/PostGIS\%3A\%20GIS\%20to\%20LRS\%20calculation\%20library)'
       highlights:
       - The goal of the project was a set of database functions to allow conversion
@@ -436,9 +453,9 @@ cv:
         and linear referencing (LRS) coordinates. Not only for points but also for
         linear segments and area's.
       - '**Roles**: Data analyst, Data architect, Developer, Project lead'
-      - '**Technologies**: Git, LRS, PgRouting, Plpgsql, PostGIS, Postgresql, RTM,
-        Railway, Topology'
-    - date: ''
+      - '**Technologies**: GIS, Git, LRS, PgRouting, Plpgsql, PostGIS, Postgresql,
+        RTM, Railway, Topology'
+    - date: Data processing
       name: '[Post processing of binary linear measurement file](https://expertise.matdata.eu/\#/page/Post\%20processing\%20of\%20binary\%20linear\%20measurement\%20file)'
       highlights:
       - A measurement train contains many measurement systems that collect a lot of
@@ -448,16 +465,17 @@ cv:
         system such as a database.
       - '**Roles**: Business analyst, Data analyst, Data architect, Developer, Project
         lead'
-      - '**Technologies**: Binary, ClickOnce, Git, Gitlab CI CD, Postgresql'
-    - date: ''
+      - '**Technologies**: Binary, C#, ClickOnce, Git, Gitlab CI CD, Postgresql'
+    - date: Strategy
       name: '[Product owner: enterprise GIS tooling](https://expertise.matdata.eu/\#/page/Product\%20owner\%3A\%20enterprise\%20GIS\%20tooling)'
       highlights:
       - Ensuring the proper usage of resources. Building the right things. Having
         a complete and clear roadmap.
       - '**Roles**: Data architect, Project lead, SPOC data for department of 9000
         employees, Teamlead'
-      - '**Technologies**: Jira, Oracle, PostGIS, Project management, QGIS, RTM'
-    - date: ''
+      - '**Technologies**: ESRI, Jira, Oracle, PostGIS, Project management, QGIS,
+        RTM'
+    - date: Business process
       name: '[Product owner: railway micro-topology management platform](https://expertise.matdata.eu/\#/page/Product\%20owner\%3A\%20railway\%20micro-topology\%20management\%20platform)'
       highlights:
       - The track microtopology topology is a very important data aspect for a railway
@@ -466,9 +484,9 @@ cv:
         be heard.
       - '**Roles**: Business analyst, Product owner, SPOC data for department of 9000
         employees, Teamlead'
-      - '**Technologies**: AutoCAD suite, Data centricity, Jira, LandXML, Oracle,
+      - '**Technologies**: AutoCAD suite, Data centricity, GIS, Jira, LandXML, Oracle,
         RTM, Railway, Topology'
-    - date: ''
+    - date: Strategy
       name: '[Product owner: work management system OCL](https://expertise.matdata.eu/\#/page/Product\%20owner\%3A\%20work\%20management\%20system\%20OCL)'
       highlights:
       - A work management systems allows the planning of workorders and is necessary
@@ -480,7 +498,7 @@ cv:
       - '**Roles**: Business analyst, Data analyst, Product owner, Project lead'
       - '**Technologies**: Git, Java, Oracle, Oracle Forms, Project management, Qlikview,
         SAP CATS, SAP CO, SAP PM'
-    - date: ''
+    - date: Strategy
       name: '[RCM-DX](https://expertise.matdata.eu/\#/page/RCM-DX)'
       highlights:
       - Measurement systems on the market for railway mostly use a proprietary data
@@ -488,14 +506,14 @@ cv:
         the data exchange format of linear measurements. This is an opensource project.
       - '**Roles**: Data analyst, Teamlead'
       - '**Technologies**: Binary, HDF5, RCM-DX format'
-    - date: ''
+    - date: Semantic technologies
       name: '[RailML ontology workgroup](https://expertise.matdata.eu/\#/page/RailML\%20ontology\%20workgroup)'
       highlights:
       - The workgroup aims to create an ontology for the railML data exchange format.
       - '**Roles**: Ontologist'
       - '**Technologies**: Git, Nextcloud, OWL, Protege, RDF, RTM, RailML, Railway,
         SHACL, SPARQL, Widoco'
-    - date: ''
+    - date: Business process
       name: '[Setup PMO office](https://expertise.matdata.eu/\#/page/Setup\%20PMO\%20office)'
       highlights:
       - At the time of the start of the project, project management was not done very
@@ -506,7 +524,7 @@ cv:
         also set up using the PMO system.
       - '**Roles**: Business analyst, Project lead'
       - '**Technologies**: Data centricity, Data governance, MS Project, Project management'
-    - date: ''
+    - date: Data management app
       name: '[Shelter GIS position management system](https://expertise.matdata.eu/\#/page/Shelter\%20GIS\%20position\%20management\%20system)'
       highlights:
       - A data management application in QGIS to manage the geographic location of
@@ -516,7 +534,7 @@ cv:
       - '**Roles**: Data analyst, Data architect, Developer'
       - '**Technologies**: Dbeaver, Git, ODK, Plpgsql, PostGIS, Postgresql, PowerBI,
         QGIS, Topology, WMS'
-    - date: ''
+    - date: Data processing
       name: '[Signaling topology calculation program](https://expertise.matdata.eu/\#/page/Signaling\%20topology\%20calculation\%20program)'
       highlights:
       - Having a track micro topology is a solid foundation for railway infrastructure
@@ -525,7 +543,7 @@ cv:
         and publish the resulting topology.
       - '**Roles**: Business analyst, Data architect, Developer, Project lead'
       - '**Technologies**: Git, PgRouting, PostGIS, QGIS, RTM, Railway, Topology'
-    - date: ''
+    - date: Business process
       name: '[Strategic project reporting](https://expertise.matdata.eu/\#/page/Strategic\%20project\%20reporting)'
       highlights:
       - 'A periodic relevant reporting on the status of strategic projects was requested
@@ -536,7 +554,7 @@ cv:
       - '**Roles**: Business analyst, Data architect, Developer, Project lead'
       - '**Technologies**: Dbeaver, MS Project, PMO, Postgresql, Project management,
         Qlikview, Sharepoint'
-    - date: ''
+    - date: Business process
       name: '[Topologie to be](https://expertise.matdata.eu/\#/page/Topologie\%20to\%20be)'
       highlights:
       - The goal of the project was to ensure that micro topology data was available
@@ -549,7 +567,7 @@ cv:
         location. That will give a snowball effect of data centric benefits.
       - '**Roles**: Business analyst, Data architect, Project lead'
       - '**Technologies**: AutoCAD suite, Data centricity, Git, Jira, RTM, Topology'
-    - date: ''
+    - date: Data processing
       name: '[Trainannouncer](https://expertise.matdata.eu/\#/page/Trainannouncer)'
       highlights:
       - A backend system using the train detection system to announce the train number
@@ -560,9 +578,9 @@ cv:
         information for immediate action (pulling the train aside) or predictive actions
         (worn carbon of the pantograph).
       - '**Roles**: Data architect, DevOps engineer, Developer'
-      - '**Technologies**: Dbeaver, Git, Gitlab CI CD, IBM MQ, Openshift, Postgresql,
-        PowerBI, SSH, Serilog'
-    - date: ''
+      - '**Technologies**: C#, Dbeaver, Git, Gitlab CI CD, IBM MQ, Openshift, Postgresql,
+        PowerBI, Quartz, SSH, Serilog'
+    - date: Webapp
       name: '[Webapp for digital inspection](https://expertise.matdata.eu/\#/page/Webapp\%20for\%20digital\%20inspection)'
       highlights:
       - The goal of the project is to create a webapp that allows users to perform
@@ -571,10 +589,10 @@ cv:
         The user clicks a location and can look around. Features are available to
         annotate the location. AI detections and Lidar interaction is also possible.
       - '**Roles**: Business analyst, Data architect, Project lead'
-      - '**Technologies**: Angular, Dbeaver, Git, Gitlab CI CD, JSON API, Lidar, Loki,
-        Nginx, Plpgsql, PostGIS, Postgresql, Railway, Reverse proxy, SQL, Serilog,
-        WMS'
-    - date: ''
+      - '**Technologies**: Angular, C#, Dbeaver, GIS, Git, Gitlab CI CD, JSON API,
+        Lidar, Loki, Nginx, Plpgsql, PostGIS, Postgresql, Railway, Reverse proxy,
+        SQL, Serilog, WMS'
+    - date: Planningtool
       name: '[Webapp on SAP PM for workorder and ressource planning](https://expertise.matdata.eu/\#/page/Webapp\%20on\%20SAP\%20PM\%20for\%20workorder\%20and\%20ressource\%20planning)'
       highlights:
       - SAP is not a very user friendly system. The available tools to perform planning
@@ -582,8 +600,8 @@ cv:
         was designed and interfaced with SAP backend. This project is part of a "planningtools"
         program to improve the business process and optimise the use of resources.
       - '**Roles**: Data architect, Project lead'
-      - '**Technologies**: Azure, Logseq, SAP PM'
-    - date: ''
+      - '**Technologies**: Azure, C#, Logseq, SAP PM'
+    - date: Webapp
       name: '[Webapp: OCL safety sheets](https://expertise.matdata.eu/\#/page/Webapp\%3A\%20OCL\%20safety\%20sheets)'
       highlights:
       - The goal was to replace an old fashioned system with technical limitations
@@ -592,8 +610,8 @@ cv:
         sectioning information of the overhead contact line. The web application allows
         to easily query the API and print a pdf.
       - '**Roles**: Business analyst, Data architect, DevOps engineer, Developer'
-      - '**Technologies**: Angular, Git, JSON API, Openshift, Oracle Forms'
-    - date: ''
+      - '**Technologies**: Angular, C#, Git, JSON API, Openshift, Oracle Forms'
+    - date: Webapp
       name: '[Webapp: common path of several railway vehicles](https://expertise.matdata.eu/\#/page/Webapp\%3A\%20common\%20path\%20of\%20several\%20railway\%20vehicles)'
       highlights:
       - Sometimes, multiple railway vehicles are discovered with damages on the same
@@ -604,9 +622,9 @@ cv:
         detailed trainpath and a relation between the vehicle and the trains in which
         it served.
       - '**Roles**: Business analyst, Data architect, DevOps engineer, Project lead'
-      - '**Technologies**: Angular, Docker, Git, Gitlab CI CD, JSON API, Nginx, Openshift,
-        PgRouting, Topology, WMS'
-    - date: ''
+      - '**Technologies**: Angular, C#, Docker, Git, Gitlab CI CD, JSON API, Nginx,
+        Openshift, PgRouting, Topology, WMS'
+    - date: Webapp
       name: '[Webapp: train protection system](https://expertise.matdata.eu/\#/page/Webapp\%3A\%20train\%20protection\%20system)'
       highlights:
       - A (work)traindriver that comes out of a track out of service, needs to configure
@@ -618,8 +636,8 @@ cv:
         using business logic to find "the next signal" on the trainpath, returning
         multiple if applicable. The TPS inventory is also used as an opendata dataset.
       - '**Roles**: Business analyst, Data architect, DevOps engineer, Project lead'
-      - '**Technologies**: ADFS, Angular, Docker, Firewall, GNSS, Git, Gitlab CI CD,
-        JSON API, Openshift, PgRouting, PostGIS, QGIS, Reverse proxy'
+      - '**Technologies**: ADFS, Angular, C#, Docker, Firewall, GNSS, Git, Gitlab
+        CI CD, JSON API, Openshift, PgRouting, PostGIS, QGIS, Reverse proxy'
     technologies:
     - label: AI/MV
       details: '[Image recognition AI](https://expertise.matdata.eu/\#/page/Image\%20recognition\%20AI),
@@ -647,7 +665,7 @@ cv:
         [LRS](https://expertise.matdata.eu/\#/page/LRS), [QUDT](https://expertise.matdata.eu/\#/page/QUDT),
         [RCM-DX format](https://expertise.matdata.eu/\#/page/RCM-DX\%20format), [RSM](https://expertise.matdata.eu/\#/page/RSM),
         [RTM](https://expertise.matdata.eu/\#/page/RTM), [RailML](https://expertise.matdata.eu/\#/page/RailML),
-        [Topology](https://expertise.matdata.eu/\#/page/Topology), [schema/org](https://expertise.matdata.eu/\#/page/schema\%2Forg)'
+        [Topology](https://expertise.matdata.eu/\#/page/Topology)'
     - label: Data platform
       details: '[Jira](https://expertise.matdata.eu/\#/page/Jira), [Opendatasoft](https://expertise.matdata.eu/\#/page/Opendatasoft),
         [Sharepoint](https://expertise.matdata.eu/\#/page/Sharepoint)'
@@ -671,8 +689,9 @@ cv:
     - label: Frontend
       details: '[Scichart](https://expertise.matdata.eu/\#/page/Scichart), [Streamlit](https://expertise.matdata.eu/\#/page/Streamlit)'
     - label: GIS & topology
-      details: '[PgRouting](https://expertise.matdata.eu/\#/page/PgRouting), [PostGIS](https://expertise.matdata.eu/\#/page/PostGIS),
-        [QGIS](https://expertise.matdata.eu/\#/page/QGIS), [WMS](https://expertise.matdata.eu/\#/page/WMS)'
+      details: '[GIS](https://expertise.matdata.eu/\#/page/GIS), [PgRouting](https://expertise.matdata.eu/\#/page/PgRouting),
+        [PostGIS](https://expertise.matdata.eu/\#/page/PostGIS), [QGIS](https://expertise.matdata.eu/\#/page/QGIS),
+        [WMS](https://expertise.matdata.eu/\#/page/WMS)'
     - label: IaaS / Container orchestration
       details: '[Azure](https://expertise.matdata.eu/\#/page/Azure), [Kubernetes](https://expertise.matdata.eu/\#/page/Kubernetes),
         [Openshift](https://expertise.matdata.eu/\#/page/Openshift)'
@@ -697,12 +716,12 @@ cv:
       details: '[Logseq](https://expertise.matdata.eu/\#/page/Logseq), [Nextcloud](https://expertise.matdata.eu/\#/page/Nextcloud),
         [ODK](https://expertise.matdata.eu/\#/page/ODK), [OpenHAB](https://expertise.matdata.eu/\#/page/OpenHAB)'
     - label: Programming languages
-      details: '[C# /NET](https://expertise.matdata.eu/\#/page/C\%23\%20\%2FNET),
-        [Java](https://expertise.matdata.eu/\#/page/Java), [PHP](https://expertise.matdata.eu/\#/page/PHP),
-        [Plpgsql](https://expertise.matdata.eu/\#/page/Plpgsql), [Python](https://expertise.matdata.eu/\#/page/Python),
-        [SQL](https://expertise.matdata.eu/\#/page/SQL), [VBA](https://expertise.matdata.eu/\#/page/VBA)'
+      details: '[C#](https://expertise.matdata.eu/\#/page/C\%23), [Java](https://expertise.matdata.eu/\#/page/Java),
+        [PHP](https://expertise.matdata.eu/\#/page/PHP), [Plpgsql](https://expertise.matdata.eu/\#/page/Plpgsql),
+        [Python](https://expertise.matdata.eu/\#/page/Python), [SQL](https://expertise.matdata.eu/\#/page/SQL),
+        [VBA](https://expertise.matdata.eu/\#/page/VBA)'
     - label: Scheduler
-      details: '[Airflow](https://expertise.matdata.eu/\#/page/Airflow), [Quartz/NET](https://expertise.matdata.eu/\#/page/Quartz\%2FNET)'
+      details: '[Airflow](https://expertise.matdata.eu/\#/page/Airflow), [Quartz](https://expertise.matdata.eu/\#/page/Quartz)'
     - label: Semantic technologies
       details: '[Apache Jena Fuseki](https://expertise.matdata.eu/\#/page/Apache\%20Jena\%20Fuseki),
         [GeoSPARQL](https://expertise.matdata.eu/\#/page/GeoSPARQL), [GraphDB](https://expertise.matdata.eu/\#/page/GraphDB),
