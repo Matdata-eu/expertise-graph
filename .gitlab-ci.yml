@@ -65,6 +65,7 @@ pages:
     - node /opt/logseq-publish-spa/publish_spa.mjs $CI_PROJECT_DIR/public --static-directory /opt/logseq-static --directory $CI_PROJECT_DIR --theme-mode $THEME --accent-color $ACCENT_COLOR
     - mv matdata-expertise.ttl public/static/
     - mv matdata-expertise-raw.ttl public/static/
+    - mv kg-actions/matdata-expertise-shacl.ttl public/static/
     - ls cv/rendercv_output/
     - mv cv/rendercv_output/Mathias_Vanden_Auweele_CV.pdf public/static/
   artifacts:
