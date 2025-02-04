@@ -46,7 +46,7 @@ cv:
     - python3.12 ./complete-cv.py
     - rendercv render -nomd -nohtml -nopng Mathias_Vanden_Auweele_CV.yaml
   dependencies:
-    - rdf
+    - validate
   artifacts:
     paths:
       - cv/rendercv_output/
