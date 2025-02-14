@@ -8,5 +8,7 @@ has-linked-projects:: #[[Signaling topology calculation program]], #[[Product ow
 is-featured:: Yes
 during-job:: #[[Job: Project lead digitalisation linear assets]]
 
+- ![image15.gif](../assets/image15_1739539715509_0.gif)
 - ![image.png](../assets/image_1731852447426_0.png)
 - ![image.png](../assets/image_1731852473739_0.png)
+-

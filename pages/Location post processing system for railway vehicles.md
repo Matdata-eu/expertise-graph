@@ -8,5 +8,6 @@ has-linked-projects:: #Openrail, #[[Camera inspection system for OCL]], #[[Locat
 is-featured:: Yes
 during-job:: #[[Job: Project lead digitalisation linear assets]]
 
+- ![image16.gif](../assets/image16_1739539727528_0.gif)
 - ![image.png](../assets/image_1731854919666_0.png)
 - Soon to be open sourced
