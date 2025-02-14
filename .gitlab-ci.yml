@@ -91,7 +91,7 @@ upload:
         --data-binary @matdata-expertise.ttl \
         https://jena.mkwadraat.be/expertise/data
   dependencies:
-    - rdf
+    - validate
   rules:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
 
