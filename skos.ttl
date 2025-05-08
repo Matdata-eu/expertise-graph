@@ -161,6 +161,10 @@ d:category-scheduler a skos:Concept ;
     skos:inScheme d:TechniqueCategories ;
     skos:prefLabel "Scheduler" .
 
+d:category-semantic a skos:Concept ;
+    skos:inScheme d:ProjectCategories ;
+    skos:prefLabel "Semantic technologies" .
+
 d:category-semantic-technologies a skos:Concept ;
     skos:inScheme d:TechniqueCategories ;
     skos:prefLabel "Semantic technologies" .

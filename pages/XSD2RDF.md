@@ -1,7 +1,7 @@
 public:: true
 type:: [[Project]]
 description:: Creation of an opensource python library that transforms an XSD into OWL, SHACL and SKOS.
-has-category:: Semantic technologies
+has-category:: Semantic
 has-tagged-techniques:: #RDF #SHACL #Python #[[SPARQL Anything]] #SKOS #[[RML & YARRRML]] #XSD #XSLT #OWL
 has-tagged-roles:: #Developer #[[DevOps engineer]] #[[Data analyst]] 
 has-linked-projects:: #[[Telematics ontology]] 
