@@ -2,7 +2,7 @@ public:: true
 type:: [[Project]]
 description:: A data platform combining all asset data, setting the golden record and creating the foundation for a data centric landscape.
 has-category:: Data platform
-has-tagged-techniques:: #Python, #[[Data centricity]], #Railway, #Postgresql, #Dbeaver, #[[Data centricity]], #[[Data governance]], #Airflow, #[[Apache Jena Fuseki]] 
+has-tagged-techniques:: #Python, #[[Data centricity]], #Railway, #Postgresql, #Dbeaver, #[[Data centricity]], #[[Data governance]], #[[Apache Airflow]], #[[Apache Jena Fuseki]] 
 has-tagged-roles:: #[[Business analyst]], #[[Product owner]]
 has-linked-projects:: #[[Data centric strategy]], #[[Enterprise data governance model]]
 is-featured:: Yes

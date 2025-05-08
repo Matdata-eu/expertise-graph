@@ -5,3 +5,5 @@ has-duration:: 5 years
 at-company:: #EIM
 description::
 has-linked-roles:: #[[Sector representative]], #[[Company representative]]
+
+- #TSI
