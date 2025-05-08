@@ -31,6 +31,10 @@ d:category-communication a skos:Concept ;
     skos:inScheme d:TechniqueCategories ;
     skos:prefLabel "Communication" .
 
+d:category-course a skos:Concept ;
+    skos:inScheme d:ProjectCategories ;
+    skos:prefLabel "Course" .
+
 d:category-csharp-library a skos:Concept ;
     skos:inScheme d:TechniqueCategories ;
     skos:prefLabel "C# library" .
@@ -156,10 +160,6 @@ d:category-programming-languages a skos:Concept ;
 d:category-scheduler a skos:Concept ;
     skos:inScheme d:TechniqueCategories ;
     skos:prefLabel "Scheduler" .
-
-d:category-semantic a skos:Concept ;
-    skos:inScheme d:ProjectCategories ;
-    skos:prefLabel "Semantic technologies" .
 
 d:category-semantic-technologies a skos:Concept ;
     skos:inScheme d:TechniqueCategories ;

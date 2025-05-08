@@ -11,4 +11,3 @@ during-job:: #[[Job: engineer overhead contact lines]], #[[Job: Project lead dig
 - The system needed to sync data around the enterprise into a #Postgresql based data platform. It's written in #[[C#]] and uses #Quartz for scheduling. It's a very flexible setup where source data is listed in the Postgres database. Adding additional source data is as simple as adding an additional record to the table.
 - Logging is performed using #Serilog with sinks to email, #Loki and several other targets.
 - I would prefer not to have to work with a #SAS "database" again. :)
--
