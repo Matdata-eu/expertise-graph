@@ -8,4 +8,5 @@ has-linked-projects:: #[[Telematics ontology]]
 is-featured:: Yes
 during-job:: #[[Job: Independent railway data freelancer]]
 
-- LATER Add link when course has been open sourced
+- Also listed as talk: #[[TSI telematics course]]
+- Open presentation: https://matdata.eu/assets/shared/TSI-Telematics-course.pptx
