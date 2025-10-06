@@ -41,6 +41,39 @@ cv:
       position: Freelance data consultant
       location: Europe
       start_date: 2025-02
+    - company: Bane NOR
+      position: Semantic web developer
+      location: Oslo, Norway
+      start_date: 2025-02
+      highlights:
+      - Develop and implement a Digital Infrastructure Model (DIM) using semantic web technologies
+      - Data modeling, ontology development, data pipelining, DevOps, Data architect, project management assistant
+      - Data quality analysis & improvement projects
+      - Semantic technology advocate and trainer
+      - Platform tech lead and security champion
+    - company: Certifer
+      position: Inspector Energy
+      location: Brussels, Belgium
+      start_date: 2025-08
+      highlights:
+      - Perform and assist in certification of the energy systems of railway infrastructure according to the EU directives
+      - Both certification of the design and the realisation phase
+      - Both for subsystems and for interoperability constituents
+    - company: European railway agency (ERA)
+      position: Railway ontologist
+      location: Brussels, Belgium
+      start_date: 2025-02
+      end_date: 2025-12
+      highlights:
+      - Develop the railway telematics ontology (TAF/TAP TSI)
+      - Analyse and guide the improvement of the RINF applications
+    - company: Belgian federal government + NSA BE (Transurb)
+      position: Telematics expert
+      location: Brussels, Belgium
+      start_date: 2025-06
+      end_date: 2025-06
+      highlights:
+      - Teaching course on railway telematics to federal government employees
     - company: Infrabel
       position: Teamlead data centricity
       location: Brussels, Belgium
