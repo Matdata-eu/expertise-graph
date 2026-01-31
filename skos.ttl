@@ -239,3 +239,7 @@ d:category-data-and-it-role skos:prefLabel "Data & IT role" ;
 d:category-leading-roles skos:prefLabel "Leading roles" ;
 	skos:inScheme d:RoleCategories ;
 	a skos:Concept .
+
+d:category-file-format skos:prefLabel "File formats" ;
+	skos:inScheme d:TechniqueCategories ;
+	a skos:Concept .

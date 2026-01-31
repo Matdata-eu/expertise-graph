@@ -1,5 +1,5 @@
 public:: true
 type:: [[Technique]]
-self-estimated-proficiency:: [[Proficient]]
+self-estimated-proficiency:: Proficient
 is-featured:: No
-has-category:: [[File format]]
+has-category:: File format
