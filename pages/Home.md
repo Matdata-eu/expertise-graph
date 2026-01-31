@@ -15,20 +15,7 @@
   #+END_NOTE
 - The structured data of this graph is available in RDF:
 	- [As a file to be downloaded](https://expertise.matdata.eu/static/matdata-expertise.ttl)
-	- [Queryable using SPARQL](https://yasgui.matdata.eu/)
+	- [Queryable using SPARQL](https://yasgui.matdata.eu/#query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX%20rdfs%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0APREFIX%20mde%3A%20%3Chttps%3A%2F%2Fexpertise.matdata.eu%2F%23%2Fpage%2F%3E%0A%0ASELECT%20%3Fpage%20%3FprojectTitle%20%3FprojectDescription%0AWHERE%20%7B%0A%20%20%3Fpage%20a%20mde%3AProject%20%3B%0A%20%20%20%20%20%20%20%20rdfs%3Alabel%20%3FprojectTitle%20%3B%0A%20%20%20%20%20%20%20%20mde%3Ais-featured%20%3Fis_featured%20%3B%0A%20%20%20%20%20%20%20%20rdfs%3Acomment%20%3FprojectDescription%20.%0A%20%20FILTER%20(%3Fis_featured%20%3D%20true)%0A%7D&endpoint=https%3A%2F%2Fjena.matdata.eu%2Fexpertise%2Fquery&requestMethod=POST&tabTitle=Query%205&headers=%7B%7D&contentTypeConstruct=text%2Fturtle%2C*%2F*%3Bq%3D0.9&contentTypeSelect=application%2Fsparql-results%2Bjson%2C*%2F*%3Bq%3D0.9&outputFormat=Table)
+		- SPARQL endpoint: https://jena.matdata.eu/expertise/query
 	- The [SHACL shapes](https://expertise.matdata.eu/static/matdata-expertise-shacl.ttl) used to validate this graph complies with the UML diagram below:
 		- ![image.png](../assets/image_1738620165233_0.png)
-- Under construction. The following activities are not yet completed:
-	- LATER Add structured data and screenshots to not-features projects
-	  :LOGBOOK:
-	  CLOCK: [2024-11-12 Tue 13:20:46]
-	  CLOCK: [2024-11-12 Tue 14:38:46]--[2024-11-17 Sun 13:40:09] =>  119:01:23
-	  CLOCK: [2024-11-17 Sun 13:40:11]
-	  :END:
-	- I still plan to add the following features to this graph.
-		- LATER SparNatural query interface https://sparnatural.eu/
-		- LATER Add better graph visualisation, for example: https://www.semspect.de/
-		- LATER Add chatbot
-		  :LOGBOOK:
-		  CLOCK: [2024-11-12 Tue 14:36:37]--[2024-11-12 Tue 14:36:39] =>  00:00:02
-		  :END:
