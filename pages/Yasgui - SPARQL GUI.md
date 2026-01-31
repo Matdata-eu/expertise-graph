@@ -2,7 +2,7 @@ public:: true
 type:: [[Project]]
 description:: Yet Another SPARQL GUI
 has-category:: WebApp
-has-tagged-techniques:: #Node.js, #[[Web development]], #Javascript, #RDF, #Git, #[[Github actions]] 
+has-tagged-techniques::, #[[Web development]], #Javascript, #RDF, #Git, #[[Github actions]] 
 has-tagged-roles:: #Developer 
 has-linked-projects:: #[[Yasgui - SPARQL GUI]], #[[Yasgui Geo Plugin]] 
 is-featured:: Yes
