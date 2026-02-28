@@ -194,6 +194,10 @@ d:category-webservers a skos:Concept ;
     skos:inScheme d:TechniqueCategories ;
     skos:prefLabel "Webservers" .
 
+d:category-workshop a skos:Concept ;
+    skos:inScheme d:ProjectCategories ;
+    skos:prefLabel "Workshop" .
+
 d:proficiency-novice a skos:Concept ;
     skos:definition "Rigid adherence to taught rules or plans; little situational perception; no discretionary judgment" ;
     skos:inScheme d:ProficiencyLevels ;

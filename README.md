@@ -128,7 +128,7 @@ is-featured:: Yes
 has-category:: Programming languages
 ```
 
-See [kg-actions/shapes-explaination.md](kg-actions/shapes-explaination.md) for complete validation rules.
+See [kg-actions/shapes-explanation.md](kg-actions/shapes-explanation.md) for complete validation rules.
 
 ## 🔄 CI/CD Pipeline
 

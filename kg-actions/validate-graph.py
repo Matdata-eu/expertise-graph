@@ -27,5 +27,9 @@ conforms, results_graph, results_text = validate(
 # Print the validation results
 print(results_text)
 
+# Save the validation report as TTL
+results_graph.serialize(destination="validation-report.ttl", format="turtle")
+print("\nValidation report saved to validation-report.ttl")
+
 if not conforms:
     exit(1)

@@ -34,6 +34,7 @@ validate:
     paths:
       - matdata-expertise.ttl
       - matdata-expertise-raw.ttl
+      - validation-report.ttl
 
 cv:
   image: mathiasvda/rendercv-with-profile-pic

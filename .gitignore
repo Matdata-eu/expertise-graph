@@ -8,3 +8,4 @@ cv/classic2/
 matdata-expertise-raw.ttl
 matdata-expertise-cleaned.ttl
 gitlab-output/
+validation-report.ttl
