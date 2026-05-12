@@ -1,13 +1,11 @@
 public:: true
-type:: [[Project]]
-description:: Prepared and facilitated a hands-on ERA workshop on RINF data provision, translating ontology and validation requirements into practical guidance for IMs and NREs.
-has-category:: Workshop
-has-tagged-techniques:: #[[ERA ontology]], #[[RINF]], #SHACL, #RDF, #SPARQL, #[[Slidev]], #[[GitHub]]
-has-tagged-roles:: #[[Independent expert]], #[[Facilitator]], #[[Data architect]]
-has-linked-projects:: #[[raillML to ERA]]
+type:: [[Talk]]
+format:: Workshop
+audience-size:: 40
 is-featured:: Yes
-during-job:: #[[Job: ERA independent expert Safety & Telematics]]
 external-link:: https://github.com/Matdata-eu/slides-era-rinf-data-provisioning/
+year:: 2026
+during-job:: #[[Job: ERA independent expert Safety & Telematics]]
 
 - Workshop goals (from ERA contract ToR):
 	- Clarify RINF expectations, rules, and validation logic.
