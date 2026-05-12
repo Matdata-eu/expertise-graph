@@ -7,7 +7,7 @@ has-tagged-roles:: #[[Independent expert]], #Developer, #[[Data architect]]
 has-linked-projects:: #[[Workshop RINF data provisioning]]
 is-featured:: Yes
 during-job:: #[[Job: ERA independent expert Safety & Telematics]]
-external-link:: https://github.com/Matdata-eu/raillML-to-ERA
+external-link:: https://github.com/Matdata-eu/railML-to-ERA
 
 - Created a workshop-oriented conversion pipeline:
 	- `01-prep`: railML XML to RDF (SPARQL Anything)

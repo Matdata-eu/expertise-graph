@@ -58,8 +58,8 @@ cv:
       location: Valenciennes, France
       start_date: 2026-01
       highlights:
-      - Providing expertise to the European Union Agency for Railways 
-        (ERA) in the field of Safety and Telematics
+      - Providing expertise to the European Union Agency for Railways (ERA) in the
+        field of Safety and Telematics
       - Giving workshops about and developing the ERA ontology
       - Assisting with management meetings between ERA and member states
     - company: Certifer
@@ -719,13 +719,6 @@ cv:
       - '**Roles**: Business analyst, Data architect, DevOps engineer, Project lead'
       - '**Technologies**: ADFS, Angular, C#, Docker, Firewall, GNSS, Git, Gitlab
         CI CD, JSON API, Openshift, PgRouting, PostGIS, QGIS, Reverse proxy'
-    - date: Workshop
-      name: '[Workshop RINF data provisioning](https://expertise.matdata.eu/\#/page/Workshop\%20RINF\%20data\%20provisioning)'
-      highlights:
-      - Prepared and facilitated a hands-on ERA workshop on RINF data provision, translating
-        ontology and validation requirements into practical guidance for IMs and NREs.
-      - '**Roles**: Data architect, Facilitator, Independent expert'
-      - '**Technologies**: ERA ontology, GitHub, RDF, RINF, SHACL, SPARQL, Slidev'
     - date: Semantic technologies
       name: '[XSD2RDF](https://expertise.matdata.eu/\#/page/XSD2RDF)'
       highlights:
