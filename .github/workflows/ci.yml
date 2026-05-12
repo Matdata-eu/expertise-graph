@@ -100,6 +100,7 @@ jobs:
           ACCENT_COLOR: ${{ vars.ACCENT_COLOR }}
         run: |
           mkdir -p public
+          mkdir -p public/static
           docker run --rm \
             -v "$GITHUB_WORKSPACE:/workspace" \
             --entrypoint /bin/sh \
