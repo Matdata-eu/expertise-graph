@@ -9,15 +9,14 @@ jobs:
   rdf:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - name: Export Logseq to RDF
-        # logseq-rdf-export runs inside Docker so it won't inherit CI env vars;
-        # no need to unset CI as was required in GitLab CI.
-        run: |
-          docker run --rm \
-            -v "$GITHUB_WORKSPACE:/workspace" \
-            mathiasvda/logseq-rdf-export \
-            logseq-rdf-export matdata-expertise-raw.ttl --directory /workspace
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Export graph as RDF
+        uses: logseq/rdf-export@v0.2.1
+        with:
+            rdfFile: matdata-expertise-raw.ttl
+
       - uses: actions/upload-artifact@v4
         with:
           name: rdf-export
