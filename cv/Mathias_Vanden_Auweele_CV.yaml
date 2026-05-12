@@ -46,8 +46,10 @@ cv:
       location: Oslo, Norway
       start_date: 2025-02
       highlights:
-      - Develop and implement a Digital Infrastructure Model (DIM) using semantic web technologies
-      - Data modeling, ontology development, data pipelining, DevOps, Data architect, project management assistant
+      - Develop and implement a Digital Infrastructure Model (DIM) using semantic
+        web technologies
+      - Data modeling, ontology development, data pipelining, DevOps, Data architect,
+        project management assistant
       - Data quality analysis & improvement projects
       - Semantic technology advocate and trainer
       - Platform tech lead and security champion
@@ -56,7 +58,8 @@ cv:
       location: Brussels, Belgium
       start_date: 2025-08
       highlights:
-      - Perform and assist in certification of the energy systems of railway infrastructure according to the EU directives
+      - Perform and assist in certification of the energy systems of railway infrastructure
+        according to the EU directives
       - Both certification of the design and the realisation phase
       - Both for subsystems and for interoperability constituents
     - company: European railway agency (ERA) with CogniZone
@@ -134,8 +137,8 @@ cv:
       - A data platform combining all asset data, setting the golden record and creating
         the foundation for a data centric landscape.
       - '**Roles**: Business analyst, Product owner'
-      - '**Technologies**: Airflow, Apache Jena Fuseki, Data centricity, Data governance,
-        Dbeaver, Postgresql, Python, Railway'
+      - '**Technologies**: Apache Airflow, Apache Jena Fuseki, Data centricity, Data
+        governance, Dbeaver, Postgresql, Python, Railway'
     - date: Image processing
       name: '[Asset recognition on images from measurement train](https://expertise.matdata.eu/\#/page/Asset\%20recognition\%20on\%20images\%20from\%20measurement\%20train)'
       highlights:
@@ -152,8 +155,8 @@ cv:
       - A backend system to automate data transfers from several databases. Using
         several techniques such as delta transfer or ID based copying.
       - '**Roles**: Data analyst, Data architect, DevOps engineer, Developer'
-      - '**Technologies**: Apache nifi, C#, Dbeaver, Git, Gitlab CI CD, Kerberos,
-        Loki, MSSQL, Openshift, Oracle, Postgresql, Quartz, SAP HANA BIQ, SAS, Serilog'
+      - '**Technologies**: C#, Dbeaver, Git, Gitlab CI CD, Kerberos, Loki, MSSQL,
+        Openshift, Oracle, Postgresql, Quartz, SAP HANA BIQ, SAS, Serilog'
     - date: Measurement system
       name: '[Camera inspection system for OCL](https://expertise.matdata.eu/\#/page/Camera\%20inspection\%20system\%20for\%20OCL)'
       highlights:
@@ -247,9 +250,21 @@ cv:
         finds the differences between two pdf revisions.
       - '**Roles**: Data analyst, Data architect, DevOps engineer, Developer, Project
         lead'
-      - '**Technologies**: ADFS, Airflow, C#, Dbeaver, Devcontainers, Git, Gitlab
-        CI CD, Jira, MS Graph, OpenCV, Openshift, Postgresql, Python, Quartz, S3,
-        Serilog'
+      - '**Technologies**: ADFS, Apache Airflow, C#, Dbeaver, Devcontainers, Git,
+        Gitlab CI CD, Jira, MS Graph, OpenCV, Openshift, Postgresql, Python, Quartz,
+        S3, Serilog'
+    - date: Semantic technologies
+      name: '[Digital Infrastructure Model Norway](https://expertise.matdata.eu/\#/page/Digital\%20Infrastructure\%20Model\%20Norway)'
+      highlights:
+      - The project has as goal to build a knowledge graph of the railway infrastructure
+        of Norway and generate railML v3.3 files for use cases such as RunTime Calculation
+        (RTCI) and Runtime Simulation (RSIM)
+      - '**Roles**: Data analyst, Data architect, DevOps engineer, Developer, Ontologist,
+        Security Champion'
+      - '**Technologies**: Apache Airflow, Azure, Data governance, ESRI, GIS, GeoPackage,
+        GeoSPARQL, Github actions, Grafana, Kubernetes, Kustomize, OAuth, OpenTNF,
+        Project management, Prometheus, Python, QGIS, RDF, RTM, RailML, SHACL, SKOS,
+        SPARQL Anything, SSH, Topology'
     - date: Semantic technologies
       name: '[ERA RINF Chatbot](https://expertise.matdata.eu/\#/page/ERA\%20RINF\%20Chatbot)'
       highlights:
@@ -546,6 +561,16 @@ cv:
       - '**Roles**: Ontologist'
       - '**Technologies**: Git, Nextcloud, OWL, Protege, RDF, RTM, RailML, Railway,
         SHACL, SPARQL, Widoco'
+    - date: Semantic technologies
+      name: '[SPARQL-Anything](https://expertise.matdata.eu/\#/page/SPARQL-Anything)'
+      highlights:
+      - SPARQL Anything is a system for querying diverse data formats (CSV, JSON,
+        XML, HTML, etc.) using SPARQL. I've contributed multiple enhancements including
+        a modernized Yasgui interface, internal caching system, XML attribute handling
+        fixes, CI/CD automation, and automatic documentation snippet generation.
+      - '**Roles**: DevOps engineer, Developer'
+      - '**Technologies**: CSV, Docker, Git, Github actions, JSON, Java, Maven, RDF,
+        SPARQL, XML'
     - date: Business process
       name: '[Setup PMO office](https://expertise.matdata.eu/\#/page/Setup\%20PMO\%20office)'
       highlights:
@@ -587,6 +612,20 @@ cv:
       - '**Roles**: Business analyst, Data architect, Developer, Project lead'
       - '**Technologies**: Dbeaver, MS Project, PMO, Postgresql, Project management,
         Qlikview, Sharepoint'
+    - date: Course
+      name: '[Telematics course](https://expertise.matdata.eu/\#/page/Telematics\%20course)'
+      highlights:
+      - Giving a full day course on railway telematics to the ministry of transport
+        of the Belgian government.
+      - '**Roles**: Teacher'
+      - '**Technologies**: NeTEx, Railway telematics, SIRI, TSI, Transmodel'
+    - date: Semantic technologies
+      name: '[Telematics ontology](https://expertise.matdata.eu/\#/page/Telematics\%20ontology)'
+      highlights:
+      - Creating a telematics ontology based on XSD schemes for TAF and TAP TSI.
+      - '**Roles**: Data analyst, DevOps engineer, Developer, Ontologist'
+      - '**Technologies**: NeTEx, OWL, Python, RDF, RML & YARRRML, Railway telematics,
+        SHACL, SIRI, SKOS, SPARQL Anything, TSI, Transmodel, XSD, XSLT'
     - date: Business process
       name: '[Topologie to be](https://expertise.matdata.eu/\#/page/Topologie\%20to\%20be)'
       highlights:
@@ -671,6 +710,35 @@ cv:
       - '**Roles**: Business analyst, Data architect, DevOps engineer, Project lead'
       - '**Technologies**: ADFS, Angular, C#, Docker, Firewall, GNSS, Git, Gitlab
         CI CD, JSON API, Openshift, PgRouting, PostGIS, QGIS, Reverse proxy'
+    - date: Workshop
+      name: '[Workshop RINF data provisioning](https://expertise.matdata.eu/\#/page/Workshop\%20RINF\%20data\%20provisioning)'
+      highlights:
+      - Prepared and facilitated a hands-on ERA workshop on RINF data provision, translating
+        ontology and validation requirements into practical guidance for IMs and NREs.
+      - '**Roles**: Data architect, Facilitator, Independent expert'
+      - '**Technologies**: ERA ontology, GitHub, RDF, RINF, SHACL, SPARQL, Slidev'
+    - date: Semantic technologies
+      name: '[XSD2RDF](https://expertise.matdata.eu/\#/page/XSD2RDF)'
+      highlights:
+      - Creation of an opensource python library that transforms an XSD into OWL,
+        SHACL and SKOS.
+      - '**Roles**: Data analyst, DevOps engineer, Developer'
+      - '**Technologies**: OWL, Python, RDF, RML & YARRRML, SHACL, SKOS, SPARQL Anything,
+        XSD, XSLT'
+    - date: Webapp
+      name: '[Yasgui - SPARQL GUI](https://expertise.matdata.eu/\#/page/Yasgui\%20-\%20SPARQL\%20GUI)'
+      highlights:
+      - Yet Another SPARQL GUI
+      - '**Roles**: Developer'
+      - '**Technologies**: Git, Github actions, Javascript, RDF, Web development'
+    - date: Data processing
+      name: '[raillML to ERA](https://expertise.matdata.eu/\#/page/raillML\%20to\%20ERA)'
+      highlights:
+      - Built a reusable pipeline to convert railML 3.2 infrastructure data into ERA
+        ontology (RINF-compatible RDF), including enrichment and SHACL validation.
+      - '**Roles**: Data architect, Developer, Independent expert'
+      - '**Technologies**: Apache Jena Fuseki, Docker, ERA ontology, GIS, Python,
+        RDF, RINF, RailML, SHACL, SPARQL, SPARQL Anything, rdflib'
     technologies:
     - label: AI/MV
       details: '[Image recognition AI](https://expertise.matdata.eu/\#/page/Image\%20recognition\%20AI),
@@ -694,11 +762,12 @@ cv:
         [Qlikview](https://expertise.matdata.eu/\#/page/Qlikview)'
     - label: Data models
       details: '[ERA ontology](https://expertise.matdata.eu/\#/page/ERA\%20ontology),
-        [Gist](https://expertise.matdata.eu/\#/page/Gist), [HDF5](https://expertise.matdata.eu/\#/page/HDF5),
-        [LRS](https://expertise.matdata.eu/\#/page/LRS), [QUDT](https://expertise.matdata.eu/\#/page/QUDT),
-        [RCM-DX format](https://expertise.matdata.eu/\#/page/RCM-DX\%20format), [RSM](https://expertise.matdata.eu/\#/page/RSM),
+        [GeoPackage](https://expertise.matdata.eu/\#/page/GeoPackage), [Gist](https://expertise.matdata.eu/\#/page/Gist),
+        [HDF5](https://expertise.matdata.eu/\#/page/HDF5), [LRS](https://expertise.matdata.eu/\#/page/LRS),
+        [QUDT](https://expertise.matdata.eu/\#/page/QUDT), [RCM-DX format](https://expertise.matdata.eu/\#/page/RCM-DX\%20format),
+        [RINF](https://expertise.matdata.eu/\#/page/RINF), [RSM](https://expertise.matdata.eu/\#/page/RSM),
         [RTM](https://expertise.matdata.eu/\#/page/RTM), [RailML](https://expertise.matdata.eu/\#/page/RailML),
-        [Topology](https://expertise.matdata.eu/\#/page/Topology)'
+        [Topology](https://expertise.matdata.eu/\#/page/Topology), [XSD](https://expertise.matdata.eu/\#/page/XSD)'
     - label: Data platform
       details: '[Jira](https://expertise.matdata.eu/\#/page/Jira), [Opendatasoft](https://expertise.matdata.eu/\#/page/Opendatasoft),
         [Sharepoint](https://expertise.matdata.eu/\#/page/Sharepoint)'
@@ -714,7 +783,7 @@ cv:
     - label: DevOps
       details: '[Devcontainers](https://expertise.matdata.eu/\#/page/Devcontainers),
         [Docker](https://expertise.matdata.eu/\#/page/Docker), [Git](https://expertise.matdata.eu/\#/page/Git),
-        [Github actions](https://expertise.matdata.eu/\#/page/Github\%20actions),
+        [GitHub](https://expertise.matdata.eu/\#/page/GitHub), [Github actions](https://expertise.matdata.eu/\#/page/Github\%20actions),
         [Gitlab CI CD](https://expertise.matdata.eu/\#/page/Gitlab\%20CI\%20CD), [Helm
         charts](https://expertise.matdata.eu/\#/page/Helm\%20charts)'
     - label: ERP
@@ -747,14 +816,17 @@ cv:
         [Ubuntu](https://expertise.matdata.eu/\#/page/Ubuntu), [Windows](https://expertise.matdata.eu/\#/page/Windows)'
     - label: Other
       details: '[Logseq](https://expertise.matdata.eu/\#/page/Logseq), [Nextcloud](https://expertise.matdata.eu/\#/page/Nextcloud),
-        [ODK](https://expertise.matdata.eu/\#/page/ODK), [OpenHAB](https://expertise.matdata.eu/\#/page/OpenHAB)'
+        [ODK](https://expertise.matdata.eu/\#/page/ODK), [OpenHAB](https://expertise.matdata.eu/\#/page/OpenHAB),
+        [Railway telematics](https://expertise.matdata.eu/\#/page/Railway\%20telematics),
+        [TSI](https://expertise.matdata.eu/\#/page/TSI), [Web development](https://expertise.matdata.eu/\#/page/Web\%20development)'
     - label: Programming languages
       details: '[C#](https://expertise.matdata.eu/\#/page/C\%23), [Java](https://expertise.matdata.eu/\#/page/Java),
         [PHP](https://expertise.matdata.eu/\#/page/PHP), [Plpgsql](https://expertise.matdata.eu/\#/page/Plpgsql),
         [Python](https://expertise.matdata.eu/\#/page/Python), [SQL](https://expertise.matdata.eu/\#/page/SQL),
         [VBA](https://expertise.matdata.eu/\#/page/VBA)'
     - label: Scheduler
-      details: '[Airflow](https://expertise.matdata.eu/\#/page/Airflow), [Quartz](https://expertise.matdata.eu/\#/page/Quartz)'
+      details: '[Apache Airflow](https://expertise.matdata.eu/\#/page/Apache\%20Airflow),
+        [Quartz](https://expertise.matdata.eu/\#/page/Quartz)'
     - label: Semantic technologies
       details: '[Apache Jena Fuseki](https://expertise.matdata.eu/\#/page/Apache\%20Jena\%20Fuseki),
         [GeoSPARQL](https://expertise.matdata.eu/\#/page/GeoSPARQL), [GraphDB](https://expertise.matdata.eu/\#/page/GraphDB),
@@ -765,13 +837,16 @@ cv:
         [SHACL Play](https://expertise.matdata.eu/\#/page/SHACL\%20Play), [SKOS](https://expertise.matdata.eu/\#/page/SKOS),
         [SOLID](https://expertise.matdata.eu/\#/page/SOLID), [SPARQL](https://expertise.matdata.eu/\#/page/SPARQL),
         [SPARQL Anything](https://expertise.matdata.eu/\#/page/SPARQL\%20Anything),
-        [Virtuoso](https://expertise.matdata.eu/\#/page/Virtuoso), [Widoco](https://expertise.matdata.eu/\#/page/Widoco)'
+        [Virtuoso](https://expertise.matdata.eu/\#/page/Virtuoso), [Widoco](https://expertise.matdata.eu/\#/page/Widoco),
+        [rdflib](https://expertise.matdata.eu/\#/page/rdflib)'
     - label: Sensors & measurements
       details: '[DSMR](https://expertise.matdata.eu/\#/page/DSMR), [GNSS](https://expertise.matdata.eu/\#/page/GNSS),
         [IMU](https://expertise.matdata.eu/\#/page/IMU), [Laser](https://expertise.matdata.eu/\#/page/Laser),
         [Laser triangulation](https://expertise.matdata.eu/\#/page/Laser\%20triangulation),
         [Lidar](https://expertise.matdata.eu/\#/page/Lidar), [NTP](https://expertise.matdata.eu/\#/page/NTP),
         [Odometry](https://expertise.matdata.eu/\#/page/Odometry)'
+    - label: Web frontend
+      details: '[Slidev](https://expertise.matdata.eu/\#/page/Slidev)'
     - label: Webservers
       details: '[Caddy](https://expertise.matdata.eu/\#/page/Caddy), [Nginx](https://expertise.matdata.eu/\#/page/Nginx)'
 design:
