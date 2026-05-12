@@ -1,6 +1,6 @@
 type:: [[Job]]
 started-on:: 2026-01
-ended-on:: tbd
+
 has-duration:: tbd
 at-company:: #ERA
 description:: Selected independent expert for ERA Telematics (CEI 2025 22), contributing rail data interoperability and infrastructure modelling expertise.
