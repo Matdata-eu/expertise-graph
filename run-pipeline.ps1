@@ -1,4 +1,4 @@
-﻿# Local GitLab CI/CD Pipeline Runner
+﻿# Local GitLab/GitHub CI/CD Pipeline Runner
 param(
     [switch]$SkipRdf,
     [switch]$SkipValidate,
@@ -116,7 +116,7 @@ try {
     Write-Host "PIPELINE COMPLETED SUCCESSFULLY" -ForegroundColor Magenta
     Write-Host "===================================================" -ForegroundColor Magenta
     Write-Host ""
-    Write-Host "You can now safely push your changes to GitLab" -ForegroundColor Green
+    Write-Host "You can now safely push your changes to GitLab/GitHub" -ForegroundColor Green
     Write-Host ""
     
 } catch {

@@ -1,0 +1,140 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  rdf:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Export Logseq to RDF
+        # logseq-rdf-export runs inside Docker so it won't inherit CI env vars;
+        # no need to unset CI as was required in GitLab CI.
+        run: |
+          docker run --rm \
+            -v "$GITHUB_WORKSPACE:/workspace" \
+            mathiasvda/logseq-rdf-export \
+            logseq-rdf-export matdata-expertise-raw.ttl --directory /workspace
+      - uses: actions/upload-artifact@v4
+        with:
+          name: rdf-export
+          path: matdata-expertise-raw.ttl
+
+  validate:
+    runs-on: ubuntu-latest
+    needs: rdf
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/download-artifact@v4
+        with:
+          name: rdf-export
+          path: .
+      - name: Install dependencies
+        run: pip install -r ./kg-actions/requirements.txt
+      - name: Clean and validate graph
+        run: |
+          python ./kg-actions/clean-graph.py
+          python ./kg-actions/validate-graph.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: validated-rdf
+          path: |
+            matdata-expertise.ttl
+            matdata-expertise-raw.ttl
+            validation-report.ttl
+
+  cv:
+    runs-on: ubuntu-latest
+    needs: validate
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          name: validated-rdf
+          path: .
+      - name: Generate CV
+        run: |
+          docker run --rm \
+            -v "$GITHUB_WORKSPACE:/workspace" \
+            --entrypoint sh \
+            mathiasvda/rendercv-with-profile-pic \
+            -c "cd /workspace/cv && pip install -r requirements.txt && python3.12 ./complete-cv.py && rendercv render -nomd -nohtml -nopng Mathias_Vanden_Auweele_CV.yaml"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: cv-output
+          path: |
+            cv/rendercv_output/
+            cv/Mathias_Vanden_Auweele_CV.yaml
+
+  pages:
+    runs-on: ubuntu-latest
+    needs: [rdf, cv, validate]
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          name: rdf-export
+          path: .
+      - uses: actions/download-artifact@v4
+        with:
+          name: validated-rdf
+          path: .
+      - uses: actions/download-artifact@v4
+        with:
+          name: cv-output
+          path: .
+      - name: Build Logseq SPA
+        env:
+          THEME: ${{ vars.THEME }}
+          ACCENT_COLOR: ${{ vars.ACCENT_COLOR }}
+        run: |
+          mkdir -p public
+          docker run --rm \
+            -v "$GITHUB_WORKSPACE:/workspace" \
+            --entrypoint /bin/sh \
+            ghcr.io/l-trump/logseq-publish-spa:alpine \
+            -c "node /opt/logseq-publish-spa/publish_spa.mjs /workspace/public --static-directory /opt/logseq-static --directory /workspace --theme-mode $THEME --accent-color $ACCENT_COLOR"
+          mv matdata-expertise.ttl public/static/
+          mv matdata-expertise-raw.ttl public/static/
+          mv kg-actions/matdata-expertise-shacl.ttl public/static/
+          mv cv/rendercv_output/Mathias_Vanden_Auweele_CV.pdf public/static/
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - uses: actions/deploy-pages@v4
+        id: deployment
+
+  upload:
+    runs-on: ubuntu-latest
+    needs: validate
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: validated-rdf
+          path: .
+      - name: Upload to Jena Fuseki
+        env:
+          JENA_AUTH: ${{ secrets.JENA_AUTH }}
+        run: |
+          curl -X POST \
+            -H "Authorization: Basic ${JENA_AUTH}" \
+            --data "update=delete%20where%20%7B%20%3Fs%20%3Fp%20%3Fo%20%7D" \
+            https://jena.mkwadraat.be/expertise/update
+          curl -X POST \
+            -H "Authorization: Basic ${JENA_AUTH}" \
+            -H "Content-Type: text/turtle" \
+            --data-binary @matdata-expertise.ttl \
+            https://jena.mkwadraat.be/expertise/data

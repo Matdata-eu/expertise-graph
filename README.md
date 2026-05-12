@@ -54,7 +54,7 @@ validate-graph.py (SHACL validation)
 2. **RDF Export**: Custom tool to convert Logseq graph to RDF/Turtle
 3. **Graph Cleaning**: Python script to normalize predicates and map categories
 4. **SHACL Validation**: Ensures data quality and consistency
-5. **CI/CD Pipeline**: GitLab CI automates the entire workflow
+5. **CI/CD Pipeline**: GitLab/GitHub CI automates the entire workflow
 6. **Publishing**: Multi-channel output (website, SPARQL, PDF CV)
 
 ## 🚀 Local Development
