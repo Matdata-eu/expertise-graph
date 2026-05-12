@@ -105,11 +105,10 @@ jobs:
             --entrypoint /bin/sh \
             ghcr.io/l-trump/logseq-publish-spa:alpine \
             -c "node /opt/logseq-publish-spa/publish_spa.mjs /workspace/public --static-directory /opt/logseq-static --directory /workspace --theme-mode $THEME --accent-color $ACCENT_COLOR"
-          sudo chown -R "$USER:$USER" public/
-          mv matdata-expertise.ttl public/static/
-          mv matdata-expertise-raw.ttl public/static/
-          mv kg-actions/matdata-expertise-shacl.ttl public/static/
-          mv cv/rendercv_output/Mathias_Vanden_Auweele_CV.pdf public/static/
+          cp matdata-expertise.ttl public/static/
+          cp matdata-expertise-raw.ttl public/static/
+          cp kg-actions/matdata-expertise-shacl.ttl public/static/
+          cp cv/rendercv_output/Mathias_Vanden_Auweele_CV.pdf public/static/
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
