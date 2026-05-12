@@ -4,7 +4,7 @@ description:: A solar/battery powered hardware system mounted in the catenary, m
 has-category:: Measurement system
 has-tagged-techniques:: #[[Raspberry Pi]], #Arduino, #C++, #[[PCB design]], #GSM, #Git 
 has-tagged-roles:: #Developer, #[[Business analyst]] 
-has-linked-projects:: 
+has-linked-projects:: #[[Contact wire thickness measurement system]] 
 is-featured:: Yes
 during-job:: #[[Job: engineer overhead contact lines]]
 

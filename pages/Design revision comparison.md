@@ -4,7 +4,7 @@ description:: Schematic designs are used in railway for the track, signaling and
 has-category:: Image processing
 has-tagged-techniques:: #OpenCV, #Devcontainers, #[[C#]], #Python, #[[Gitlab CI CD]], #Openshift, #Git, #[[MS Graph]], #ADFS, #Postgresql, #Dbeaver, #Quartz, #Jira, #S3, #Serilog, #[[Apache Airflow]]
 has-tagged-roles:: #[[Project lead]], #[[Data analyst]], #[[Data architect]], #Developer, #[[DevOps engineer]]
-has-linked-projects::
+has-linked-projects:: #[[Design process workflow]] 
 is-featured:: Yes
 during-job:: #[[Job: Teamlead data centricity]]
 

@@ -4,7 +4,6 @@ description:: A backend system to automate data transfers from several databases
 has-category:: Data processing
 has-tagged-techniques:: [[C#]], #Postgresql, #Dbeaver, #SAS, #MSSQL, #Oracle, #Kerberos, #[[SAP HANA BIQ]], #Quartz, #Serilog, #Loki, #Git, #[[Gitlab CI CD]], #Openshift
 has-tagged-roles:: #Developer, #[[Data analyst]], #[[Data architect]], #[[DevOps engineer]]
-has-linked-projects::
 is-featured:: Yes
 during-job:: #[[Job: engineer overhead contact lines]], #[[Job: Project lead digitalisation linear assets]], #[[Job: Teamlead data centricity]]
 

@@ -4,7 +4,7 @@ description:: The pantograph is that part of the traction vehicle in a train tha
 has-category:: Engineering
 has-tagged-techniques:: #Railway, #Excel, #VBA 
 has-tagged-roles:: #[[Company representative]], #[[National representative]], #[[Engineer overhead contact line]] 
-has-linked-projects::
+has-linked-projects:: #[[OCL stability design principles]]
 is-featured:: No
 during-job:: #[[Job: engineer overhead contact lines]]
 

@@ -4,7 +4,7 @@ description:: A database is mostly managed in several environments and changes a
 has-category:: Data processing
 has-tagged-techniques:: [[C#]], #Git, #Postgresql, #Dbeaver, #Quartz, #Serilog
 has-tagged-roles:: #[[Project lead]], #[[Data architect]]
-has-linked-projects::
+has-linked-projects:: #[[Linear measurement data viewer]], #[[Postgres management tools]] 
 is-featured:: No
 during-job:: #[[Job: engineer overhead contact lines]]
 

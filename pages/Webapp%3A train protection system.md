@@ -4,7 +4,7 @@ description:: A (work)traindriver that comes out of a track out of service, need
 has-category:: Webapp
 has-tagged-techniques:: #Openshift, #Git, #[[C#]], #[[JSON API]], #Angular, #GNSS, #Firewall, #[[Reverse proxy]], #Openshift, #ADFS, #PgRouting, #PostGIS, #QGIS, #Git, #Docker, #[[Gitlab CI CD]], #ADFS 
 has-tagged-roles:: #[[Project lead]], #[[DevOps engineer]], #[[Business analyst]], #[[Data architect]] 
-has-linked-projects::
+has-linked-projects:: #[[Signaling topology calculation program]], #[[OCL sectioning topology management application]]
 is-featured:: Yes
 during-job:: #[[Job: Project lead digitalisation linear assets]]
 external-link:: https://opendata.infrabel.be/explore/dataset/geo-etcs/information/?disjunctive.etcs_level&disjunctive.line_name_input

@@ -5,7 +5,7 @@ description:: A mobile app for catenary technicians for documentation lookup tha
 has-category:: Mobile app
 has-tagged-techniques:: #[[C#]], #Android, #iOS, #Git, #Fastlane
 has-tagged-roles:: #[[Business analyst]], #[[Data architect]], #[[DevOps engineer]]
-has-linked-projects::
+has-linked-projects:: #[[Mobile time registration system with NFC badges]], #[[Mobile app for geolocated technical assistance]]
 is-featured:: Yes
 during-job:: #[[Job: engineer overhead contact lines]]
 external-link:: https://apps.apple.com/be/app/infradoc/id1592342814, https://play.google.com/store/apps/details?id=be.infrabel.infradoc

@@ -4,8 +4,8 @@ description:: Energy settlement (responsible for a large part of the operational
 has-category:: Data processing
 has-tagged-techniques:: #[[Power Query]], #Excel, #[[JSON API]] 
 has-tagged-roles:: #Developer, #[[Business analyst]], #[[Data architect]] 
-has-linked-projects::
-is-featured:: Yes
+has-linked-projects:: #[[OCL maintenance KPI's]] 
+is-featured:: No
 during-job:: #[[Job: Teamlead data centricity]]
 
 - ![image.png](../assets/image_1731871285597_0.png)

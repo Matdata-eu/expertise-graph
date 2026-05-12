@@ -3,6 +3,6 @@ description:: The design office still employed a manual process for signature an
 has-category:: Business process
 has-tagged-techniques:: #Sharepoint 
 has-tagged-roles:: #Developer, #[[Data architect]], #[[Business analyst]], #[[Project lead]] 
-has-linked-projects::
+has-linked-projects:: #[[Design revision comparison]] 
 is-featured:: No
 during-job:: #[[Job: Project lead digitalisation linear assets]]

@@ -1,6 +1,6 @@
 type:: [[Job]]
 started-on:: 2025-02
-ended-on::
+ended-on:: tbd
 has-duration:: tbd
 at-company:: #[[Matdata]] 
 has-clients:: #BaneNor, #CogniZone, #ERA, #Transurb, #Certifer

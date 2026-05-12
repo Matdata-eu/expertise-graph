@@ -4,7 +4,7 @@ description:: Linear measurements used to be distribute on paper or sometimes pd
 has-category:: Desktop app
 has-tagged-techniques:: [[C#]], #Serilog, #Git, #[[Gitlab CI CD]], #ClickOnce, #Postgresql, #Dbeaver, #PostGIS, #Scichart, #Topology, #Qlikview, #Camera, #Lidar, #WMS, #Leaflet, #GPSD
 has-tagged-roles:: #[[Project lead]], #[[Business analyst]], #[[Data architect]], #[[Data analyst]], #Developer, #[[DevOps engineer]]
-has-linked-projects:: #[[Camera inspection system for OCL]], #[[Location measurement system for measurement train]], #[[Mobile app for geolocated technical assistance]], #[[Pole inventory management system]], #[[Pantograph shock detection system]], #[[Contact wire thickness measurement system]], #RCM-DX, #[[Webapp for digital inspection]], #[[Generic business rules validation system on linear measurements]]
+has-linked-projects:: #[[Camera inspection system for OCL]], #[[Location measurement system for measurement train]], #[[Mobile app for geolocated technical assistance]], #[[Pole inventory management system]], #[[Pantograph shock detection system]], #[[Contact wire thickness measurement system]], #RCM-DX, #[[Webapp for digital inspection]]
 is-featured:: Yes
 during-job:: #[[Job: engineer overhead contact lines]]
 

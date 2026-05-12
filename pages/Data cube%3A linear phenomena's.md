@@ -4,7 +4,7 @@ description:: Linear assets and linear events typically have a start and an end 
 has-category:: Data processing
 has-tagged-techniques:: [[C#]], #Qlikview, #Postgresql, #Dbeaver, #Topology
 has-tagged-roles:: #Developer, #[[Data architect]], #[[Business analyst]]
-has-linked-projects::
+has-linked-projects:: #[[Linear measurement data viewer]], #[[OCL maintenance KPI's]] 
 is-featured:: Yes
 during-job:: #[[Job: engineer overhead contact lines]]
 

@@ -4,9 +4,7 @@ description:: Very advanced home automation. The basic logic level is run by a W
 has-category:: Data platform
 has-tagged-techniques:: #OpenHAB, #Git, #MQTT, #ESP32, #NodeMCU, #PLC, #[[Gitlab CI CD]], Docker, #[[C#]], #Caddy, #Django, #DSMR, #Firewall, #[[Reverse proxy]], #Git, #Grafana, #Logseq, #Loki, #Prometheus, #NFC, #Postgresql, #Dbeaver, #Python, #SSH, #Telnet, #Arduino, #Cloudflare, #[[Raspberry Pi]], #VPN 
 has-tagged-roles:: #Developer, #[[Data architect]], #[[Product owner]], #[[Business analyst]], #[[DevOps engineer]], #[[Project lead]], #Technician
-has-linked-projects::
 is-featured:: No
-during-job::
 
 - ![image.png](../assets/image_1731855536316_0.png){:height 405, :width 736}
 - ![Screenshot_20241117_175554_openHAB.jpg](../assets/Screenshot_20241117_175554_openHAB_1731863181213_0.jpg)

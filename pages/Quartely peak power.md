@@ -6,4 +6,3 @@ has-tagged-techniques:: #Python, #DSMR, #Docker, #Postgresql, #Dbeaver, #OpenHAB
 has-tagged-roles:: #Developer
 has-linked-projects:: #[[Home automation system]]
 is-featured:: No
-during-job::

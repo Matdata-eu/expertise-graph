@@ -4,6 +4,5 @@ description:: The data about operational length of tracks and platforms was a ma
 has-category:: Data processing
 has-tagged-techniques:: #PostGIS, #Postgresql, #Dbeaver, #Topology, #PowerBI, #Plpgsql
 has-tagged-roles:: #Developer, #[[Data architect]], #[[Data analyst]], #[[SPOC data for department of 9000 employees]]
-has-linked-projects::
 is-featured:: Yes
 during-job:: #[[Job: Teamlead data centricity]]

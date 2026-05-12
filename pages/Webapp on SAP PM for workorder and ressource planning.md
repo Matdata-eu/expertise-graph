@@ -4,7 +4,7 @@ description:: SAP is not a very user friendly system. The available tools to per
 has-category:: Planningtool
 has-tagged-techniques:: #[[SAP PM]], #[[C#]], #Azure, #Logseq 
 has-tagged-roles:: #[[Project lead]], #[[Data architect]]
-has-linked-projects::
+has-linked-projects:: #[[Out of service planning consolidation system]]
 is-featured:: Yes
 during-job:: #[[Job: Teamlead data centricity]]
 

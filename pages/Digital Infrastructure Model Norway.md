@@ -4,7 +4,7 @@ description:: The project has as goal to build a knowledge graph of the railway 
 has-category:: Semantic
 has-tagged-techniques:: #RDF, #SHACL, #[[Apache Airflow]], #RailML, #RTM, #Azure, #Kubernetes, #Kustomize, #OAuth, #[[Project management]], #[[Data governance]], #QGIS, #Topology, #GeoPackage, #OpenTNF, #[[Github actions]], #GIS, #ESRI, #Prometheus, #Grafana, #SSH, #Python, #GeoSPARQL, #[[SPARQL Anything]], #SKOS
 has-tagged-roles:: #Ontologist, #[[DevOps engineer]], #[[Security Champion]], #Developer, #[[Data architect]], #[[Data analyst]] 
-has-linked-projects::
+has-linked-projects:: #Asset360, #[[ERA ontology]], #[[RailML ontology workgroup]] 
 is-featured:: Yes
 during-job:: #[[Job: Independent railway data freelancer]]
 

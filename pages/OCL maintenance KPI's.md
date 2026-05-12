@@ -4,7 +4,7 @@ description:: The goal of the project was to define a balanced set of work relat
 has-category:: Business process
 has-tagged-techniques:: #Qlikview, #Postgresql, #Dbeaver, #Oracle, #SQL
 has-tagged-roles:: #Developer, #[[Business analyst]]
-has-linked-projects::
+has-linked-projects:: #[[Product owner: work management system OCL]], #[[Model for FTE calculation of OCL technicians]]
 is-featured:: No
 during-job:: #[[Job: engineer overhead contact lines]]
 
