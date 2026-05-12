@@ -105,6 +105,7 @@ jobs:
             --entrypoint /bin/sh \
             ghcr.io/l-trump/logseq-publish-spa:alpine \
             -c "node /opt/logseq-publish-spa/publish_spa.mjs /workspace/public --static-directory /opt/logseq-static --directory /workspace --theme-mode $THEME --accent-color $ACCENT_COLOR"
+          sudo chown -R "$USER:$USER" public/
           mv matdata-expertise.ttl public/static/
           mv matdata-expertise-raw.ttl public/static/
           mv kg-actions/matdata-expertise-shacl.ttl public/static/
