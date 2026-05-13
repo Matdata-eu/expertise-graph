@@ -106,6 +106,7 @@ jobs:
             ghcr.io/l-trump/logseq-publish-spa:alpine \
             -c "node /opt/logseq-publish-spa/publish_spa.mjs /workspace/public --static-directory /opt/logseq-static --directory /workspace --theme-mode $THEME --accent-color $ACCENT_COLOR"
           mkdir -p public/static
+          ls -R
           cp matdata-expertise.ttl public/static/
           cp matdata-expertise-raw.ttl public/static/
           cp kg-actions/matdata-expertise-shacl.ttl public/static/
