@@ -95,18 +95,12 @@ jobs:
           name: cv-output
           path: .
       - name: Build Logseq SPA
-        env:
-          THEME: ${{ vars.THEME }}
-          ACCENT_COLOR: ${{ vars.ACCENT_COLOR }}
+        uses: logseq/publish-spa@v0.3.1
+        with:
+          output-directory: public
+      - name: Copy static assets
         run: |
-          mkdir -p public
-          docker run --rm \
-            -v "$GITHUB_WORKSPACE:/workspace" \
-            --entrypoint /bin/sh \
-            ghcr.io/l-trump/logseq-publish-spa:alpine \
-            -c "node /opt/logseq-publish-spa/publish_spa.mjs /workspace/public --static-directory /opt/logseq-static --directory /workspace --theme-mode $THEME --accent-color $ACCENT_COLOR"
           mkdir -p public/static
-          ls -R
           cp matdata-expertise.ttl public/static/
           cp matdata-expertise-raw.ttl public/static/
           cp kg-actions/matdata-expertise-shacl.ttl public/static/
