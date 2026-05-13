@@ -100,12 +100,12 @@ jobs:
           ACCENT_COLOR: ${{ vars.ACCENT_COLOR }}
         run: |
           mkdir -p public
-          mkdir -p public/static
           docker run --rm \
             -v "$GITHUB_WORKSPACE:/workspace" \
             --entrypoint /bin/sh \
             ghcr.io/l-trump/logseq-publish-spa:alpine \
             -c "node /opt/logseq-publish-spa/publish_spa.mjs /workspace/public --static-directory /opt/logseq-static --directory /workspace --theme-mode $THEME --accent-color $ACCENT_COLOR"
+          mkdir -p public/static
           cp matdata-expertise.ttl public/static/
           cp matdata-expertise-raw.ttl public/static/
           cp kg-actions/matdata-expertise-shacl.ttl public/static/
